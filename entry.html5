@@ -1,0 +1,15 @@
+<article>
+$for(include-before)$
+$include-before$
+$endfor$
+$if(title)$
+<h2>$title$</h2>
+$endif$
+$if(date)$
+<h3 class="date"><time datetime="$date$">$date$</time></h3>
+$endif$
+$body$
+$for(include-after)$
+$include-after$
+$endfor$
+</article>

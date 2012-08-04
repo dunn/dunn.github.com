@@ -1,0 +1,21 @@
+Project: [Fountain CLM](https://github.com/grumble/fountain-clm)
+----------------------------------------------------------------
+
+4 June 2012
+
+[Codeless Language
+Modules](http://www.barebones.com/support/develop/clm.html) (CLMs) are
+plugins for
+[TextWrangler](http://www.barebones.com/products/TextWrangler/) and
+[BBEdit](http://www.barebones.com/products/bbedit/) that add syntax
+highlighting, code folding, and other capabilities for languages not
+natively supported by these programs.
+
+[Fountain](http://fountain.io/) is a plain-text syntax for writing
+screenplays. (The [Fountain syntax](http://fountain.io/syntax) is
+similar to that of
+[Markdown](http://daringfireball.net/projects/markdown/), a
+general-purpose syntax.) Fountain files are designed to be very
+readable, but they can be easily converted to other formats (like PDF
+and FDX) using [Fountain-friendly
+applications](http://fountain.io/apps).
