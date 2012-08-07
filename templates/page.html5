@@ -29,7 +29,9 @@ $endif$
 <aside>
 <!-- http://commons.wikimedia.org/wiki/File:Buffalo_jump.jpg -->
 <object id="buffalo-top" data="ucsb/img/baruffio.svg" type="image/svg+xml"></object>
-</aside><article>
+</aside>
+
+<article>
 $for(include-before)$
 $include-before$
 $endfor$
