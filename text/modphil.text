@@ -1,0 +1,17 @@
+% Project: [*Modern Philosophy* in plain text](https://github.com/grumble/modernphilosophy)
+% 
+% 2012-05-28
+
+*Modern Philosophy* is a free textbook created by [Walter
+Ott](https://filebox.vt.edu/users/ottw/ott.htm). It combines
+public-domain primary sources with supplementary material and study
+questions. Everything not in the public domain is licensed under the
+[Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported
+License](http://creativecommons.org/licenses/by-nc-sa/3.0/).
+
+This modified version of the text is written in
+[Markdown](http://daringfireball.net/projects/markdown/). Markdown is a
+plain-text syntax that allows for easy conversion to other file formats.
+Using [pandoc](http://johnmacfarlane.net/pandoc/), *Modern Philosophy*
+can be easily converted to HTML, PDF, EPUB, and [many other
+formats](http://johnmacfarlane.net/pandoc/README.html#options).

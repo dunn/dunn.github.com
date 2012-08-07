@@ -18,7 +18,7 @@ photography" />
 <header>
 <hgroup>
 $if(title)$
-<h2>$title$</h2>
+<h1>$title$</h1>
 $endif$
 $if(date)$
 <h2 class="date"><time datetime="$date$">$date$</time></h2>
