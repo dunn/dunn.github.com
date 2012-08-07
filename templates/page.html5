@@ -16,16 +16,11 @@ photography" />
 </head>
 <body>
 
-<header>
-<hgroup>
 $if(title)$
+<header>
 <h1>$title$</h1>
-$endif$
-$if(date)$
-<h2 class="date"><time datetime="$date$">$date$</time></h2>
-$endif$
-</hgroup>
 </header>
+$endif$
 
 <aside>
 <!-- http://commons.wikimedia.org/wiki/File:Buffalo_jump.jpg -->
@@ -40,8 +35,12 @@ $body$
 $for(include-after)$
 $include-after$
 $endfor$
-<footer><p><a title="Main page" href="index.html">Go to the main
-page</a></p></footer>
+
+<footer>
+<p>$if(date)$Posted on <time datetime="$date$">$date$</time>.  
+$endif$<a title="Main page" href="index.html">Go to the main
+page</a></p>
+</footer>
 </article>
 
 <aside>

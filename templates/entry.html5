@@ -1,17 +1,13 @@
 <article>
-$for(include-before)$
-$include-before$
-$endfor$
 $if(title)$
 <header>
 <h2>$title$</h2>
-$endif$
-$if(date)$
-<p><time datetime="$date$">$date$</time></p>
 </header>
 $endif$
 $body$
-$for(include-after)$
-$include-after$
-$endfor$
+<footer><p>
+$if(date)$
+Posted on <time datetime="$date$">$date$</time>.
+$endif$
+</p></footer>
 </article>
