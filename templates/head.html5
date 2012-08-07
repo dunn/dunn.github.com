@@ -3,14 +3,14 @@
 <head>
 <meta http-equiv="content-type" content="text/html; charset=utf-8" />
 <title>Alex Dunn</title>
-<meta name="viewport" content="width=device-width" />
-<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-<!-- <link rel="stylesheet" href="stylesheets/style.css" type="text/css" /> -->
 
+<meta name="viewport" content="width=device-width" />
 <meta name="description" content="The personal website of Alexander
 Dunn" />
 <meta name="keywords" content="baruffio, buffalo, markdown, fountain-clm,
 photography" />
+
+<link rel="stylesheet" href="stylesheets/style.css" type="text/css" />
 
 </head>
 <body>
