@@ -15,3 +15,5 @@ plain-text syntax that allows for easy conversion to other file formats.
 Using [pandoc](http://johnmacfarlane.net/pandoc/), *Modern Philosophy*
 can be easily converted to HTML, PDF, EPUB, and [many other
 formats](http://johnmacfarlane.net/pandoc/README.html#options).
+
+.PERMALINK  

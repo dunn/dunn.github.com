@@ -3,10 +3,12 @@ $for(include-before)$
 $include-before$
 $endfor$
 $if(title)$
+<header>
 <h2>$title$</h2>
 $endif$
 $if(date)$
-<h3 class="date"><time datetime="$date$">$date$</time></h3>
+<p><time datetime="$date$">$date$</time></p>
+</header>
 $endif$
 $body$
 $for(include-after)$
