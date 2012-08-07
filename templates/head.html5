@@ -18,11 +18,11 @@ photography" />
 <header>
 <hgroup>
 <h1>Alex Dunn</h1>
-<h2>has never been crushed by a buffalo</h2>
+<h2>has been crushed by a buffalo.</h2>
 </hgroup>
 </header>
 
 <aside>
 <!-- http://commons.wikimedia.org/wiki/File:Buffalo_jump.jpg -->
-<object id="buffalo-top" data="ucsb/img/baruffio.svg" type="image/svg+xml"></object>
+<object id="buffalo-top" data="img/baruffio.svg" type="image/svg+xml"></object>
 </aside>
