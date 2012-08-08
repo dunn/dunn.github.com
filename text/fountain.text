@@ -16,6 +16,5 @@ similar to that of
 [Markdown](http://daringfireball.net/projects/markdown/), a
 general-purpose syntax.) Fountain files are designed to be very
 readable, but they can be easily converted to other formats (like PDF
-and FDX) using [Fountain-friendly
+and FDX) using [Fountain-compatible
 applications](http://fountain.io/apps).
-
