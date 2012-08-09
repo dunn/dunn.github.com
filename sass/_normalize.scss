@@ -201,24 +201,6 @@ pre {
     word-wrap: break-word;
 }
 
-/*
- * Addresses CSS quotes not supported in IE6/7.
- */
-
-q {
-    quotes: none;
-}
-
-/*
- * Addresses `quotes` property not supported in S4.
- */
-
-q:before,
-q:after {
-    content: '';
-    content: none;
-}
-
 small {
     font-size: 75%;
 }

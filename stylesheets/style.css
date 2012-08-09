@@ -213,25 +213,7 @@ pre {
   word-wrap: break-word;
 }
 
-/*
- * Addresses CSS quotes not supported in IE6/7.
- */
-/* line 208, ../sass/_normalize.scss */
-q {
-  quotes: none;
-}
-
-/*
- * Addresses `quotes` property not supported in S4.
- */
-/* line 217, ../sass/_normalize.scss */
-q:before,
-q:after {
-  content: '';
-  content: none;
-}
-
-/* line 222, ../sass/_normalize.scss */
+/* line 204, ../sass/_normalize.scss */
 small {
   font-size: 75%;
 }
@@ -240,7 +222,7 @@ small {
  * Prevents `sub` and `sup` affecting `line-height` in all browsers.
  * gist.github.com/413930
  */
-/* line 232, ../sass/_normalize.scss */
+/* line 214, ../sass/_normalize.scss */
 sub,
 sup {
   font-size: 75%;
@@ -249,12 +231,12 @@ sup {
   vertical-align: baseline;
 }
 
-/* line 239, ../sass/_normalize.scss */
+/* line 221, ../sass/_normalize.scss */
 sup {
   top: -0.5em;
 }
 
-/* line 243, ../sass/_normalize.scss */
+/* line 225, ../sass/_normalize.scss */
 sub {
   bottom: -0.25em;
 }
@@ -265,7 +247,7 @@ sub {
 /*
  * Addresses margins set differently in IE6/7.
  */
-/* line 258, ../sass/_normalize.scss */
+/* line 240, ../sass/_normalize.scss */
 dl,
 menu,
 ol,
@@ -273,7 +255,7 @@ ul {
   margin: 1em 0;
 }
 
-/* line 262, ../sass/_normalize.scss */
+/* line 244, ../sass/_normalize.scss */
 dd {
   margin: 0 0 0 40px;
 }
@@ -281,7 +263,7 @@ dd {
 /*
  * Addresses paddings set differently in IE6/7.
  */
-/* line 272, ../sass/_normalize.scss */
+/* line 254, ../sass/_normalize.scss */
 menu,
 ol,
 ul {
@@ -291,7 +273,7 @@ ul {
 /*
  * Corrects list images handled incorrectly in IE7.
  */
-/* line 281, ../sass/_normalize.scss */
+/* line 263, ../sass/_normalize.scss */
 nav ul,
 nav ol {
   list-style: none;
@@ -306,7 +288,7 @@ nav ol {
  * 2. Improves image quality when scaled in IE7.
  *    code.flickr.com/blog/2008/11/12/on-ui-quality-the-little-things-client-side-image-resizing/
  */
-/* line 296, ../sass/_normalize.scss */
+/* line 278, ../sass/_normalize.scss */
 img {
   border: 0;
   /* 1 */
@@ -317,7 +299,7 @@ img {
 /*
  * Corrects overflow displayed oddly in IE9.
  */
-/* line 305, ../sass/_normalize.scss */
+/* line 287, ../sass/_normalize.scss */
 svg:not(:root) {
   overflow: hidden;
 }
@@ -328,7 +310,7 @@ svg:not(:root) {
 /*
  * Addresses margin not present in IE6/7/8/9, S5, O11.
  */
-/* line 317, ../sass/_normalize.scss */
+/* line 299, ../sass/_normalize.scss */
 figure {
   margin: 0;
 }
