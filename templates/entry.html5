@@ -5,9 +5,9 @@ $if(title)$
 </header>
 $endif$
 $body$
-<footer><p>
 $if(date)$
-Posted on <time datetime="$date$">$date$</time>.
-$endif$
+<footer><p>
+Posted $if(author)$by $author$ $endif$on <time datetime="$date$">$date$</time>.
 </p></footer>
+$endif$
 </article>

@@ -36,10 +36,12 @@ $for(include-after)$
 $include-after$
 $endfor$
 
-<footer>
-<p>$if(date)$Posted on <time datetime="$date$">$date$</time>.  
+<footer><p>
+$if(date)$
+Posted $if(author)$by $author$
+$endif$on <time datetime="$date$">$date$</time>.  
 $endif$<a title="Main page" href="index.html">Go to the main
-page</a></p>
+page.</a></p>
 </footer>
 </article>
 
