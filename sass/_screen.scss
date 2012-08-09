@@ -13,7 +13,7 @@ $link-visited: #7500eb;
 // ==============
 // DIMENSIONS
 // ==============
-$box-border: .25em;
+$box-border: .125em;
 //
 $base-width: 55em;
 $break1-width: 58em;
@@ -198,6 +198,23 @@ object {
 img {
   height: auto;
   border: $box-border solid black;
+}
+
+/* ===========================
+/* ARTICLE
+/* ======================== */
+
+article + article {
+  padding-top: 1em;
+  border-top: $box-border solid black;
+}
+
+/* ===========================
+/* FOOTER
+/* ======================== */
+
+footer {
+  font-style: italic;
 }
 
 /* end screen styles */

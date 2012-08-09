@@ -368,7 +368,24 @@ figure {
   /* line 198, ../sass/_screen.scss */
   img {
     height: auto;
-    border: 0.25em solid black;
+    border: 0.125em solid black;
+  }
+
+  /* ===========================
+  /* ARTICLE
+  /* ======================== */
+  /* line 207, ../sass/_screen.scss */
+  article + article {
+    padding-top: 1em;
+    border-top: 0.125em solid black;
+  }
+
+  /* ===========================
+  /* FOOTER
+  /* ======================== */
+  /* line 216, ../sass/_screen.scss */
+  footer {
+    font-style: italic;
   }
 
   /* end screen styles */
