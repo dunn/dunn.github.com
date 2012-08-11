@@ -1,4 +1,3 @@
-@import url(http://fonts.googleapis.com/css?family=Fredoka+One);
 @import url(http://fonts.googleapis.com/css?family=Bitter:400,700,400italic);
 /* stylesheet for baruffio.com
 /* written by Alex Dunn in 2012
@@ -14,7 +13,7 @@
 /*
  * Corrects `block` display not defined in IE6/7/8/9 & FF3.
  */
-/* line 21, ../sass/_normalize.scss */
+/* line 21, /Users/alex/Sites/baruffio/sass/_normalize.scss */
 article,
 aside,
 details,
@@ -33,7 +32,7 @@ summary {
  * Addresses styling for `hidden` attribute not present in IE7/8/9, FF3, S4.
  * Known issue: no IE6 support.
  */
-/* line 30, ../sass/_normalize.scss */
+/* line 30, /Users/alex/Sites/baruffio/sass/_normalize.scss */
 [hidden] {
   display: none;
 }
@@ -47,7 +46,7 @@ summary {
  * 2. Prevents iOS text size adjust after orientation change, without disabling
  *    user zoom.
  */
-/* line 45, ../sass/_normalize.scss */
+/* line 45, /Users/alex/Sites/baruffio/sass/_normalize.scss */
 html {
   font-size: 140%;
   /* 1 */
@@ -61,7 +60,7 @@ html {
  * Addresses `font-family` inconsistency between `textarea` and other form
  * elements.
  */
-/* line 60, ../sass/_normalize.scss */
+/* line 60, /Users/alex/Sites/baruffio/sass/_normalize.scss */
 html,
 button,
 input,
@@ -73,7 +72,7 @@ textarea {
 /*
  * Addresses margins handled incorrectly in IE6/7.
  */
-/* line 68, ../sass/_normalize.scss */
+/* line 68, /Users/alex/Sites/baruffio/sass/_normalize.scss */
 body {
   margin: 0;
 }
@@ -84,7 +83,7 @@ body {
 /*
  * Addresses `outline` inconsistency between Chrome and other browsers.
  */
-/* line 80, ../sass/_normalize.scss */
+/* line 80, /Users/alex/Sites/baruffio/sass/_normalize.scss */
 a:focus {
   outline: thin dotted;
 }
@@ -93,7 +92,7 @@ a:focus {
  * Improves readability when focused and also mouse hovered in all browsers.
  * people.opera.com/patrickl/experiments/keyboard/test
  */
-/* line 90, ../sass/_normalize.scss */
+/* line 90, /Users/alex/Sites/baruffio/sass/_normalize.scss */
 a:active,
 a:hover {
   outline: 0;
@@ -106,37 +105,37 @@ a:hover {
  * Addresses font sizes and margins set differently in IE6/7.
  * Addresses font sizes within `section` and `article` in FF4+, Chrome, S5.
  */
-/* line 103, ../sass/_normalize.scss */
+/* line 103, /Users/alex/Sites/baruffio/sass/_normalize.scss */
 h1 {
   font-size: 2em;
   margin: 0.67em 0;
 }
 
-/* line 108, ../sass/_normalize.scss */
+/* line 108, /Users/alex/Sites/baruffio/sass/_normalize.scss */
 h2 {
   font-size: 1.5em;
   margin: 0.83em 0;
 }
 
-/* line 113, ../sass/_normalize.scss */
+/* line 113, /Users/alex/Sites/baruffio/sass/_normalize.scss */
 h3 {
   font-size: 1.17em;
   margin: 1em 0;
 }
 
-/* line 118, ../sass/_normalize.scss */
+/* line 118, /Users/alex/Sites/baruffio/sass/_normalize.scss */
 h4 {
   font-size: 1em;
   margin: 1.33em 0;
 }
 
-/* line 123, ../sass/_normalize.scss */
+/* line 123, /Users/alex/Sites/baruffio/sass/_normalize.scss */
 h5 {
   font-size: 0.83em;
   margin: 1.67em 0;
 }
 
-/* line 128, ../sass/_normalize.scss */
+/* line 128, /Users/alex/Sites/baruffio/sass/_normalize.scss */
 h6 {
   font-size: 0.75em;
   margin: 2.33em 0;
@@ -145,7 +144,7 @@ h6 {
 /*
  * Addresses styling not present in IE7/8/9, S5, Chrome.
  */
-/* line 137, ../sass/_normalize.scss */
+/* line 137, /Users/alex/Sites/baruffio/sass/_normalize.scss */
 abbr[title] {
   border-bottom: 1px dotted;
 }
@@ -153,13 +152,13 @@ abbr[title] {
 /*
  * Addresses style set to `bolder` in FF3+, S4/5, Chrome.
  */
-/* line 146, ../sass/_normalize.scss */
+/* line 146, /Users/alex/Sites/baruffio/sass/_normalize.scss */
 b,
 strong {
   font-weight: bold;
 }
 
-/* line 150, ../sass/_normalize.scss */
+/* line 150, /Users/alex/Sites/baruffio/sass/_normalize.scss */
 blockquote {
   margin: 1em 40px;
 }
@@ -167,7 +166,7 @@ blockquote {
 /*
  * Addresses styling not present in S5, Chrome.
  */
-/* line 158, ../sass/_normalize.scss */
+/* line 158, /Users/alex/Sites/baruffio/sass/_normalize.scss */
 dfn {
   font-style: italic;
 }
@@ -175,7 +174,7 @@ dfn {
 /*
  * Addresses styling not present in IE6/7/8/9.
  */
-/* line 166, ../sass/_normalize.scss */
+/* line 166, /Users/alex/Sites/baruffio/sass/_normalize.scss */
 mark {
   background: #ff0;
   color: #000;
@@ -184,7 +183,7 @@ mark {
 /*
  * Addresses margins set differently in IE6/7.
  */
-/* line 176, ../sass/_normalize.scss */
+/* line 176, /Users/alex/Sites/baruffio/sass/_normalize.scss */
 p,
 pre {
   margin: 1em 0;
@@ -194,7 +193,7 @@ pre {
  * Corrects font family set oddly in IE6, S4/5, Chrome.
  * en.wikipedia.org/wiki/User:Davidgothberg/Test59
  */
-/* line 188, ../sass/_normalize.scss */
+/* line 188, /Users/alex/Sites/baruffio/sass/_normalize.scss */
 code,
 kbd,
 pre,
@@ -207,14 +206,14 @@ samp {
 /*
  * Improves readability of pre-formatted text in all browsers.
  */
-/* line 198, ../sass/_normalize.scss */
+/* line 198, /Users/alex/Sites/baruffio/sass/_normalize.scss */
 pre {
   white-space: pre;
   white-space: pre-wrap;
   word-wrap: break-word;
 }
 
-/* line 204, ../sass/_normalize.scss */
+/* line 204, /Users/alex/Sites/baruffio/sass/_normalize.scss */
 small {
   font-size: 75%;
 }
@@ -223,7 +222,7 @@ small {
  * Prevents `sub` and `sup` affecting `line-height` in all browsers.
  * gist.github.com/413930
  */
-/* line 214, ../sass/_normalize.scss */
+/* line 214, /Users/alex/Sites/baruffio/sass/_normalize.scss */
 sub,
 sup {
   font-size: 75%;
@@ -232,12 +231,12 @@ sup {
   vertical-align: baseline;
 }
 
-/* line 221, ../sass/_normalize.scss */
+/* line 221, /Users/alex/Sites/baruffio/sass/_normalize.scss */
 sup {
   top: -0.5em;
 }
 
-/* line 225, ../sass/_normalize.scss */
+/* line 225, /Users/alex/Sites/baruffio/sass/_normalize.scss */
 sub {
   bottom: -0.25em;
 }
@@ -248,7 +247,7 @@ sub {
 /*
  * Addresses margins set differently in IE6/7.
  */
-/* line 240, ../sass/_normalize.scss */
+/* line 240, /Users/alex/Sites/baruffio/sass/_normalize.scss */
 dl,
 menu,
 ol,
@@ -256,7 +255,7 @@ ul {
   margin: 1em 0;
 }
 
-/* line 244, ../sass/_normalize.scss */
+/* line 244, /Users/alex/Sites/baruffio/sass/_normalize.scss */
 dd {
   margin: 0 0 0 40px;
 }
@@ -264,7 +263,7 @@ dd {
 /*
  * Addresses paddings set differently in IE6/7.
  */
-/* line 254, ../sass/_normalize.scss */
+/* line 254, /Users/alex/Sites/baruffio/sass/_normalize.scss */
 menu,
 ol,
 ul {
@@ -274,7 +273,7 @@ ul {
 /*
  * Corrects list images handled incorrectly in IE7.
  */
-/* line 263, ../sass/_normalize.scss */
+/* line 263, /Users/alex/Sites/baruffio/sass/_normalize.scss */
 nav ul,
 nav ol {
   list-style: none;
@@ -289,7 +288,7 @@ nav ol {
  * 2. Improves image quality when scaled in IE7.
  *    code.flickr.com/blog/2008/11/12/on-ui-quality-the-little-things-client-side-image-resizing/
  */
-/* line 278, ../sass/_normalize.scss */
+/* line 278, /Users/alex/Sites/baruffio/sass/_normalize.scss */
 img {
   border: 0;
   /* 1 */
@@ -300,7 +299,7 @@ img {
 /*
  * Corrects overflow displayed oddly in IE9.
  */
-/* line 287, ../sass/_normalize.scss */
+/* line 287, /Users/alex/Sites/baruffio/sass/_normalize.scss */
 svg:not(:root) {
   overflow: hidden;
 }
@@ -311,7 +310,7 @@ svg:not(:root) {
 /*
  * Addresses margin not present in IE6/7/8/9, S5, O11.
  */
-/* line 299, ../sass/_normalize.scss */
+/* line 299, /Users/alex/Sites/baruffio/sass/_normalize.scss */
 figure {
   margin: 0;
 }
@@ -323,7 +322,7 @@ figure {
 /* GLOBAL STYLES
 /* ================================ */
 @media only screen {
-  /* line 75, ../sass/_screen.scss */
+  /* line 74, /Users/alex/Sites/baruffio/sass/_screen.scss */
   body {
     margin: 0 auto;
     width: 50%;
@@ -331,7 +330,7 @@ figure {
     font-family: Bitter;
   }
 
-  /* line 82, ../sass/_screen.scss */
+  /* line 81, /Users/alex/Sites/baruffio/sass/_screen.scss */
   p {
     text-align: justify;
   }
@@ -339,7 +338,7 @@ figure {
   /* ===========================
   /* ARTICLE
   /* ======================== */
-  /* line 90, ../sass/_screen.scss */
+  /* line 89, /Users/alex/Sites/baruffio/sass/_screen.scss */
   article + article {
     padding-top: 1em;
     border-top: 0.2em solid #9c9c9c;
@@ -348,7 +347,7 @@ figure {
   /* ===========================
   /* FOOTER
   /* ======================== */
-  /* line 99, ../sass/_screen.scss */
+  /* line 98, /Users/alex/Sites/baruffio/sass/_screen.scss */
   footer {
     font-style: italic;
   }
@@ -356,13 +355,13 @@ figure {
   /* end screen-only styles */
 }
 @media screen and (max-width: 58em) {
-  /* line 107, ../sass/_screen.scss */
+  /* line 106, /Users/alex/Sites/baruffio/sass/_screen.scss */
   body {
     width: 75%;
   }
 }
 @media screen and (max-width: 40em) {
-  /* line 113, ../sass/_screen.scss */
+  /* line 112, /Users/alex/Sites/baruffio/sass/_screen.scss */
   body {
     width: 95%;
   }
