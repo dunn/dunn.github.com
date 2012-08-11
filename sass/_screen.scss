@@ -5,22 +5,12 @@
 // ============================
 
 // ==============
-// COLORS
-// ==============
-$link-color: #2f0fff;
-$link-visited: #7500eb;
-
-// ==============
 // DIMENSIONS
 // ==============
 $box-border: .125em;
 //
-$base-width: 55em;
 $break1-width: 58em;
-$break2-width: 42em;
-//
-$base-text: 100%;
-$base-line: 130%;
+$break2-width: 40em;
 
 // mixin to adjust widths relative to media
 @mixin width($w-set, $w-break1, $w-break2) {
@@ -76,99 +66,6 @@ $base-line: 130%;
   }
 }
 
-// mixin for producing links that swap color and 
-// background-color when hovered
-@mixin a-swap($text, $text-visit, $bg, $und: 0) {
-  a {
-    color: $text;
-    @if ($bg != 0) and ($bg != none) {
-      background-color: $bg;
-    }
-    @if ($und == 1) {
-      text-decoration: underline;
-    }
-    @else {
-      text-decoration: none;
-    }
-    @if ($text-visit != $text) and ($text-visit != 0) {
-      &:visited {
-      color: $text-visit;
-	&:hover {
-	  @if ($bg == none) or ($bg == 0) {
-	    color: white;
-	  }
-	  @else {
-	    color: $bg;
-	  }
-	  background-color: $text-visit;
-	  text-decoration: none;
-	  @if ($und == 1) {
-	    text-decoration: none;
-	  }
-	}
-      }
-    }
-    &:hover,
-    &:active {
-      @if ($bg == none) or ($bg == 0) {
-	color: white;
-      }
-      @else {
-	color: $bg;
-      }
-      background-color: $text;
-      @if ($und == 1) {
-	text-decoration: none;
-      }
-    }
-  }
-}
-// // "style guide"
-// element {
-// // display and visibility:
-//   display: ;
-//   visibility: ;
-
-// // "external" positioning values:
-//   position: ;
-//   margin: ;
-//   (max-)width: ;
-//   @include width( , , );
-//   (max-)height: ;
-//   float: ;
-//   clear: ;
-//   overflow: ;
-
-// // "internal" positioning and styling:
-//   padding: ;
-//   border: ;
-//   background-color: ;
-//   @include border-radius();
-//   @include box-shadow(0 .02em 1px rgba-swap(241, 241, 241, 0.5));
-//   @include filter-gradient($flag-bottom, darken($flag-bottom, 5%), vertical); // IE6-9
-//   @include background-image(linear-gradient(top, $flag-bottom 0%,darken($flag-bottom, 5%) 100%));
-//   @include opacity();
-
-// // text styling:
-//   font-size: ;
-//   font-family: ;
-//   font-style: ;
-//   font-weight: ;
-//   text-decoration: ;
-//   text-align: ;
-//   line-height: ;
-//   color: ;
-//   text-shadow: 0 1px rgba-swap(255,255,255,1);
-
-// // specific elements:
-//   list-style: ;
-//   @include a-swap( , , ):
-
-// // media queries:
-//   @media screen and () {
-//   }
-// }
-//
 /* ================================ */
 /* GLOBAL STYLES
 /* ================================ */
@@ -189,24 +86,13 @@ p {
   text-align: justify;
 }
 
-/* http://unstoppablerobotninja.com/entry/fluid-images/ */
-// /* needs width: 100% in IE stylesheet */
-img,
-object {
-  max-width: 100%;
-}
-img {
-  height: auto;
-  border: $box-border solid black;
-}
-
 /* ===========================
 /* ARTICLE
 /* ======================== */
 
 article + article {
   padding-top: 1em;
-  border-top: $box-border solid black;
+  border-top: $box-border solid #9c9c9c;
 }
 
 /* ===========================
@@ -217,5 +103,17 @@ footer {
   font-style: italic;
 }
 
-/* end screen styles */
+/* end screen-only styles */
+}
+
+@media screen and (max-width: $break1-width) {
+  body {
+    width: 75%;
+  }
+}
+
+@media screen and (max-width: $break2-width) {
+  body {
+    width: 95%;
+  }
 }
