@@ -78,17 +78,21 @@ body {
   font-family: Bitter;
 }
 
-p {
-  text-align: justify;
-}
-
 /* ===========================
-/* ARTICLE
+/* ARTICLES
 /* ======================== */
+
+article {
+  text-align: left;
+}
 
 article + article {
   padding-top: 1em;
   border-top: $box-border solid #9c9c9c;
+}
+
+p {
+  text-align: justify;
 }
 
 /* ===========================
