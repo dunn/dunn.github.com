@@ -7,7 +7,7 @@ $endif$
 $body$
 $if(date)$
 <footer><p>
-Posted $if(author)$by $author$ $endif$on <time datetime="$date$">$date$</time>.
+$if(author)$Posted by $author$ on $endif$<time datetime="$date$">$date$</time>.
 </p></footer>
 $endif$
 </article>

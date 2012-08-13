@@ -36,8 +36,7 @@ $endfor$
 
 <footer><p>
 $if(date)$
-Posted $if(author)$by $author$
-$endif$on <time datetime="$date$">$date$</time>.  
+$if(author)$Posted by $author$ on $endif$<time datetime="$date$">$date$</time>.  
 $endif$<a title="Main page" href="index.html">Go to the main
 page.</a></p>
 </footer>
