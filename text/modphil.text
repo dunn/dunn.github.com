@@ -1,4 +1,4 @@
-% Project: [*Modern Philosophy* in plain text](https://github.com/grumble/modernphilosophy)
+% Project: [*Modern Philosophy* in plain text](docs/modernphilosophy.html)
 % 
 % 2012-05-28
 
@@ -15,3 +15,5 @@ Using [pandoc](http://johnmacfarlane.net/pandoc/), *Modern Philosophy*
 can be easily converted to HTML, PDF, EPUB, and [many other
 formats](http://johnmacfarlane.net/pandoc/README.html#options).
 
+This version of *Modern Philosophy* is kept in a
+[public repository on GitHub](https://github.com/grumble/modernphilosophy).
