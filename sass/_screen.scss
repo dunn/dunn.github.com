@@ -6,6 +6,7 @@
 body {
   margin: 0 auto;
   width: 50%;
+  font-size: 140%;
   text-align: center;
   font-family: "Bitter";
 }
@@ -41,11 +42,13 @@ footer {
 @media screen and (max-width: $break1-width) {
   body {
     width: 75%;
+    font-size: 120%;
   }
 }
 
 @media screen and (max-width: $break2-width) {
   body {
     width: 95%;
+    font-size: 100%;
   }
 }
