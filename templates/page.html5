@@ -15,7 +15,7 @@
 <body>
 
 $if(title)$
-<header>
+<header role="banner">
 <h1>$title$</h1>
 </header>
 $endif$

@@ -14,7 +14,7 @@
 </head>
 <body>
 
-<header>
+<header role="banner">
 <hgroup>
 <h1>Alex Dunn</h1>
 <h2>has been crushed by a buffalo.</h2>
