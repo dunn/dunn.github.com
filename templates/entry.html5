@@ -1,4 +1,4 @@
-<article>
+<article role="article">
 $if(title)$
 <header>
 <h2>$title$</h2>

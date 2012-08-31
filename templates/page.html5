@@ -25,7 +25,7 @@ $endif$
 <object id="buffalo-top" data="img/threebuffalo.svg" type="image/svg+xml"></object>
 </aside>
 
-<article>
+<article role="article">
 $for(include-before)$
 $include-before$
 $endfor$
@@ -46,7 +46,7 @@ page</a></p>
 <object id="buffalo-bottom" data="img/baruffio.svg" type="image/svg+xml"></object>
 </aside>
 
-<footer><p>Alex Dunn has a <a title="Resume"
+<footer role="contentinfo"><p>Alex Dunn has a <a title="Resume"
 href="docs/cv.html">CV</a> and sometimes checks <a
 title="@dunndunndunn"
 href="http://twitter.com/dunndunndunn">Twitter</a>.  This website is
