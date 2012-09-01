@@ -4,7 +4,7 @@
 
 Reading.js is a crummy bit of CSS and JavaScript that's supposed to
 make it easier to read long documents online.
-([Like this one!](http://baruffio.com/modernphilosophy/modernphilosophy.html))
+([Like this one!](modernphilosophy/text.html))
 
 Include two lines in the `<head>` of a plain HTML file---the kind
 produced by [pandoc](http://johnmacfarlane.net/pandoc/) or by most
