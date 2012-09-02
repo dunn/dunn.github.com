@@ -1,16 +1,17 @@
-% Project: [Reading.js](https://github.com/grumble/reading.js)
+% Project: [Reading.js](https://github.com/grumble/reading.js "GitHub repository")
 % 
 % 2012-08-30
 
 Reading.js is a crummy bit of CSS and JavaScript that's supposed to
 make it easier to read long documents online.
-([Like this one!](modernphilosophy/text.html))
+([Like this one!](modernphilosophy/text.html "HTML version of Modern Philosophy"))
 
 Include two lines in the `<head>` of a plain HTML file---the kind
-produced by [pandoc](http://johnmacfarlane.net/pandoc/) or by most
-[Markdown](http://daringfireball.net/projects/markdown/)-to-HTML
-conversion tools---and gain nifty features like keyboard shortcuts,
-section folding, and color scheme switching:
+produced by [pandoc](http://johnmacfarlane.net/pandoc/ "pandoc project
+page") or by most
+[Markdown](http://daringfireball.net/projects/markdown/ "Markdown
+project page")-to-HTML conversion tools---and gain nifty features like
+keyboard shortcuts, section folding, and color scheme switching:
 
 ``` {.html}
 <link rel="stylesheet" href="http://baruffio.com/read/stylesheets/style.css">
