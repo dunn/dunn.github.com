@@ -68,7 +68,18 @@ Background"), add a link to `?page_id=15` (you don't need to include
 Don't change the color of text.  Color and other styling is handled by
 the blog software.
 
-Also, don't forget to
+Integrate hyperlinks into the body of your post.  Instead of doing
+this,
+
+> See here for more information and photos: http://lightbox.time.com/2012/10/11/paul-ryan-all-pumped-up-for-his-closeup/?iid=lb-gal-viewagn#1
+
+do this:
+
+> [TIME has information about Paul Ryan's fitness regimen, and cheesecake](http://lightbox.time.com/2012/10/11/paul-ryan-all-pumped-up-for-his-closeup/?iid=lb-gal-viewagn#1)
+
+Lastly:
+
+- Don't use all caps, especially in post titles.
 
 - Use short, clear titles for posts
 
