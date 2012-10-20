@@ -10,7 +10,7 @@ Include two lines in the `<head>` of a plain HTML file---the kind
 produced by [pandoc](http://johnmacfarlane.net/pandoc/ "pandoc project
 page") or by most
 [Markdown](http://daringfireball.net/projects/markdown/ "Markdown
-project page")-to-HTML conversion tools---and gain nifty features like
+project page")-to-HTML converters---and gain nifty features like
 keyboard shortcuts, section folding, and color scheme switching:
 
 ``` {.html}
