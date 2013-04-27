@@ -82,7 +82,6 @@ even
 "White \"Girls\"") distanced herself from the "joke":
 
 <blockquote class="twitter-tweet"><p>Me with my nigga @<a href="https://twitter.com/lenadunham">lenadunham</a> of @<a href="https://twitter.com/hbogirls">hbogirls</a> - I love this beyotch!! <a href="http://t.co/VOaV30eB" title="http://say.ly/oKP5chO">say.ly/oKP5chO</a></p>&mdash; Lisa Lampanelli (@LisaLampanelli) <a href="https://twitter.com/LisaLampanelli/status/303308274038616064">February 18, 2013</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Our *Nonsense* writer concludes, tongue firmly in cheek:
 
@@ -101,5 +100,4 @@ And with that nod to
 Mark Strong makes it quite clear what the pure truth is:
 
 <blockquote class="twitter-tweet"><p>@<a href="https://twitter.com/tanehisi">tanehisi</a> "politically incorrect" itself is a politically correct way to describe oppressive ignorance at best and sheer bigotry at worst.</p>&mdash; Andrea S. (@andreaTshang) <a href="https://twitter.com/andreaTshang/status/320715247193321472">April 7, 2013</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
