@@ -1,6 +1,6 @@
 % "What Do These Words Mean?"
 % [Alex Dunn](https://twitter.com/dunndunndunn "Twitter")
-% 2013-04-26
+% 2013-04-27
 
 Mark Strong, Managing Editor of the *Daily Nonsense* and author of a
 column with the whimsical title "Politically Incorrect", is troubled
