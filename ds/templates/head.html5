@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>The Daily Nonsense</title>
+
+  <meta name="viewport" content="width=device-width" />
+  <meta name="description" content="The Daily Nonsense: A Lighthearted
+  Send-Up of a Horrible Newspaper" />
+  <meta name="keywords" content="News, Satire, UCSB" />
+  
+  <link rel="stylesheet" href="stylesheets/style.css" type="text/css" />
+</head>
+<body>
+
+<header role="banner">
+<hgroup>
+<h1>The Daily Nonsense</h1>
+<h3>“I could manure my garden with the contents of that rag” — Rita Skeeter</h3>
+</hgroup>
+</header>
+
+<aside>
+<!-- http://commons.wikimedia.org/wiki/File:Buffalo_jump.jpg -->
+<object id="buffalo-top" data="../img/threebuffalo.svg" type="image/svg+xml"></object>
+</aside>

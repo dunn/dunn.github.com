@@ -1,0 +1,62 @@
+/* ================================ */
+/* GLOBAL STYLES
+/* ================================ */
+@media screen {
+
+body {
+  margin: 0 auto;
+  width: 50%;
+  font-size: 140%;
+  text-align: center;
+  font-family: "Bitter";
+}
+
+/* ===========================
+/* HEADER
+/* ======================== */
+
+h1 + h2 {
+  margin-top: -.75em;
+}
+
+/* ===========================
+/* ARTICLES
+/* ======================== */
+
+article {
+  text-align: left;
+}
+
+article + article {
+  padding-top: 1em;
+  border-top: $box-border solid #9c9c9c;
+}
+
+p {
+  text-align: justify;
+}
+
+/* ===========================
+/* FOOTER
+/* ======================== */
+
+footer {
+  font-style: italic;
+}
+
+/* end @media only screen */
+}
+
+@media screen and (max-width: $break1-width) {
+  body {
+    width: 75%;
+    font-size: 120%;
+  }
+}
+
+@media screen and (max-width: $break2-width) {
+  body {
+    width: 95%;
+    font-size: 100%;
+  }
+}

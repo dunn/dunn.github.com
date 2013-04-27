@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>$title$</title>
+
+  <meta name="viewport" content="width=device-width" />
+  <meta name="description" content="The Daily Nonsense: A Lighthearted
+  Send-Up of a Horrible Newspaper" />
+  <meta name="keywords" content="News, Satire, UCSB" />
+  
+  <link rel="stylesheet" href="stylesheets/style.css" type="text/css" />
+</head>
+<body>
+
+$if(title)$
+<header role="banner">
+<h1>$title$</h1>
+</header>
+$endif$
+
+<aside>
+<!-- http://commons.wikimedia.org/wiki/File:Buffalo_jump.jpg -->
+<object id="buffalo-top" data="../img/threebuffalo.svg" type="image/svg+xml"></object>
+</aside>
+
+<article role="article">
+$for(include-before)$
+$include-before$
+$endfor$
+$body$
+$for(include-after)$
+$include-after$
+$endfor$
+
+<footer><p>
+$if(date)$
+$if(author)$Posted by $author$ on $endif$<time datetime="$date$">$date$</time>.  
+$endif$<a title="Main page" href="index.html">Go to the main
+page</a></p>
+</footer>
+</article>
+
+<aside>
+<object id="buffalo-bottom" data="../img/baruffio.svg" type="image/svg+xml"></object>
+</aside>
+
+<footer role="contentinfo">
+<p>This is another fine offering from <a href="http://baruffio.com">Baruffio.com</a>. Please direct all complaints to <a href="https://twitter.com/thedailynexus">our social media intern</a>.</p>
+</footer>
+
+</body>
+</html>

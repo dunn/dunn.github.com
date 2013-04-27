@@ -1,0 +1,13 @@
+<article role="article">
+$if(title)$
+<header>
+<h2>$title$</h2>
+</header>
+$endif$
+$body$
+$if(date)$
+<footer><p>
+$if(author)$Posted by $author$ on $endif$<time datetime="$date$">$date$</time>.
+</p></footer>
+$endif$
+</article>
