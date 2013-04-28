@@ -2,8 +2,8 @@
 % [Alex Dunn](https://twitter.com/dunndunndunn "Twitter")
 % 2013-04-16
 
-The *Daily Nonsense* is not known for publishing cutting-edge research
-in analytical philosophy, but on the 2nd of this month
+The *Daily Nexus* is not known for publishing cutting-edge research in
+analytical philosophy, but on the 2nd of this month
 [Mr. Jeffrey Robin authored a startling piece](http://dailynexus.com/2013-04-02/right-said-gay-or-not-marriage-is-already-in-the-dog-house/
 "Gay or Not, Marriage Is Already in the Dog House") in which he
 advanced a very novel claim of just this sort.  Here is the claim in

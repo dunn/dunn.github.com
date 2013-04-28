@@ -2,7 +2,7 @@
 % [Alex Dunn](https://twitter.com/dunndunndunn "Twitter")
 % 2013-04-27
 
-Mark Strong, Managing Editor of the *Daily Nonsense* and author of a
+Mark Strong, Managing Editor of the *Daily Nexus* and author of a
 column with the whimsical title "Politically Incorrect", is troubled
 and
 [has turned to his readers with a pressing question](http://dailynexus.com/2013-04-25/so-wrong-its-right/
@@ -12,10 +12,10 @@ and
 
 "Goodness!" you might be saying.  "How could dear Mark write a column
 called 'Politically Incorrect' without knowing what that means?
-Surely the *Nonsense*, of all student newspapers, is rigorously
-dedicated to accuracy and would never print idiotic bullshit that
-flies in the face of basic decency under the guise of bravely opposing
-conventional wisdom?"
+Surely the *Nexus*, of all student newspapers, is rigorously dedicated
+to accuracy and would never print idiotic bullshit that flies in the
+face of basic decency under the guise of bravely opposing conventional
+wisdom?"
 
 Strong reassures us somewhat in the next paragraph by exhibiting his
 subtle analytical skills:
@@ -83,7 +83,7 @@ even
 
 <blockquote class="twitter-tweet"><p>Me with my nigga @<a href="https://twitter.com/lenadunham">lenadunham</a> of @<a href="https://twitter.com/hbogirls">hbogirls</a> - I love this beyotch!! <a href="http://t.co/VOaV30eB" title="http://say.ly/oKP5chO">say.ly/oKP5chO</a></p>&mdash; Lisa Lampanelli (@LisaLampanelli) <a href="https://twitter.com/LisaLampanelli/status/303308274038616064">February 18, 2013</a></blockquote>
 
-Our *Nonsense* writer concludes, tongue firmly in cheek:
+Our *Nexus* writer concludes, tongue firmly in cheek:
 
 > So what is politically incorrect?  We could come up with
 > Webster-worthy definitions for the next 50 years, but none of them
