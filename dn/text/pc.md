@@ -11,7 +11,7 @@ and
 > What is "politically incorrect"?
 
 "Goodness!" you might be saying.  "How could dear Mark write a column
-called "Politically Incorrect" without knowing what that means?
+called 'Politically Incorrect' without knowing what that means?
 Surely the *Nexus*, of all student newspapers, is rigorously dedicated
 to accuracy and would never print idiotic bullshit that flies in the
 face of basic decency under the guise of bravely opposing conventional
