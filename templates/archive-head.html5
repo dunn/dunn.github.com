@@ -2,13 +2,13 @@
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <title>Alex Dunn</title>
+  <title>Archive for Baruffio.com</title>
 
   <meta name="viewport" content="width=device-width" />
-  <meta name="description" content="The personal website of Alexander
+  <meta name="description" content="The personal archive of Alexander
                                     Dunn" />
   <meta name="keywords" content="baruffio, buffalo, markdown, fountain-clm,
-                                 philosophy, fountain, sjp, harry potter" />
+                                 philosophy, fountain, sjp, archive, harry potter" />
   
   <link rel="stylesheet" href="stylesheets/style.css" type="text/css" />
 </head>
@@ -17,7 +17,7 @@
 <header role="banner">
 <hgroup>
 <h1>Alex Dunn</h1>
-<h2>has been crushed by a buffalo.</h2>
+<h2>has an archive. (This is it.)</h2>
 </hgroup>
 </header>
 
@@ -25,3 +25,5 @@
 <!-- http://commons.wikimedia.org/wiki/File:Buffalo_jump.jpg -->
 <object id="buffalo-top" data="img/threebuffalo.svg" type="image/svg+xml"></object>
 </aside>
+
+<ul>
