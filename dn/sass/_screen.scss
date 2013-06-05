@@ -8,7 +8,17 @@ body {
   width: 50%;
   font-size: 140%;
   text-align: center;
+
+  background-color: $bg-color;
+  color: $txt-color;
   font-family: "Bitter";
+}
+
+a {
+  color: $link-new;
+  &:visited {
+    color: $link-old;
+  }
 }
 
 /* ===========================
@@ -29,7 +39,7 @@ article {
 
 article + article {
   padding-top: 1em;
-  border-top: $box-border solid #9c9c9c;
+  border-top: $box-border solid $link-new;
 }
 
 p {
