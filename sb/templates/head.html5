@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>SBBS: Santa Barbara Bullshit</title>
+
+  <meta name="viewport" content="width=device-width" />
+  <meta name="description" content="Santa Barbara Bullshit: treating life in Santa Barbara with the seriousness it deserves" />
+  <meta name="keywords" content="News, Satire, Santa Barbara, Goleta, California" />
+  
+  <link rel="stylesheet" href="stylesheets/style.css" type="text/css" />
+</head>
+<body>
+
+<header role="banner">
+<hgroup>
+<h1>Santa Barbara Bullshit</h1>
+<h3>spending far too much time thinking about the BS in SB</h3>
+</hgroup>
+</header>
+
+<aside>
+<!-- http://commons.wikimedia.org/wiki/File:Buffalo_jump.jpg -->
+<object id="buffalo-top" data="img/threebuffalo.svg" type="image/svg+xml"></object>
+</aside>

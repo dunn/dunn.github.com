@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Archive for Santa Barbara Bullshit</title>
+
+  <meta name="viewport" content="width=device-width" />
+  <meta name="description" content="Santa Barbara Bullshit: treating life in Santa Barbara with the seriousness it deserves" />
+  <meta name="keywords" content="News, Satire, Santa Barbara, Goleta, California" />
+  
+  <link rel="stylesheet" href="stylesheets/style.css" type="text/css" />
+</head>
+<body>
+
+<header role="banner">
+<hgroup>
+<h1>SBBS Archive</h1>
+<h2>keeping track of all our bullshit</h2>
+</hgroup>
+</header>
+
+<aside>
+<!-- http://commons.wikimedia.org/wiki/File:Buffalo_jump.jpg -->
+<object id="buffalo-top" data="img/threebuffalo.svg" type="image/svg+xml"></object>
+</aside>
+
+<ul>
