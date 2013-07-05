@@ -18,3 +18,16 @@ $txt-color: white;
 
 $link-new: lightgray;
 $link-old: silver;
+
+// =======
+// TABLES
+// =======
+
+table {
+  text-align: center;
+  border-collapse: collapse;
+  td {
+    padding: 0em 2em;
+    border: .125em $txt-color solid;
+  }
+}
