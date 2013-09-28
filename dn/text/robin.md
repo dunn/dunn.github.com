@@ -1,6 +1,8 @@
-% Critical discussion of a metaphysical thesis recently proposed by Mr Robin
-% [Alex Dunn](https://twitter.com/dunndunndunn "Twitter")
-% 2013-04-16
+---
+title: "Critical discussion of a metaphysical thesis recently proposed by Mr Robin"
+author: "[Alex Dunn](https://twitter.com/dunndunndunn)"
+date: 2013-04-16
+---
 
 The *Daily Nexus* is not known for publishing cutting-edge research in
 analytical philosophy, but on the 2nd of this month

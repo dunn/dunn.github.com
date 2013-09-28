@@ -1,6 +1,8 @@
-% "What Do These Words Mean?"
-% [Alex Dunn](https://twitter.com/dunndunndunn "Twitter")
-% 2013-04-27
+---
+title: "'What Do These Words Mean?'"
+author: "[Alex Dunn](https://twitter.com/dunndunndunn)"
+date: 2013-04-27
+---
 
 Mark Strong, Managing Editor of the *Daily Nexus* and author of a
 column with the whimsical title "Politically Incorrect", is troubled
