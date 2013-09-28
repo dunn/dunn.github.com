@@ -1,6 +1,7 @@
-% Project: [Fountain CLM](https://github.com/grumble/fountain-clm "Fountain codeless language module")
-% 
-% 2012-06-04
+---
+title: "Project: [Fountain CLM](https://github.com/grumble/fountain-clm 'Fountain codeless language module')"
+date: 2012-06-04
+---
 
 [Codeless Language Modules](http://www.barebones.com/support/develop/clm.html
 "Documentation from Bare Bones Software") (CLMs) are plugins for

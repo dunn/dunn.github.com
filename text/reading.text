@@ -1,6 +1,7 @@
-% Project: [Reading.js](https://github.com/grumble/reading.js "GitHub repository")
-% 
-% 2012-08-30
+---
+title: "Project: [Reading.js](https://github.com/grumble/reading.js 'GitHub repository')"
+date: 2012-08-30
+---
 
 Reading.js is a crummy bit of CSS and JavaScript that's supposed to
 make it easier to read long documents online.

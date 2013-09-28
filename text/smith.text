@@ -1,6 +1,7 @@
-% Story: [Mr. Smith Goes to the Hospital](docs/smith.pdf "Mr Smith Goes to the Hospital")
-%
-% 2011-02
+---
+title: "Story: [Mr. Smith Goes to the Hospital](docs/smith.pdf 'Mr Smith Goes to the Hospital')"
+date: 2011-02
+---
 
 A super sad story about Bernard Williams and utilitarianism.  The
 moral is that you really just shouldn't bother visiting your friend in
