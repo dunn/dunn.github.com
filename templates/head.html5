@@ -2,13 +2,11 @@
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <title>Alex Dunn</title>
+  <title>Baruffio.com</title>
 
   <meta name="viewport" content="width=device-width" />
-  <meta name="description" content="The personal website of Alexander
-                                    Dunn" />
-  <meta name="keywords" content="baruffio, buffalo, cats,
-  philosophy, fountain, twitter, harry potter" />
+  <meta name="description" content="the cutting edge of harry potter scholarship" />
+  <meta name="keywords" content="baruffio, buffalo, harry potter" />
 
   <link rel="stylesheet" href="stylesheets/style.css" type="text/css" />
 </head>
@@ -16,8 +14,8 @@
 
 <header role="banner">
 <hgroup>
-<h1>Alex Dunn</h1>
-<h2>has been crushed by a buffalo.</h2>
+<h1>Baruffio.com</h1>
+<h2>"Dumbledore probably is dead tho"</h2>
 </hgroup>
 </header>
 
