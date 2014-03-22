@@ -206,10 +206,6 @@ p.skiplink {
 
 article {
   margin-top: 1em;
-  padding-right: 1em;
-  padding-bottom: .25em;
-  padding-left: 1em;
-
   h2 {
     margin-top: .375em;
   }
@@ -387,6 +383,7 @@ section.list {
     float: none;
     width: 80%;
     margin: 0 auto;
+    padding: .125em 1em;
   }
   div.secondary {
     float: none;
@@ -400,15 +397,7 @@ section.list {
       width: 0;
     }
   }
-  section.about {
-    padding: inherit 1em;
-  }
-  section.single,
-  section.list {
-    width: 80%;
-    padding: .125em 1em;
-  }
-  
+
   .page-footer {
 	  padding-right: 6%;
   }
@@ -435,7 +424,11 @@ section.list {
   }
 }
 
-@media screen and (max-width: $break3) {  
+@media screen and (max-width: $break3) {
+  blockquote {
+    margin: 0 1em;
+  }
+
   .page-header {
     padding: 0 1em;
   }
@@ -444,15 +437,17 @@ section.list {
     width: auto;
     margin: 0;
   }
-  section.single,
-  section.list,
-  section.index {
-    width: auto;
-	margin: 0 $tiny;
+  .primary {
+    margin: 0 $tiny;
   }
   .shit section.single,
   .nonsense section.single {
     border-left: none;
     border-right: none;
+  }
+  h3.pubdate {
+    float: left;
+    clear: left;
+    margin-top: -1em;
   }
 }
