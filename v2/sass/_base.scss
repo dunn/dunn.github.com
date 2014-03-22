@@ -22,8 +22,11 @@ footer,
   font-style: italic;
 }
 
-.slogan em {
-	font-style: normal;
+.slogan,
+blockquote {
+  em {
+    font-style: normal;
+  }
 }
 
 a.tag:nth-last-of-type(n+2) {

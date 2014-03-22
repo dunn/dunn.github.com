@@ -14,7 +14,7 @@ $thin-border: .125em;
 $default-corner: .25em;
 
 $break1: 1150px;
-$break2: 990px;
+$break2: 1010px;
 $break3: 500px;
 
 ///////// colors /////
@@ -55,11 +55,14 @@ body {
 article {
   @include border-radius($default-corner, $default-corner);
 }
-section.list li + li,
+
+section.single footer {
+  border-top: $thin-border solid $sky;
+  border-top-color: rgba(202, 187, 168, .75);
+}
 article + article {
   border-top: $thin-border solid $sky;
   border-top-color: rgba(202, 187, 168, .5);
-  padding-top: 1.5em;
 }
 
 section.about {
@@ -78,8 +81,8 @@ section.single {
   h3,
   h4 {
 	a {
-	  @include text-shadow($sky 1px 1px 0);
-	  text-decoration: none;
+    @include text-shadow($sky 1px 1px 0);
+    text-decoration: none;
 	  }
   }
   @include border-radius($default-corner, $default-corner);
@@ -99,7 +102,6 @@ div.secondary {
   &:after {
     border-color: $grass $grass transparent $grass;
   }
-
   color: $sky;
   a {
     color: $water;
@@ -164,7 +166,7 @@ h3.pubdate {
   width: 60%;
   float: left;
   margin-bottom: 1em;
-  padding: .1em 1em;
+  padding: 0 1em;
 }
 
 main {
@@ -307,25 +309,6 @@ hr {
   height: $thin-border;
   width: 50%;
   border: 0;
-}
-
-/////////////////////// LISTSSSSSSS /////////////////////////////////
-/////////////////////// LISTSSSSSSS /////////////////////////////////
-/////////////////////// LISTSSSSSSS /////////////////////////////////
-/////////////////////// LISTSSSSSSS /////////////////////////////////
-section.list {
-	padding: .1em 1em .1em 1.5em;
-  ul {
-	display: inline;
-    list-style-type: none;
-  }
-  time {
-    font-style: italic;
-  }
-  h4 {
-	  margin-top: 0;
-	  margin-bottom: .125em;
-  }
 }
 
 //////////////////////// media queries ..................///////////////
