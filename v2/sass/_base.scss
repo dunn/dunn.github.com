@@ -1,0 +1,33 @@
+@charset "UTF-8";
+@import "compass";
+
+@import url(http://fonts.googleapis.com/css?family=Playfair+Display:400,700,400italic,700italic);
+
+/* variables and mixins */
+
+// _normalize.scss
+@import "normalize";
+
+/////// stuff for print and screen
+
+body {
+  font-family: "Playfair Display", serif;
+}
+
+blockquote,
+.slogan,
+dt,
+footer,
+.tags {
+  font-style: italic;
+}
+
+.slogan em {
+	font-style: normal;
+}
+
+a.tag:nth-last-of-type(n+2) {
+  &::after {
+    content: ",";
+  }
+}
