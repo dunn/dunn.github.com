@@ -14,7 +14,7 @@ $thin-border: .125em;
 $default-corner: .25em;
 
 $break1: 1150px;
-$break2: 980px;
+$break2: 990px;
 $break3: 500px;
 
 ///////// colors /////
@@ -32,7 +32,7 @@ $water: #d1dde1;
 ///////// DECORATION //////////////////
 html {
   min-height: 1036px;
-  background: $sky url(/img/castle.min.png) no-repeat center bottom scroll;
+  background: $sky url(../img/castle.min.png) no-repeat center bottom scroll;
   -webkit-background-size: 100%;
   -moz-background-size: 100%;
   -o-background-size: 100%;
@@ -40,7 +40,7 @@ html {
 }
 
 body {
-  background: url(/img/sky.png) no-repeat center top scroll;
+  background: url(../img/sky.png) no-repeat center top scroll;
   -webkit-background-size: 100%;
   -moz-background-size: 100%;
   -o-background-size: 100%;
