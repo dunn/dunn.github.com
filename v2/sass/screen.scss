@@ -435,7 +435,10 @@ section.list {
   }
 }
 
-@media screen and (max-width: $break3) {
+@media screen and (max-width: $break3) {  
+  .page-header {
+    padding: 0 1em;
+  }
   .primary,
   .secondary {
     width: auto;
