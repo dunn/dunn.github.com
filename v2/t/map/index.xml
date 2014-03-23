@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title>Map on Baruffio: a blog about Harry Potter — baruffio.com </title>
+    <link>http://baruffio.com/v2/t/map/index.xml</link>
+    <language>en-us</language>
+    <author>A Witch or Wizard</author>
+    <rights>Copyright the respective author(s); all rights reserved.</rights>
+    <updated>2014-03-23 14:00:00 -0700 PDT</updated>
+    
+    <item>
+      <title>There are ways to stop even a Hufflepuff from finding</title>
+      <link>http://baruffio.com/v2/p/unplottable</link>
+      <pubDate>Sun, 23 Mar 2014 14:00:00 PDT</pubDate>
+      <author>[Alex Dunn]</author>
+      <guid>http://baruffio.com/v2/p/unplottable</guid>
+      <description>
+
+&lt;p&gt;In &lt;em&gt;Harry Potter&lt;/em&gt;, places like Hogwarts are hidden from unwelcome eyes
+with a number of protective enchantments.  One of these enchantments
+makes the building &lt;em&gt;unplottable&lt;/em&gt;, and so&amp;mdash;apparently&amp;mdash;incapable
+of being plotted on a map.&lt;/p&gt;
+
+&lt;p&gt;It&amp;rsquo;s not immediately obvious how this is possible.  Some of the
+simpler and more obvious proposals as to how Unplottability might work
+turn out to be no good.  Unplottability cannot not say anything about
+what I can and can&amp;rsquo;t draw on a piece of paper.  It&amp;rsquo;s possible with
+magic to prevent the information from being &lt;em&gt;transmitted,&lt;/em&gt; but this
+won&amp;rsquo;t be enough to prevent us from using maps to find Hogwarts.&lt;/p&gt;
+
+&lt;p&gt;What &lt;em&gt;does&lt;/em&gt; work is something more drastic: Unplottability has to
+prevent us from &lt;em&gt;inferring&lt;/em&gt; the location of a place from other
+information.  The benefit of this radical solution is that it
+preserves the spirit of Unplottability, which is to prevent people
+from figuring out &lt;em&gt;where Hogwarts is.&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_0&#34;&gt;What we know about unplottability&lt;/h2&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;But Hogwarts &lt;em&gt;is&lt;/em&gt; hidden,&amp;rdquo; said Hermione, in surprise, &amp;ldquo;everyone
+knows that &amp;hellip; well, everyone who&amp;rsquo;s read &lt;em&gt;Hogwarts: A History&lt;/em&gt;,
+anyway.&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;&amp;ldquo;Just you, then,&amp;rdquo; said Ron. &amp;ldquo;So go on&amp;mdash;how d&amp;rsquo;you hide a place
+like Hogwarts?&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;&amp;ldquo;It&amp;rsquo;s bewitched,&amp;rdquo; said Hermione. &amp;ldquo;If a Muggle looks at it, all they
+see is a mouldering old ruin with a sign over the entrance saying
+DANGER, DO NOT ENTER, UNSAFE.&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;&amp;ldquo;So Durmstrang&amp;rsquo;ll just look like a ruin to an outsider, too?&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;&amp;ldquo;Maybe,&amp;rdquo; said Hermione, shrugging, &amp;ldquo;or it might have
+Muggle-Repelling Charms on it, like the World Cup Stadium. And to
+keep foreign wizards from finding it, they&amp;rsquo;ll have made it
+Unplottable&amp;mdash;&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;&amp;ldquo;Come again?&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;&amp;ldquo;Well, you can enchant a building so it&amp;rsquo;s impossible to plot on a
+map, can&amp;rsquo;t you?&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;&amp;ldquo;Er &amp;hellip; if you say so,&amp;rdquo; said Harry (&lt;em&gt;GoF&lt;/em&gt; 121; page references are
+from the UK versions of the &lt;em&gt;Pottermore&lt;/em&gt; ebooks).&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;I&amp;rsquo;m not really sure how disguising Hogwarts as a ruin will keep out
+Muggle archaeologists, but that&amp;rsquo;s beside the point.  Just what on
+earth does it &lt;em&gt;mean&lt;/em&gt; for something to be Unplottable?  (The text is
+silent on whether Hogwarts itself is Unplottable, but
+&lt;a href=&#34;http://www.gaiaonline.com/forum/harry-potter/if-hogwarts-castle-is-unplottable/t.13491169_15/#15&#34; title=&#34;\&amp;quot;If Hogwarts castle is unplottable...\&amp;quot; at Gaia Online&#34;&gt;Durmstrang is&lt;/a&gt;, so
+it&amp;rsquo;s likely that Hogwarts is as well.)&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_1&#34;&gt;I can draw a map and write &amp;ldquo;Hogwarts&amp;rdquo; on it&lt;/h2&gt;
+
+&lt;p&gt;Above I said that Unplottability can&amp;rsquo;t say anything about what I can
+or can&amp;rsquo;t draw on a piece of paper.  More precisely, there&amp;rsquo;s no way to
+stop me from encoding certain information on a map.  But why not?&lt;/p&gt;
+
+&lt;p&gt;Let&amp;rsquo;s look at how someone might try to prevent us from encoding that
+sort of information.  Whatever they do, I don&amp;rsquo;t think they&amp;rsquo;ll manage
+it:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;Suppose a witch or wizard managed to cast an enchantment that had
+the following effect: whenever someone writes &amp;ldquo;Hogwarts&amp;rdquo; (or
+something sufficiently similar) at roughly the point where Hogwarts
+is located on a map, the enchantment erases what you&amp;rsquo;ve written.
+This obviously isn&amp;rsquo;t good enough, because you could refer to
+Hogwarts using a different name.  This is a ban on &lt;em&gt;using
+&amp;ldquo;Hogwarts&amp;rdquo; to refer to Hogwarts&lt;/em&gt;.  It is not a ban on plotting
+Hogwarts on a map.  If I am trying to make you a map with Hogwarts
+on it, I could tell you &amp;ldquo;I will write &amp;lsquo;Pigfarts&amp;rsquo; instead of
+&amp;lsquo;Hogwarts&amp;rsquo;&amp;ldquo;, and then when I write &amp;ldquo;Pigfarts&amp;rdquo;, I am plotting
+Hogwarts on the map.&lt;/p&gt;
+
+&lt;p&gt;A second problem with this approach is that if the enchantment
+only detects when I&amp;rsquo;ve written &amp;ldquo;Hogwarts&amp;rdquo;, my writing will be
+visible until I finish that string of letters.  If you are
+watching over my shoulder as I work, you will see me get at least
+as far as &amp;ldquo;Hogwart&amp;rdquo; and will probably infer my intention (to plot
+Hogwarts on this map), and the enchantment will be foiled.  In
+order to work, the enchantment would have to determine our
+&lt;em&gt;intentions&lt;/em&gt; and act before we can even start writing.&lt;/p&gt;
+
+&lt;p&gt;The subject of &lt;em&gt;intention&lt;/em&gt; brings us to a second possible method
+to make it impossible to encode information about a place&amp;rsquo;s
+location.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Suppose it&amp;rsquo;s possible, somehow, to determine when I&amp;rsquo;m &lt;em&gt;intending&lt;/em&gt;
+to plot Hogwarts on a map.  Maybe an enchantment could figure out
+when I&amp;rsquo;m thinking about Hogwarts in a certain way while mapmaking,
+or whatever.  When this happens, the enchantment makes me forget
+what I&amp;rsquo;m doing, or triggers something like the Tongue-Tying Curse
+except for writing, or in some other way prevents me from
+fulfilling my intention to plot Hogwarts on a map.  Why wouldn&amp;rsquo;t
+this work?&lt;/p&gt;
+
+&lt;p&gt;This wouldn&amp;rsquo;t work because it&amp;rsquo;s possible for someone to make
+something that &lt;em&gt;functions&lt;/em&gt; as a map showing the location of
+Hogwarts without intending to.  Suppose a Muggle child is drawing
+fake maps for fun and &lt;em&gt;accidentally&lt;/em&gt; draws one with a castle in
+just the right place on an accurate representation of the Scottish
+highlands.  It&amp;rsquo;s even possible that&amp;mdash;by a massive
+coincidence&amp;mdash;the child could decide to label this castle
+&amp;ldquo;Hogwarts&amp;rdquo;.&lt;/p&gt;
+
+&lt;p&gt;Now, while there&amp;rsquo;s definitely a sense in which this Muggle child
+hasn&amp;rsquo;t really plotted Hogwarts on a map, the following scenario
+could still occur, if this is all Unplottability amounts to: the
+child drops their map while leaving King&amp;rsquo;s Cross, and it is picked
+up by a witch or wizard, who has been seeking the location of
+Hogwarts.  They assume that someone plotted Hogwarts on a map and
+then dropped it.  They guide themselves using this map, and as a
+result arrive at Hogwarts.&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Our first solution was obviously insufficient, in part because it
+failed to account for a mapmaker&amp;rsquo;s intention.  But in our examination
+of the second solution, we can see that accounting for the mapmaker&amp;rsquo;s
+intention won&amp;rsquo;t work either.  Our scenario, involving the child
+serendipitously writing &amp;ldquo;Hogwarts&amp;rdquo; in exactly the right place on a map
+of the Scottish highlands, might be a scenario in which it&amp;rsquo;s &lt;em&gt;strictly
+false&lt;/em&gt; that Hogwarts was plotted on a map, but the spirit of the idea
+has clearly been violated.  The &lt;em&gt;point&lt;/em&gt; of unplottability is to keep
+people from &lt;em&gt;using&lt;/em&gt; maps to locate Hogwarts.&lt;/p&gt;
+
+&lt;p&gt;So we should look next at how a witch or wizard would &lt;em&gt;use&lt;/em&gt; a map to
+find Hogwarts.&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_2&#34;&gt;But I can&amp;rsquo;t use that map to find Hogwarts&lt;/h2&gt;
+
+&lt;p&gt;The crucial detail of our scenario above was that the witch or wizard
+who finds the child&amp;rsquo;s map &lt;em&gt;assumes&lt;/em&gt; that the author &lt;em&gt;intended&lt;/em&gt; to plot
+Hogwarts on their map.  They believe&amp;mdash;incorrectly, in this
+case&amp;mdash;that the map was written with a &lt;em&gt;communicative intention&lt;/em&gt;.  The
+witch or wizard believes&amp;mdash;again incorrectly&amp;mdash;that they &lt;em&gt;recognize
+the communicative intention&lt;/em&gt; of the author, which is to communicate to
+the reader the location of Hogwarts.&lt;/p&gt;
+
+&lt;p&gt;Suppose our witch or wizard had not made this mistake.  Suppose they
+overheard the Muggle child taking about the map before dropping it,
+and realized that it was pure coincidence that led the child to label
+a map with &amp;ldquo;Hogwarts&amp;rdquo;.  If the witch or wizard nonetheless picked up
+the map, they would not mistake it for a map showing the location of
+Hogwarts because they would &lt;em&gt;not&lt;/em&gt; take themselves to recognize the
+author&amp;rsquo;s communicative intention.  They would not think that the map
+was written with a communicative intent.  They would not learn
+anything from the map because they wouldn&amp;rsquo;t imagine that there is
+anything to learn.  Information transmission of this sort requires the
+belief in a communicative intention, and when this is missing it will
+not occur.&lt;/p&gt;
+
+&lt;p&gt;If this was how Unplottability works, even if a witch or wizard finds
+a map on which Hogwarts &lt;em&gt;has&lt;/em&gt; been plotted, the effect of
+Unplottability would be to block the recognition of the mapmaker&amp;rsquo;s
+communicative intention.  The reader would &lt;em&gt;not&lt;/em&gt; believe that they are
+reading a map showing the location of Hogwarts, but will instead be in
+a situation similar to the witch or wizard who knows that they are
+looking at the scrawlings of a Muggle child.&lt;/p&gt;
+
+&lt;p&gt;This kind of unplottability would play out in strange ways.  If I
+plotted a map of Hogwarts, then pushed it across the table at you,
+saying &amp;ldquo;Look!  I plotted Hogwarts on this map; you can use it to learn
+its location&amp;rdquo;, you would somehow nonetheless fail to recognize the
+communicative intention of the map.  You might suppose that I
+&lt;em&gt;believe&lt;/em&gt; I have plotted Hogwarts but haven&amp;rsquo;t, or that I am only
+&lt;em&gt;pretending&lt;/em&gt; to plot a map, like the Muggle child.&lt;/p&gt;
+
+&lt;p&gt;It&amp;rsquo;s hard to imagine what it would be like to experience this
+situation, but that&amp;rsquo;s no objection to the theory: it&amp;rsquo;s magic.&lt;/p&gt;
+
+&lt;p&gt;The problem is that there &lt;em&gt;is&lt;/em&gt; an objection to this theory (which was
+brought to my attention by &lt;a href=&#34;https://twitter.com/helenoftroyius&#34;&gt;@helenoftroyius&lt;/a&gt;).&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_3&#34;&gt;The Marauder&amp;rsquo;s Map&lt;/h2&gt;
+
+&lt;p&gt;The Marauder&amp;rsquo;s Map is a &amp;ldquo;internal&amp;rdquo; map of Hogwarts, so it doesn&amp;rsquo;t,
+strictly speaking, show the location of the castle.  But since it
+shows the secret passages leading to Hogsmeade, it&amp;rsquo;s possible to
+figure out where Hogsmeade and Hogwarts are in relation to each other.
+Hogsmeade is almost certainly plottable, so using the Marauder&amp;rsquo;s Map
+to learn the location of Hogsmeade is unproblematic.  But &lt;em&gt;because&lt;/em&gt;
+Hogsmeade is plottable, we can easily find it on a map, and
+therefore&amp;mdash;because we used the Map to find the relative location of
+Hogwarts&amp;mdash;locate Hogwarts.  We&amp;rsquo;re using maps only to find plottable
+locations, but by learning of the location of Hogsmeade &lt;em&gt;relative to
+Hogwarts&lt;/em&gt;, this process allows us to bypass Hogwarts&amp;rsquo; unplottability.&lt;/p&gt;
+
+&lt;p&gt;Now you might be thinking that this loophole probably only affects
+Hogwarts, because no other unplottable locations have (a)
+comprehensive internal maps and (b) passages leading out towards
+plottable locations.  So who cares, right?&lt;/p&gt;
+
+&lt;p&gt;But things are actually much much worse than this.  We can learn the
+location of Hogwarts relative to Hogsmeade by using the Marauder&amp;rsquo;s
+Map, but we can also figure it out by &lt;em&gt;walking there&lt;/em&gt;.  The Map isn&amp;rsquo;t
+actually the problem.  I can just as easily walk from Durmstrang to
+the first plottable village.  &lt;em&gt;Boom&lt;/em&gt;, I know where Durmstrang is.&lt;/p&gt;
+
+&lt;p&gt;So Unplottability can&amp;rsquo;t just consist in preventing me from recognizing
+a communicative intention.  It has to be something more, if it&amp;rsquo;s going
+to work.&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_4&#34;&gt;&amp;ldquo;&lt;em&gt;A&lt;/em&gt;, and if &lt;em&gt;A&lt;/em&gt;, then &lt;em&gt;B&lt;/em&gt;, therefore &amp;hellip; what?&amp;rdquo;&lt;/h2&gt;
+
+&lt;p&gt;An &lt;a href=&#34;http://baruffio.com/docs/unplottable.html&#34;&gt;earlier version&lt;/a&gt; of this
+essay concluded that Unplottability was impossible.  Jacob T. Levy,
+Tomlinson Professor of Political Theory at McGill University, found
+that pessimism unwarranted and proposed a solution:&lt;/p&gt;
+
+&lt;blockquote class=&#34;twitter-tweet&#34; lang=&#34;en&#34;&gt;&lt;p&gt;&lt;a href=&#34;https://twitter.com/helenoftroyius&#34;&gt;@helenoftroyius&lt;/a&gt; &lt;a href=&#34;https://twitter.com/dunndunndunn&#34;&gt;@dunndunndunn&lt;/a&gt; It&amp;#39;s easy;just use an SEP field! Interfere with the intention to *either* draw a map or use a map (or 2 maps)&lt;/p&gt;&amp;mdash; jtlevy (@jtlevy) &lt;a href=&#34;https://twitter.com/jtlevy/statuses/429670387501117441&#34;&gt;February 1, 2014&lt;/a&gt;&lt;/blockquote&gt;
+
+&lt;blockquote class=&#34;twitter-tweet&#34; data-conversation=&#34;none&#34; lang=&#34;en&#34;&gt;&lt;p&gt;&lt;a href=&#34;https://twitter.com/helenoftroyius&#34;&gt;@helenoftroyius&lt;/a&gt; &lt;a href=&#34;https://twitter.com/dunndunndunn&#34;&gt;@dunndunndunn&lt;/a&gt; This combines #2 and #3 w rule that if I try to put Marauder&amp;#39;s Map &amp;amp; Hogsmeade maps together I... ooh! shiny!&lt;/p&gt;&amp;mdash; jtlevy (@jtlevy) &lt;a href=&#34;https://twitter.com/jtlevy/statuses/429671149165752320&#34;&gt;February 1, 2014&lt;/a&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;An S.E.P., or Somebody Else&amp;rsquo;s Problem, field,
+&amp;ldquo;&lt;a href=&#34;http://hitchhikers.wikia.com/wiki/Somebody_Else&#34; title=&#34;s_Problem_field
+&amp;quot;Hitchhiker Wiki&#34;&gt;utilizes a person&amp;rsquo;s natural tendency to ignore things they don&amp;rsquo;t easily accept&lt;/a&gt;&amp;rdquo; by causing them to simply &lt;em&gt;ignore&lt;/em&gt; certain
+information:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Any object around which a S.E.P. [field] is applied will cease to be
+noticed, because any problems one may have understanding it (and
+therefore accepting its existence) become Somebody Else&amp;rsquo;s. An object
+becomes not so much invisible as unnoticed.&lt;/p&gt;
+
+&lt;p&gt;A perfect example of this would be a ship covered in a S.E.P. field at
+a cricket match. A star ship taking the appearance of a large pink
+elephant is ideal &amp;hellip; you can see it, but because it is so
+inconceivable, your mind can&amp;rsquo;t accept it. Therefore it can&amp;rsquo;t exist,
+thus [you ignore it].&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;This proposal raises difficult and delicate questions in the
+philosophy of mind that I don&amp;rsquo;t know how to answer.  But it also
+suggests an even simpler solution: whenever I try to infer &lt;em&gt;from&lt;/em&gt; some
+pieces of information &lt;em&gt;to&lt;/em&gt; the location of Hogwarts, the
+Unplottability enchantment blocks that inference.&lt;/p&gt;
+
+&lt;p&gt;When I walk from Hogwarts to Hogsmeade, measuring the distance, I may
+end up with this bit of knowledge:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;I walked 1km, northwest, from Hogwarts to Hogsmeade.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;It may not be obvious at first, but just knowing that does &lt;em&gt;not&lt;/em&gt; mean
+that one automatically knows this:&lt;/p&gt;
+
+&lt;ol start=&#34;2&#34; type=&#34;1&#34;&gt;
+&lt;li&gt;Hogwarts is 1km southeast of Hogsmeade.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;I can &lt;em&gt;infer&lt;/em&gt; (2) from (1), but I have to know some other things as
+well.  Things like:&lt;/p&gt;
+
+&lt;ol type=&#34;i&#34;&gt;
+&lt;li&gt;&lt;p&gt;If I walk a certain distance from point &lt;em&gt;A&lt;/em&gt; to point &lt;em&gt;B&lt;/em&gt;, &lt;em&gt;A&lt;/em&gt; is that far from &lt;em&gt;B&lt;/em&gt;.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;If &lt;em&gt;A&lt;/em&gt; is a certain distance from &lt;em&gt;B&lt;/em&gt;, then &lt;em&gt;B&lt;/em&gt; is the same distance from &lt;em&gt;A&lt;/em&gt;.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;If &lt;em&gt;B&lt;/em&gt; is northwest of &lt;em&gt;A&lt;/em&gt;, then &lt;em&gt;A&lt;/em&gt; is southeast of &lt;em&gt;B&lt;/em&gt;.&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Of course all these things are &lt;em&gt;obvious&lt;/em&gt;, so we don&amp;rsquo;t usually think
+about how we rely on them for drawing equally obvious conclusions like
+(2).  But we do rely on them, and we also rely on &lt;em&gt;inference rules&lt;/em&gt;
+that allow us to move from our premises to our conclusion.  For
+example, just to conclude that Hogwarts is 1km from Hogsmeade, I have
+to reason like this:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;I walked 1km from Hogwarts to Hogsmeade&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;If I walked 1km from Hogwarts to Hogsmeade, Hogwarts is 1km from Hogsmeade.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;em&gt;Therefore&lt;/em&gt;, Hogwarts is 1km from Hogsmeade.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&amp;ldquo;Therefore&amp;rdquo; marks the point at which I make an inference.  If I
+somehow fail to see that there is a valid inference to be made, I may
+be left with only the first two pieces of information, not knowing
+whether Hogwarts is 1km from Hogsmeade or not.&lt;/p&gt;
+
+&lt;p&gt;This, I suggest, is exactly the situation I will be in, because the
+Unplottability enchantment will prevent me from making inferences
+that would allow me to learn the location of Hogwarts.  I will be like
+&lt;a href=&#34;http://alexdunn.info/docs/carroll1895.pdf&#34; title=&#34;What the Tortoise Said to Achilles&#34;&gt;Lewis Carroll&amp;rsquo;s Tortoise&lt;/a&gt;, except unable&amp;mdash;rather than
+simply unwilling&amp;mdash;to see that if &lt;em&gt;A&lt;/em&gt; is true, and &lt;em&gt;A then B&lt;/em&gt; is
+true, that &lt;em&gt;B&lt;/em&gt; must be true as well.&lt;/p&gt;
+
+&lt;p&gt;Thus, even if I know where Hogsmeade is, &lt;em&gt;and&lt;/em&gt; know that I have to
+walk 1km from Hogwarts to Hogsmeade, because Hogwarts is Unplottable I
+&lt;em&gt;cannot&lt;/em&gt; use this information to determine where Hogwarts is, because
+I simply fail to make the simple but necessary inferences.  Likewise,
+after their adventure in the flying Ford Anglia in &lt;em&gt;Chamber of
+Secrets,&lt;/em&gt; Harry and Ron might know both where King&amp;rsquo;s Cross Station is
+and how far they traveled to get to Hogwarts, but Unplottability
+prevents them from thereby deducing where Hogwarts is.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;There&amp;rsquo;s no reason to think that this enchantment could only prevent
+inferences from map-based information; it would hardly honor the
+spirit of the spell to suppose that if I had learn where Hogsmeade is
+without using a map, that I could then determine the location of
+Hogwarts.  If the purpose of Unplottability is to keep the location of
+a place secret, then a blanket ban on the sorts of inferences that
+would betray that secret seems entirely plausible.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

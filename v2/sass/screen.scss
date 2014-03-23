@@ -63,6 +63,7 @@ section.single footer {
 article + article {
   border-top: $thin-border solid $sky;
   border-top-color: rgba(202, 187, 168, .5);
+  padding-top: 1.5em;
 }
 
 section.about {
@@ -306,9 +307,11 @@ img {
   border: $box-border solid $grass;
 }
 hr {
-  height: $thin-border;
-  width: 50%;
-  border: 0;
+  border: none;
+  &:before {
+    content: "✽";
+    padding-left: 47.5%;
+  }
 }
 
 //////////////////////// media queries ..................///////////////
