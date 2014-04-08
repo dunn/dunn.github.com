@@ -6,7 +6,784 @@
     <language>en-us</language>
     <author>A Witch or Wizard</author>
     <rights>Copyright the respective author(s); all rights reserved.</rights>
-    <updated>2014-03-23 14:00:00 -0700 PDT</updated>
+    <updated>2014-04-07 23:00:00 -0700 PDT</updated>
+    
+    <item>
+      <title>The Philosopher&#8217;s Stoned: an Opinionated Introduction to Proper Names</title>
+      <link>http://baruffio.com/v2/p/names</link>
+      <pubDate>Mon, 07 Apr 2014 23:00:00 PDT</pubDate>
+      <author>[Alex Dunn]</author>
+      <guid>http://baruffio.com/v2/p/names</guid>
+      <description>
+
+&lt;p&gt;Snape was wrong when he suggested that the Marauder&amp;rsquo;s Map is &amp;ldquo;plainly
+full of Dark Magic,&amp;rdquo; but it is a remarkably powerful artifact and it&amp;rsquo;s
+not at all obvious how it works.  How does it know your name, in order
+to label your dot as it tracks you throughout the castle?  In order to
+answer that question, we&amp;rsquo;re going to have to start from the beginning,
+and figure out what a &lt;em&gt;name&lt;/em&gt; even is, and how &lt;em&gt;it&lt;/em&gt; works.  &lt;em&gt;Sonorous!&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_0&#34;&gt;What is the Marauder&amp;rsquo;s Map and how does it work?&lt;/h2&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;It was a map showing every detail of the Hogwarts castle and
+ grounds. But the truly remarkable thing was the tiny ink dots
+ moving around it, each labelled with a name in minuscule
+ writing. Astounded, Harry bent over it. A labelled dot in the top
+ left corner showed that Professor Dumbledore was pacing his study;
+ the caretaker&amp;rsquo;s cat, Mrs Norris, was prowling the second floor, and
+ Peeves the poltergeist was currently bouncing around the trophy
+ room (&lt;em&gt;PoA,&lt;/em&gt; chapter 10).&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The idea here is pretty straightforward: the Marauder&amp;rsquo;s Map is a map
+of Hogwarts that also reveals the location of everyone inside the
+castle&amp;mdash;or at least, the locations of people and certain cats.  It
+reveals your location by placing a dot on the section of the map that
+corresponds to where you are in the castle, and by labeling that dot
+with your name.&lt;/p&gt;
+
+&lt;p&gt;In the books, the Map has no problem figuring out everyone&amp;rsquo;s name and
+labeling them correctly.  But how does it do that?  How does it know
+our names?&lt;/p&gt;
+
+&lt;p&gt;In order to answer that question, we first need to settle a more basic
+question about the relationship between words and the world.  This
+question might seem silly, but there is actually a great deal of
+controversy over the correct answer:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;What&amp;rsquo;s the relationship between someone&amp;mdash;like Harry Potter&amp;mdash;and
+their name&amp;mdash;&amp;ldquo;Harry Potter&amp;rdquo;?  (Or their &lt;em&gt;names,&lt;/em&gt; if, like Alastor
+Moody, they sometimes go by a different name.)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I think we should start by making an assumption that&amp;rsquo;s common among
+philosophers of language, which is that names &lt;em&gt;designate.&lt;/em&gt; In other
+words, names (at least most of them) stand in a particular relation to
+things in the world.  It&amp;rsquo;s because of this designation relation that
+names &lt;em&gt;hook onto the world.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;This might seem like an obvious assumption, but not everyone agrees.
+Before moving on, let&amp;rsquo;s discuss an objection to this assumption, and
+why we&amp;rsquo;re going to stick with it anyway.&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_1&#34;&gt;Some people don&amp;rsquo;t think names designate&lt;/h2&gt;
+
+&lt;p&gt;Some philosophers, influenced by Ludwig Wittgenstein, have argued that
+the answer we gave above, and the evocative metaphor of words hooking
+onto the world, is altogether misguided.  The objection is that
+instead of thinking of words as &lt;em&gt;labels&lt;/em&gt; that stick to various
+objects, we should think of words, including names, as &lt;em&gt;tools&lt;/em&gt; that we
+&lt;em&gt;use&lt;/em&gt; to do things.  On page 78 of his &lt;em&gt;Philosophy of Language: A
+Contemporary Introduction&lt;/em&gt; (Second Edition), William Lycan suggests
+that this is what Wittgenstein himself was getting at in his later
+work:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Wittgenstein [offered] a further analogy
+[in &lt;em&gt;Philosophical Investigations&lt;/em&gt;]: A builder and his assistant
+have just four kinds of building stones that they use. They speak a
+little primitive language that has just four corresponding words in
+it: &amp;ldquo;block,&amp;rdquo; &amp;ldquo;pillar,&amp;rdquo; &amp;ldquo;slab,&amp;rdquo; and &amp;ldquo;beam.&amp;rdquo; They build things,
+engaging in their nonlinguistic activities aided by a certain
+primitive sort of linguistic activity: the builder says &amp;ldquo;slab,&amp;rdquo; and
+the assistant brings a stone of the appropriate shape. Now, someone
+might say, &amp;ldquo;Of course, that word &amp;lsquo;slab&amp;rsquo; bears the [designation]
+relation to a block of this shape, and its meaning is the
+proposition that the assistant is to bring such a block to the
+builder.&amp;rdquo; But according to Wittgenstein this would be missing the
+point. In this little primitive language-game, the word &amp;ldquo;slab&amp;rdquo; does
+have a function that is obviously connected with blocks of that
+shape, but the point is the function and not the [designation]
+relation. The point of the builder&amp;rsquo;s making the noise &amp;ldquo;slab&amp;rdquo; is just
+to get the assistant to do something, to trigger conventionally (the
+assistant having learned his trade) a pattern of useful
+activity. The activity does involve things of this shape, but the
+primary point is to initiate action, not to [designate].&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The idea here, roughly, is that names, and words in general, are less
+like &lt;em&gt;tags&lt;/em&gt; and more like &lt;em&gt;hammers.&lt;/em&gt; Instead of asking what a name is
+&lt;em&gt;attached to,&lt;/em&gt; we should ask what a name is &lt;em&gt;used for.&lt;/em&gt; In
+Wittgenstein&amp;rsquo;s example, the words &amp;ldquo;block,&amp;rdquo; &amp;ldquo;pillar,&amp;rdquo; &amp;ldquo;slab,&amp;rdquo; and
+&amp;ldquo;beam&amp;rdquo; are used to make the assistant retrieve certain building
+materials.&lt;/p&gt;
+
+&lt;p&gt;According to this sort of theory, words in general work a lot like
+spell-words do.  Here&amp;rsquo;s an example from &lt;em&gt;Chamber of Secrets,&lt;/em&gt; right
+after Gilderoy Lockhart admits that he didn&amp;rsquo;t do any of the brave
+things he claimed to do in his books:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;He pulled out his wand and turned to them.&lt;/p&gt;
+
+&lt;p&gt;&amp;ldquo;Awfully sorry, boys, but I&amp;rsquo;ll have to put a Memory Charm on you
+now. Can&amp;rsquo;t have you blabbing my secrets all over the place.  I&amp;rsquo;d
+never sell another book &amp;hellip;&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;Harry reached his wand just in time. Lockhart had barely raised his,
+when Harry bellowed, &amp;ldquo;&lt;em&gt;Expelliarmus!&lt;/em&gt;&amp;rdquo; (&lt;em&gt;CoS,&lt;/em&gt; chapter 16)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;It doesn&amp;rsquo;t seem to make much sense to ask what &amp;ldquo;Expelliarmus&amp;rdquo;
+designated there.  It didn&amp;rsquo;t designate &lt;em&gt;anything.&lt;/em&gt;  It was &lt;em&gt;used&lt;/em&gt; by
+Harry to disarm Lockhart.&lt;/p&gt;
+
+&lt;h3 id=&#34;toc_2&#34;&gt;Problems with the words-as-tools theory&lt;/h3&gt;
+
+&lt;p&gt;As appealing as this words-as-tools theory is, it&amp;rsquo;s got some real
+problems. Here&amp;rsquo;s one:&lt;/p&gt;
+
+&lt;p&gt;Look again at how we talked about the &amp;ldquo;Expelliarmus&amp;rdquo; case: we said
+that &amp;ldquo;it doesn&amp;rsquo;t seem to make much sense to ask what &amp;lsquo;Expelliarmus&amp;rsquo;
+designated &lt;em&gt;there.&lt;/em&gt;&amp;rdquo;  It &lt;em&gt;doesn&amp;rsquo;t&lt;/em&gt; seem to make much sense to ask what
+&amp;ldquo;Expelliarmus&amp;rdquo; designated &lt;em&gt;in that context,&lt;/em&gt; but it &lt;em&gt;does&lt;/em&gt; make sense
+to ask what &amp;ldquo;Expelliarmus&amp;rdquo; designates &lt;em&gt;in general.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;In general, &amp;ldquo;Expelliarmus&amp;rdquo; designates &lt;em&gt;Expelliarmus.&lt;/em&gt; &amp;ldquo;Expelliarmus&amp;rdquo;
+is the name of a spell.  When we use the word &amp;ldquo;Expelliarmus,&amp;rdquo; we&amp;rsquo;re
+not always using it to cast a spell.  Sometimes we just want to talk
+about the spell, like Harry and Zacharias Smith do during the first
+meeting of Dumbledore&amp;rsquo;s Army:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;Right,&amp;rdquo; said Harry, [&amp;hellip;] &amp;ldquo;shall we get practising then? I was
+thinking, the first thing we should do is Expelliarmus, you know,
+the Disarming Charm. I know it&amp;rsquo;s pretty basic but I&amp;rsquo;ve found it
+really useful&amp;mdash;&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;&amp;ldquo;Oh, please,&amp;rdquo; said Zacharias Smith, rolling his eyes and folding his
+arms. &amp;ldquo;I don&amp;rsquo;t think Expelliarmus is exactly going to help us
+against You-Know-Who, do you?&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;&amp;ldquo;I&amp;rsquo;ve used it against him,&amp;rdquo; said Harry quietly. &amp;ldquo;It saved my life in
+June&amp;rdquo; (&lt;em&gt;OotP,&lt;/em&gt; chapter 18).&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;I think the right conclusion to draw here is that, while
+&amp;ldquo;Expelliarmus&amp;rdquo; designates &lt;em&gt;Expelliarmus,&lt;/em&gt; we don&amp;rsquo;t always &lt;em&gt;use&lt;/em&gt;
+&amp;ldquo;Expelliarmus&amp;rdquo; to talk about &lt;em&gt;Expelliarmus.&lt;/em&gt;  Sometimes, as we&amp;rsquo;ve
+seen, we use it to cast the spell.  Just because a word designates a
+certain thing doesn&amp;rsquo;t mean that we can&amp;rsquo;t use it to do things other
+than talk about what it designates.  Malfoy does just this in
+&lt;em&gt;Prisoner of Azkaban:&lt;/em&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;Well, look who it is,&amp;rdquo; said Malfoy in his usual lazy drawl, pulling
+open the compartment door. &amp;ldquo;Potty and the Weasel.&amp;rdquo;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;I&amp;rsquo;m not sure what &amp;ldquo;Potty&amp;rdquo; designates, but it&amp;rsquo;s not Harry.  And &amp;ldquo;the
+Weasel&amp;rdquo; doesn&amp;rsquo;t designate Ron&amp;mdash;many philosophers of language think
+that the determiner &amp;ldquo;the&amp;rdquo; means that &amp;ldquo;the Weasel&amp;rdquo; can only designate
+the &lt;em&gt;unique&lt;/em&gt; Weasel, and so doesn&amp;rsquo;t designate anything in a world with
+many weasels, such the world of &lt;em&gt;Harry Potter.&lt;/em&gt; But Malfoy is
+nonetheless using &amp;ldquo;Potty&amp;rdquo; to talk about Harry and using &amp;ldquo;the Weasel&amp;rdquo;
+to talk about Ron.  Let&amp;rsquo;s introduce another bit of technical language
+and say that while &amp;ldquo;Potty&amp;rdquo; does not &lt;em&gt;designate&lt;/em&gt; Harry, Malfoy is using
+it, in this context, to &lt;em&gt;refer&lt;/em&gt; to Harry.&lt;/p&gt;
+
+&lt;p&gt;Context is important for &lt;em&gt;referring,&lt;/em&gt; but not for &lt;em&gt;designating.&lt;/em&gt;  If
+&amp;ldquo;Harry Potter&amp;rdquo; designates Harry Potter, it does so all the time, and
+whether or not anyone is using the name.  But Malfoy has to be in the
+right sort of situation in order to &lt;em&gt;refer&lt;/em&gt; to Harry using &amp;ldquo;Potty.&amp;rdquo;
+Basically, he has to be in a situation where the people he&amp;rsquo;s talking
+to realize he&amp;rsquo;s using &amp;ldquo;Potty&amp;rdquo; as if it was a name for Harry.  This is
+how Kent Bach describes it on page 518 of &amp;ldquo;What Does it Take to
+Refer?&amp;rdquo; in the &lt;em&gt;Oxford Handbook of Philosophy of Language:&lt;/em&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Speaker reference is a four-place relation between a speaker, an
+expression, an audience, and a referent: you use an expression to
+refer someone to something.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The difference between designation and reference will be important
+later on, but the point of bringing it up now is to show that while
+the words-as-tools theory is &lt;em&gt;right&lt;/em&gt; to say that we use words for
+different purposes in different contexts, that &lt;em&gt;doesn&amp;rsquo;t&lt;/em&gt; mean we
+should think that words never designate anything.&lt;/p&gt;
+
+&lt;p&gt;There are other objections to the words-as-tools theory.  One is that
+while it might be true for some words and maybe even some phrases,
+it&amp;rsquo;s not &lt;em&gt;generally&lt;/em&gt; true; some words and phrases might be tools, but
+some aren&amp;rsquo;t.  We&amp;rsquo;re interested in names right now, and names seem the
+&lt;em&gt;least&lt;/em&gt; like tools; they really do seem more like labels or tags.
+Another objection to word-as-tools is that even if I understand the
+conventional ways to use English words, that&amp;rsquo;s not all there is to
+&lt;em&gt;understanding&lt;/em&gt; English.  This is one of William Lycan&amp;rsquo;s objections,
+from page 81 of &lt;em&gt;Philosophy of Language:&lt;/em&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Could I not know the use of an expression, and fall in with it,
+mechanically, without understanding it? I have known undergraduates
+who are geniuses at picking up academic jargon of one sort or
+another and slinging it around with great facility, but without
+understanding.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;(A similar example is in &lt;em&gt;Goblet of Fire,&lt;/em&gt; when Harry and Ron simply
+make up predictions about what will happen to them in the coming
+month, but aren&amp;rsquo;t caught by Professor Trelawny because what they write
+sounds like what she expects to hear.)&lt;/p&gt;
+
+&lt;p&gt;We could program a computer (or enchant a hat) to reply to English
+sentences with other English sentences; it might be well-designed
+enough to give replies that a fluent English speaker would give.  But
+if the computer&amp;rsquo;s replies were chosen by making statistical
+generalizations from a database of recorded conversations, we would
+probably say that the computer doesn&amp;rsquo;t actually &lt;em&gt;understand&lt;/em&gt; English.
+It can use English words, but it doesn&amp;rsquo;t know what they &lt;em&gt;mean.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;There&amp;rsquo;s more that could be said on both sides, but let&amp;rsquo;s put away the
+words-as-tools theory, and accept for the time being that names really
+do designate things.  Now let&amp;rsquo;s talk about &lt;em&gt;meaning.&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_3&#34;&gt;The meaning of names&lt;/h2&gt;
+
+&lt;p&gt;So far we&amp;rsquo;ve just talked about whether or not names designate things.
+But at least for most words, you&amp;rsquo;re probably more familiar with the
+question, &amp;ldquo;what does this word &lt;em&gt;mean?&lt;/em&gt;&amp;rdquo;  We&amp;rsquo;re going to stay focused
+just on names, so our question is &lt;strong&gt;&amp;ldquo;what do names mean?&amp;rdquo;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;We have no problem explaining what most words mean, so it may seem odd
+that the meaning of names is such a big problem.  For example, the
+meaning of &amp;ldquo;squib&amp;rdquo; is &amp;ldquo;person without magical power but with at least
+one parent who is a witch or wizard.&amp;rdquo;  The meaning of &amp;ldquo;thestral&amp;rdquo; is
+something like &amp;ldquo;winged horse visible only to those who have seen and
+understood death.&amp;rdquo;  But it&amp;rsquo;s not nearly as obvious what the meaning of
+&amp;ldquo;Harry Potter&amp;rdquo; is.&lt;/p&gt;
+
+&lt;p&gt;We&amp;rsquo;re going to look at three different theories of names, which each
+provide a different answer to the question, &amp;ldquo;what is the meaning of
+&amp;lsquo;Harry Potter&amp;rsquo;?&amp;rdquo;  The first theory is &lt;strong&gt;Descriptivism,&lt;/strong&gt; the second is
+&lt;strong&gt;Millianism,&lt;/strong&gt; and the third is &lt;strong&gt;Nominal Descriptivism.&lt;/strong&gt; I think
+Nominal Descriptivism is the correct theory, and I&amp;rsquo;ll explain why, but
+there are many philosophers who disagree.&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_4&#34;&gt;Descriptivism&lt;/h2&gt;
+
+&lt;p&gt;As its name suggests, Descriptivism claims that the meaning of a name
+&lt;em&gt;describes&lt;/em&gt; the person or object designated by that name.  According
+to this theory, names such as &amp;ldquo;Harry Potter&amp;rdquo; are a lot like general
+terms like &amp;ldquo;squib&amp;rdquo; and &amp;ldquo;thestral.&amp;rdquo;  The meanings of those words also
+describe the things they designate.&lt;/p&gt;
+
+&lt;p&gt;But the meaning of &amp;ldquo;Harry Potter&amp;rdquo; can&amp;rsquo;t be just any description that
+describes Harry Potter.  For example, the meaning of &amp;ldquo;Harry Potter&amp;rdquo;
+can&amp;rsquo;t be &amp;ldquo;the boy who lived.&amp;rdquo;  It&amp;rsquo;s true that &amp;ldquo;the boy who lived&amp;rdquo; is
+commonly used to &lt;em&gt;refer&lt;/em&gt; to Harry Potter, and has become associated in
+the popular imagination with Harry Potter, but &amp;ldquo;the boy who lived&amp;rdquo;
+doesn&amp;rsquo;t &lt;em&gt;uniquely&lt;/em&gt; describe Harry.  Strictly speaking, any living boy
+is a boy who lived; Harry is not actually unique in that respect.  And
+as I mentioned above, &amp;ldquo;the&amp;rdquo; implies uniqueness.  There are many maps,
+but only one Marauder&amp;rsquo;s Map, so it is &lt;em&gt;the&lt;/em&gt; Marauder&amp;rsquo;s Map.  If there
+were multiple Marauder&amp;rsquo;s Maps, then it would not be correct to use
+&amp;ldquo;the.&amp;rdquo;  &amp;ldquo;The Marauder&amp;rsquo;s Map&amp;rdquo; only designates the Marauder&amp;rsquo;s Map while
+it is the unique&amp;mdash;the only&amp;mdash;Marauder&amp;rsquo;s Map.&lt;/p&gt;
+
+&lt;p&gt;For this reason, &amp;ldquo;the boy who lived&amp;rdquo; does not designate Harry, even
+though it is very often used to refer to him.  So if Descriptivism is
+true, then the meaning of &amp;ldquo;Harry Potter&amp;rdquo; is something other than &amp;ldquo;the
+boy who lived.&amp;rdquo;  It will be something that does uniquely describe
+Harry, something like &amp;ldquo;the wizard born to James and Lily Potter on 31
+July 1980, who survived a Killing Curse cast by Voldemort on
+Hallowe&amp;rsquo;en in 1981.&amp;rdquo;  &lt;em&gt;That&lt;/em&gt; describes nobody else.&lt;/p&gt;
+
+&lt;p&gt;According to Descriptivism, &amp;ldquo;Harry Potter&amp;rdquo; is really nothing more than
+an &lt;em&gt;abbreviation&lt;/em&gt; of &amp;ldquo;the wizard born to James and Lily Potter on 31
+July 1980, who survived a Killing Curse cast by Voldemort on
+Hallowe&amp;rsquo;en in 1981.&amp;rdquo;  The only difference between the following two
+sentences is their length:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;The wizard born to James and Lily Potter on 31 July 1980, who
+survived a Killing Curse cast by Voldemort on Hallowe&amp;rsquo;en in 1981,
+lives in the cupboard under the stairs of 4 Privet Drive, Little
+Whinging, Surrey.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Harry Potter lives in the cupboard under the stairs of 4 Privet
+Drive, Little Whinging, Surrey.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;If Descriptivism is correct, then we use &amp;ldquo;Harry Potter&amp;rdquo; instead of
+&amp;ldquo;the wizard born to James and Lily Potter on 31 July 1980, who survived
+a Killing Curse cast by Voldemort on Hallowe&amp;rsquo;en in 1981&amp;rdquo; essentially
+because it&amp;rsquo;s more convenient; but the meaning is the same.&lt;/p&gt;
+
+&lt;h3 id=&#34;toc_5&#34;&gt;How would the Map work in a Descriptivist world?&lt;/h3&gt;
+
+&lt;p&gt;Let&amp;rsquo;s suppose that Descriptivism is correct.  What would that tell us
+about how the Marauder&amp;rsquo;s Map works?  We&amp;rsquo;re not worried about how it
+determines that &lt;em&gt;some&lt;/em&gt; person is in, for example, the Gryffindor
+common room; presumably that&amp;rsquo;s taken care of by the
+&lt;a href=&#34;http://pottermore.wikia.com/wiki/Marauder%27s_Map&#34; title=&#34;entry for the Marauder&#39;s Map on the Pottermore wiki&#34;&gt;Homonculous Charm&lt;/a&gt;.  What we want
+to know is how the Map goes further, and determines &lt;em&gt;who&lt;/em&gt; that person
+is.  Without asking anyone, how does it figure out your name?&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Let&amp;rsquo;s make some assumptions about Hogwarts in order to make this
+easier.  We&amp;rsquo;ll suppose that the Map already has access to the names of
+everyone who is in the castle.  If the Map didn&amp;rsquo;t have the names, then
+it&amp;rsquo;s hard to see how the Map could match up people with their names.
+It would have to be able to deduce a person&amp;rsquo;s name just from &amp;ldquo;looking&amp;rdquo;
+at them; and I&amp;rsquo;m not sure if that can be done.&lt;/p&gt;
+
+&lt;p&gt;But why should we be allowed to assume that the Map already has access
+to the names of everyone in the castle?  I think we&amp;rsquo;re allowed to, for
+the following reason: Hogwarts is protected from intruders by a number
+of enchantments.  One of these enchantments might well be an
+enchantment that prevents unauthorized people from entering the
+castle.  At the beginning of the year, the Headmaster or Headmistress
+teaches Hogwarts the names of the new students, so that they may
+enter.  Individuals who never attended the school but are either
+permanent or temporary residents&amp;mdash;Peeves, Filch, Mrs. Norris, the
+visitors from Beauxbatons and Durmstrang&amp;mdash;are added on a case-by-case
+basis.  Hogwarts determines who is designated by each name, and allows
+them entry.  The Marauder&amp;rsquo;s Map simply piggy-backs off this system of
+enchantments.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;So: Hogwarts learns the name &amp;ldquo;Harry Potter,&amp;rdquo; and therefore the
+Marauder&amp;rsquo;s Map does too.  How does the Map then take that name and
+figure out who it designates?&lt;/p&gt;
+
+&lt;p&gt;If Descriptivism is true, then what the Map learns when it learns the
+name &amp;ldquo;Harry Potter&amp;rdquo; is that the meaning of &amp;ldquo;Harry Potter&amp;rdquo; is &amp;ldquo;the
+wizard born to James and Lily Potter on 31 July 1980, who survived a
+Killing Curse cast by Voldemort on Hallowe&amp;rsquo;en in 1981.&amp;rdquo;  So in order
+to label Harry Potter&amp;rsquo;s dot on the Marauder&amp;rsquo;s Map, the Map just needs
+to discover which of the people within Hogwarts is the wizard born to
+James and Lily Potter on 31 July 1980, who survived a Killing Curse
+cast by Voldemort on Hallowe&amp;rsquo;en in 1981.  Whoever in fact fits that
+description is Harry Potter, according to this theory.&lt;/p&gt;
+
+&lt;p&gt;How the Map actually goes about this investigation is something
+J.K. Rowling might have to tell us.  How the Map can reach back into
+the past and figure out with complete certainty which of these people
+&lt;em&gt;now&lt;/em&gt; in the castle was &lt;em&gt;then&lt;/em&gt; the wizard who survived a Killing Curse
+is a complicated question.  It&amp;rsquo;s also a question that we&amp;rsquo;re not going
+to try to answer.&lt;/p&gt;
+
+&lt;p&gt;We know now &lt;em&gt;what&lt;/em&gt; the Map needs to do in order to label its dots, if
+Descriptivism is true.  &lt;em&gt;How&lt;/em&gt; it does that is a question for another
+day; and perhaps it&amp;rsquo;s not even worth trying to answer this second
+question, because Descriptivism is probably not the correct theory
+anyway.&lt;/p&gt;
+
+&lt;h3 id=&#34;toc_6&#34;&gt;Problems with Descriptivism&lt;/h3&gt;
+
+&lt;p&gt;Descriptivism is intuitive and straightforward, but it has some big
+problems.  Here are three:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;In order to understand the meaning of &amp;ldquo;Harry Potter,&amp;rdquo; I shouldn&amp;rsquo;t
+have to know anything about Voldemort, or even that there is
+anyone named &amp;ldquo;Voldemort.&amp;rdquo;  But Descriptivism insists that, since
+&amp;ldquo;Harry Potter&amp;rdquo; is &lt;em&gt;synonymous&lt;/em&gt; with &amp;ldquo;the wizard born to James and
+Lily Potter on 31 July 1980, who survived a Killing Curse cast by
+Voldemort on Hallowe&amp;rsquo;en in 1981,&amp;rdquo; understanding the meaning of
+&amp;ldquo;Harry Potter&amp;rdquo; involves being aware of the (former) existence of
+not only Voldemort, but James and Lily as well.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;If &amp;ldquo;Harry Potter&amp;rdquo; just means &amp;ldquo;the wizard born to James and Lily
+Potter on 31 July 1980, who survived a Killing Curse cast by
+Voldemort on Hallowe&amp;rsquo;en in 1981&amp;rdquo;, than anyone who understands the
+name &amp;ldquo;Harry Potter&amp;rdquo; thereby &lt;em&gt;knows&lt;/em&gt;&amp;mdash;just on the basis of
+understanding the name!&amp;mdash;that Harry Potter survived a Killing
+Curse cast by Voldemort.  But surely this is not true; someone can
+understand the name &amp;ldquo;Harry Potter&amp;rdquo; and &lt;em&gt;not&lt;/em&gt; know that he survived
+a Killing Curse, or even that his parents were named &amp;ldquo;James&amp;rdquo; and
+&amp;ldquo;Lily.&amp;rdquo;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;It seems perfectly true to say &amp;ldquo;It could have been that Harry
+Potter did &lt;em&gt;not&lt;/em&gt; survive that Killing Curse cast by Voldemort.&amp;rdquo;
+If Lily hadn&amp;rsquo;t died trying to save him, her love wouldn&amp;rsquo;t have
+protected him from Voldemort&amp;rsquo;s curse, and he would also have died.
+But if Descriptivism is true, then the following are equivalent:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&amp;ldquo;It could have been that Harry Potter did &lt;em&gt;not&lt;/em&gt; survive that
+Killing Curse cast by Voldemort.&amp;rdquo;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&amp;ldquo;It could have been that the wizard born to James and Lily Potter
+on 31 July 1980, who survived a Killing Curse cast by Voldemort on
+Hallowe&amp;rsquo;en in 1981 did &lt;em&gt;not&lt;/em&gt; survive that Killing Curse cast by
+Voldemort.&amp;rdquo;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;And while the first is true, the second seems false.  How could it
+be that the wizard, whoever it is, who survived a Killing Curse
+&lt;em&gt;not&lt;/em&gt; have survived that Killing Curse?  We seem to be
+contradicting ourselves.  But we are definitely &lt;em&gt;not&lt;/em&gt;
+contradicting ourselves by saying that Harry Potter might not have
+survived that Killing Curse.&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;For these reasons, I think that Descriptivism cannot be the correct
+theory of names.  So we should move on to examine Millianism.&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_7&#34;&gt;Millianism&lt;/h2&gt;
+
+&lt;p&gt;The three problems for Descriptivism that I listed above were
+originally presented by Saul Kripke in a series of lectures at
+Princeton in 1972.  Descriptivism was much more widely accepted then
+than it is now, and it was Kripke&amp;rsquo;s lectures that caused philosophers
+to abandon Descriptivism and look for a better theory of names.  Many
+settled on Millianism, which is called that because it was inspired by
+the philosophy of John Stuart Mill.&lt;/p&gt;
+
+&lt;p&gt;According to Millianism, the meaning of a name &lt;em&gt;just is&lt;/em&gt; the
+designation of the name.  The meaning of &amp;ldquo;Harry Potter&amp;rdquo; is nothing
+more than the person designated by that name&amp;mdash;Harry Potter, the
+wizard himself.  Compare this with Descriptivism: according to that
+theory, &amp;ldquo;Harry Potter&amp;rdquo; designates Harry Potter because the meaning of
+the name&amp;mdash;&amp;ldquo;the wizard born to James and Lily Potter on 31 July 1980,
+who survived a Killing Curse cast by Voldemort on Hallowe&amp;rsquo;en in
+1981&amp;rdquo;&amp;mdash;uniquely describes Harry Potter.  According to Millianism,
+&amp;ldquo;Harry Potter&amp;rdquo; designates Harry Potter because the meaning of the name
+just &lt;em&gt;is&lt;/em&gt; Harry Potter.  The meaning of &amp;ldquo;Harry Potter&amp;rdquo; isn&amp;rsquo;t something
+that describes or &lt;em&gt;picks out&lt;/em&gt; that wizard; the meaning &lt;em&gt;is&lt;/em&gt; that
+wizard.&lt;/p&gt;
+
+&lt;p&gt;This theory does not face the three problems that face Descriptivism:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;Understand the meaning of &amp;ldquo;Harry Potter&amp;rdquo; does not require knowing
+anything about Voldemort, if Millianism is true.  Understanding
+&amp;ldquo;Harry Potter&amp;rdquo; just requires knowing who it designates.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Since &amp;ldquo;Harry Potter&amp;rdquo; does &lt;em&gt;not&lt;/em&gt; mean &amp;ldquo;the wizard born to James and
+Lily Potter on 31 July 1980, who survived a Killing Curse cast by
+Voldemort on Hallowe&amp;rsquo;en in 1981&amp;rdquo;, according to Millianism,
+understanding the name &amp;ldquo;Harry Potter&amp;rdquo; not &lt;em&gt;not&lt;/em&gt; involve knowing
+that Harry Potter survived a Killing Curse cast by Voldemort.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;If Millianism is true, then the following are &lt;em&gt;not&lt;/em&gt; equivalent:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&amp;ldquo;It could have been that Harry Potter did &lt;em&gt;not&lt;/em&gt; survive that
+Killing Curse cast by Voldemort.&amp;rdquo;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&amp;ldquo;It could have been that the wizard born to James and Lily Potter
+on 31 July 1980, who survived a Killing Curse cast by Voldemort on
+Hallowe&amp;rsquo;en in 1981 did &lt;em&gt;not&lt;/em&gt; survive that Killing Curse cast by
+Voldemort.&amp;rdquo;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;So there is nothing strange about denying the second while
+agreeing with the first, if Millianism is correct.&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;But while Millianism avoids the problems that plagued Descriptivism,
+it faces its own set of challenges, as we&amp;rsquo;ll see.  But first let&amp;rsquo;s
+look at how the Marauder&amp;rsquo;s Map would function &lt;em&gt;if&lt;/em&gt; Millianism were
+true.&lt;/p&gt;
+
+&lt;h3 id=&#34;toc_8&#34;&gt;How would the Map work in a Millian world?&lt;/h3&gt;
+
+&lt;p&gt;If Millianism is true, what the Marauder&amp;rsquo;s Map has to do in order to
+label its dots is actually very little.  Since the meaning of a name,
+according to Millianism, just is the thing designated by that name,
+when the Map learns the name &amp;ldquo;Harry Potter,&amp;rdquo; what it learns is &lt;em&gt;who
+&amp;ldquo;Harry Potter&amp;rdquo; designates.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;So just learning &amp;ldquo;Harry Potter&amp;rdquo; gives the Map everything it needs to
+pinpoint and label Harry Potter.  Descriptivism gave the Map only a
+description of Harry Potter; Millianism gives the Map Harry Potter
+himself.&lt;/p&gt;
+
+&lt;p&gt;This is great, because we don&amp;rsquo;t have to ask Rowling how the Map can
+investigate who fits the descriptions associated with names.  But
+unfortunately, Millianism has serious problems that make it a less
+attractive theory than you might think.&lt;/p&gt;
+
+&lt;h3 id=&#34;toc_9&#34;&gt;Problems with Millianism&lt;/h3&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;Plenty of people have multiple names.  Alastor Moody is more often
+known as &amp;ldquo;Mad-Eye Moody.&amp;rdquo;  If, like Millianism says, the meaning
+of &amp;ldquo;Alastor Moody&amp;rdquo; and the meaning of &amp;ldquo;Mad-Eye Moody&amp;rdquo; are both
+just the ex-Auror, then they should be completely
+&lt;em&gt;interchangeable.&lt;/em&gt; If you understand one, you understand the
+other.  The problem is that we often don&amp;rsquo;t realize that two names
+designate the same person:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;There are those who&amp;rsquo;ll turn innocent occasions to their
+advantage,&amp;rdquo; Moody retorted in a menacing voice. &amp;ldquo;It&amp;rsquo;s my job to
+think the way Dark wizards do, Karkaroff&amp;mdash;as you ought to
+remember &amp;hellip;&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;&amp;ldquo;Alastor!&amp;rdquo; said Dumbledore warningly.  Harry wondered for a
+moment whom he was speaking to, but then realised &amp;ldquo;Mad-Eye&amp;rdquo;
+could hardly be Moody&amp;rsquo;s real first name (&lt;em&gt;GoF,&lt;/em&gt; chapter 17).&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;But if Millianism was true, then &amp;ldquo;Alastor Moody is Mad-Eye Moody&amp;rdquo;
+is &lt;em&gt;obviously&lt;/em&gt; true, because the two names are synonyms.  If
+Millianism was true, then nobody would &lt;em&gt;ever&lt;/em&gt; disagree with
+&amp;ldquo;Alastor Moody is the Defense Against the Dark Arts teacher at
+Hogwarts&amp;rdquo; while agreeing with &amp;ldquo;Mad-Eye Moody is the Defense
+Against the Dark Arts teacher at Hogwarts.&amp;rdquo;  But before Harry&amp;rsquo;s
+name came out of the Goblet of Fire, he would have done just that.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;If the meaning of &amp;ldquo;Harry Potter&amp;rdquo; is just Harry Potter, then if Harry
+Potter &lt;em&gt;doesn&amp;rsquo;t exist,&lt;/em&gt; the name is meaningless!  If the only
+meaning it has is the person it designates, then if there is no
+person there is no meaning.&lt;/p&gt;
+
+&lt;p&gt;While Harry Potter is alive, while he &lt;em&gt;does&lt;/em&gt; exist, &amp;ldquo;Harry Potter
+doesn&amp;rsquo;t exist&amp;rdquo; is a perfectly meaningful sentence&amp;mdash;except that
+it&amp;rsquo;s false.  But when Harry ceases to exist, there is no longer
+anything for &amp;ldquo;Harry Potter&amp;rdquo; to designate, so &amp;ldquo;Harry Potter doesn&amp;rsquo;t
+exist&amp;rdquo; is &lt;em&gt;not&lt;/em&gt; meaningful, because &amp;ldquo;Harry Potter&amp;rdquo; has quite
+literally lost its meaning.  Just when we would want to say that
+Harry Potter doesn&amp;rsquo;t exist, it seems that we no longer can.&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;These objections are convincing enough for me to think that Millianism
+cannot be the correct theory of names either.  Fortunately we have one
+more candidate that is better than either Descriptivism or Millianism.&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_10&#34;&gt;Nominal Descriptivism&lt;/h2&gt;
+
+&lt;p&gt;The theory of Nominal Descriptivism was given that name by Kent Bach.
+The name makes perfect sense, because this is what the theory says:
+the meaning of any name &lt;em&gt;&amp;ldquo;N&amp;rdquo;&lt;/em&gt; is &amp;ldquo;the thing designated by &lt;em&gt;&amp;lsquo;N.&amp;rsquo;&lt;/em&gt;&amp;ldquo;
+(Since we&amp;rsquo;ve been talking about names of people, from now on we&amp;rsquo;ll say
+&amp;ldquo;the &lt;em&gt;person&lt;/em&gt; designated by &lt;em&gt;&amp;lsquo;N.&amp;rsquo;&lt;/em&gt;&amp;rdquo;)&lt;/p&gt;
+
+&lt;p&gt;That&amp;rsquo;s it!&lt;/p&gt;
+
+&lt;p&gt;As an example, Nominal Descriptivism says that the meaning of &amp;ldquo;Harry
+Potter&amp;rdquo; is &amp;ldquo;the person designated by &amp;lsquo;Harry Potter.&amp;rsquo;&amp;rdquo;  According to
+this theory, the following differ only in length:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;The person designated by &amp;ldquo;Harry Potter&amp;rdquo; lives in the cupboard under
+the stairs of 4 Privet Drive, Little Whinging, Surrey.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Harry Potter lives in the cupboard under the stairs of 4 Privet
+Drive, Little Whinging, Surrey.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;This simple theory avoids the problems that plagued &lt;em&gt;both&lt;/em&gt; (regular)
+Descriptivism and Millianism.&lt;/p&gt;
+
+&lt;h3 id=&#34;toc_11&#34;&gt;How Nominal Descriptivism avoids the Descriptivist problems&lt;/h3&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;Descriptivism required too much.  It said that understanding
+&amp;ldquo;Harry Potter&amp;rdquo; requires knowing not only specific details about
+Harry&amp;rsquo;s history but also that there&amp;rsquo;s someone named &amp;ldquo;Voldemort.&amp;rdquo;
+According to Nominal Descriptivism, to understand what &amp;ldquo;Harry
+Potter&amp;rdquo; means, I don&amp;rsquo;t have to know any specific details about
+Harry Potter or Voldemort or anyone else&amp;mdash;all I have to know is
+that it designates whoever it designates!&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Descriptivism had the bizarre consequence that it&amp;rsquo;s &lt;em&gt;true by
+definition&lt;/em&gt; that Harry Potter survived a Killing Curse.  This
+meant that anyone who understands the name &amp;ldquo;Harry Potter&amp;rdquo; thereby
+knows that Harry survived a Killing Curse, just like anyone who
+understands the word &amp;ldquo;squib&amp;rdquo; knows that squibs don&amp;rsquo;t have magical
+power.  All &lt;em&gt;Nominal Descriptivism&lt;/em&gt; says is that anyone who
+understands &amp;ldquo;Harry Potter&amp;rdquo; thereby knows that Harry Potter is
+designated by &amp;ldquo;Harry Potter.&amp;rdquo;  That&amp;rsquo;s not a bizarre consequence at
+all.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Descriptivism was forced to deny that Harry Potter might not have
+survived that Killing Curse cast by Voldemort, because part of the
+&lt;em&gt;meaning&lt;/em&gt; of &amp;ldquo;Harry Potter&amp;rdquo; was &amp;ldquo;the wizard who survived a Killing
+Curse cast by Voldemort.&amp;rdquo;  As it turns out, Nominal Descriptivism
+denies this too, but for a very different reason.&lt;/p&gt;
+
+&lt;p&gt;Nominal Descriptivism says that the meaning of &amp;ldquo;Harry Potter&amp;rdquo; is
+&amp;ldquo;the person designated by &amp;lsquo;Harry Potter.&amp;rsquo;&amp;rdquo;  That is a &lt;em&gt;definite&lt;/em&gt;
+description, and we saw above that definite descriptions&amp;mdash;like
+&amp;ldquo;the wizard born to James and Lily Potter on 31 July 1980, who
+survived a Killing Curse cast by Voldemort on Hallowe&amp;rsquo;en in
+1981&amp;rdquo;&amp;mdash;are supposed to &lt;em&gt;uniquely&lt;/em&gt; designate someone.  This means
+that the sentence &amp;ldquo;the person designated by &amp;lsquo;Harry Potter&amp;rsquo; lives
+in the cupboard under the stairs of 4 Privet Drive, Little
+Whinging, Surrey&amp;rdquo; is only true, strictly speaking, if there is
+only &lt;em&gt;one&lt;/em&gt; person designated by &amp;ldquo;Harry Potter.&amp;rdquo;  If there is more
+than one person in the world named &amp;ldquo;Harry Potter,&amp;rdquo; then it&amp;rsquo;s
+technically false that the person designated by &amp;lsquo;Harry Potter&amp;rsquo;
+lives in the cupboard under the stairs of 4 Privet Drive, Little
+Whinging, Surrey.  And if Nominal Descriptivism is true, then it&amp;rsquo;s
+likewise &lt;em&gt;false&lt;/em&gt; that Harry Potter lives in the cupboard under the
+stairs of 4 Privet Drive, Little Whinging, Surrey.&lt;/p&gt;
+
+&lt;p&gt;Indeed, pretty much everything said using the name &amp;ldquo;Harry Potter&amp;rdquo;
+will be literally false if there is more than one person named
+&amp;ldquo;Harry Potter.&amp;rdquo;  But this is not as bad as it seems.  A lot of
+what we say is literally false, even though we don&amp;rsquo;t realize it:
+suppose there&amp;rsquo;s a party in Gryffindor Tower and Fred says &amp;ldquo;there&amp;rsquo;s
+no butterbeer&amp;rdquo;.  He&amp;rsquo;s actually saying something false because he&amp;rsquo;s
+denying that there is butterbeer, &lt;em&gt;period.&lt;/em&gt; And surely there&amp;rsquo;s
+butterbeer &lt;em&gt;somewhere;&lt;/em&gt; in the Hogwarts kitchens, in the Three
+Broomsticks, and so on.  But &lt;em&gt;what Fred meant&lt;/em&gt; is that there&amp;rsquo;s no
+butterbeer in Gryffindor Tower.  For the same reason, if Harry
+says &amp;ldquo;I&amp;rsquo;m Harry Potter&amp;rdquo;, he&amp;rsquo;s technically uttering a falsehood,
+but as long as the people he&amp;rsquo;s talking to understand that he&amp;rsquo;s
+referring them to himself (remember that reference is a four-place
+relation between a speaker, audience, name and object), his
+meaning is understood.&lt;/p&gt;
+
+&lt;p&gt;With all this in mind, &amp;ldquo;Harry Potter might not have survived that
+Killing Curse cast by Voldemort&amp;rdquo; is literally false, because there
+are almost certainly multiple people named &amp;ldquo;Harry Potter&amp;rdquo;.  But
+depending on who the speaker intends to &lt;em&gt;refer&lt;/em&gt; to when they say
+that Harry Potter might not have survived that Killing Curse cast
+by Voldemort, what they &lt;em&gt;meant&lt;/em&gt; (&amp;rdquo;&lt;em&gt;he&lt;/em&gt; might not have survived&amp;rdquo;)
+may be true or false.&lt;/p&gt;
+
+&lt;p&gt;(If you still think that this is a big problem for Nominal
+Descriptivism, keep in mind that we never discussed how
+Descriptivism and Millianism deal with multiple people sharing a
+name.  If there is another Harry Potter&amp;mdash;a Muggle, say&amp;mdash;then
+&amp;ldquo;Harry Potter&amp;rdquo; can&amp;rsquo;t just mean &amp;ldquo;the wizard born to &amp;hellip;&amp;rdquo; or just
+Harry Potter the wizard, because what about the other Harry
+Potter(s)?  These theories would have to be tweaked to cope with
+this complication, and these tweaks may end up being just as
+unintuitive.)&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&#34;toc_12&#34;&gt;How Nominal Descriptivism avoids the Millian problems&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;A big problem for Millianism was that it gave us the strange result
+that there&amp;rsquo;s absolutely no difference between names that designate
+the same person&amp;mdash;&amp;ldquo;Mad-Eye Moody&amp;rdquo; and &amp;ldquo;Alastor Moody&amp;rdquo; should be
+interchangeable everywhere.  But if Nominal Descriptivism is
+correct, then &amp;ldquo;Mad-Eye Moody&amp;rdquo; means &amp;ldquo;the person designated by
+&amp;lsquo;Mad-Eye Moody&amp;rsquo;&amp;rdquo; and &amp;ldquo;Alastor Moody&amp;rdquo; means &amp;ldquo;the person designated
+by &amp;lsquo;Alastor Moody.&amp;rsquo;&amp;rdquo;  Now the names are no longer synonymous, and
+there is no mystery as to how Harry could fail to realize that
+Mad-Eye Moody is Alastor Moody.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Millianism also seemed unable to make sense of statements like
+&amp;ldquo;Harry Potter does not exist.&amp;rdquo;  Nominal Descriptivism has no
+problem with these &lt;em&gt;negative existentials:&lt;/em&gt; if Harry Potter means
+&amp;ldquo;the person designated by &amp;lsquo;Harry Potter,&amp;rsquo;&amp;rdquo; then everything becomes
+clear: we are just denying that anyone is designated by &amp;ldquo;Harry
+Potter&amp;rdquo;.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;toc_13&#34;&gt;How does the Map work in a Nominal Descriptivist world?&lt;/h3&gt;
+
+&lt;p&gt;This will actually be more complicated.  Remember that in a (regular)
+Descriptivist world, when the map learns &amp;ldquo;Harry Potter,&amp;rdquo; it learns
+that Harry Potter is the wizard, whoever it is, who was born to James
+and Lily Potter on 31 July 1980, and who survived a Killing Curse cast
+by Voldemort on Hallowe&amp;rsquo;en in 1981.  In a Millian world, the Map
+simply learns who Harry Potter is.  But in our Nominal Descriptivist
+world, all the Map can learn is that the name &amp;ldquo;Harry Potter&amp;rdquo;
+designates whoever it in fact designates.  Not very helpful at all!&lt;/p&gt;
+
+&lt;p&gt;In the Nominal Descriptivist world, unlike the previous worlds we
+examined, learning the meaning of a name does not give you enough
+information to determine who is designated by that name.  So the Map
+will have to look elsewhere for information about who&amp;rsquo;s designated by
+what names.&lt;/p&gt;
+
+&lt;p&gt;Where will we look next?  We&amp;rsquo;ve been trying to figure out a &lt;em&gt;semantic&lt;/em&gt;
+fact: what individual(s) are designated by &amp;ldquo;Harry Potter.&amp;rdquo;  Previously
+we were able to figure this out using another semantic fact&amp;mdash;the
+meaning of &amp;ldquo;Harry Potter.&amp;rdquo;  But now that semantic fact has failed us.
+So we will have to look at &lt;em&gt;metasemantic&lt;/em&gt; facts: in particular, the
+facts about &lt;em&gt;why&lt;/em&gt; &amp;ldquo;Harry Potter&amp;rdquo; designates the individuals it does.
+How did it come to be that Harry Potter (&amp;ldquo;the&amp;rdquo; Harry Potter, the
+wizard, the hero of our stories) came to be designated by &amp;ldquo;Harry
+Potter&amp;rdquo;?  How did he get his name?&lt;/p&gt;
+
+&lt;h4 id=&#34;toc_14&#34;&gt;Semantic and metasemantic facts&lt;/h4&gt;
+
+&lt;p&gt;I mentioned above that Saul Kripke argued against Descriptivism in a
+series of lectures, later published as &lt;em&gt;Naming and Necessity.&lt;/em&gt; An
+important feature of his arguments is that while he insists that the
+meaning of a proper name like &amp;ldquo;Harry Potter&amp;rdquo; cannot be some definite
+description like &amp;ldquo;the wizard who was born to James and Lily Potter on
+31 July 1980 and survived a Killing Curse cast by Voldemort on
+Hallowe&amp;rsquo;en in 1981,&amp;rdquo; he admits (on pages 57&amp;ndash;58) that a description
+like that &lt;em&gt;may&lt;/em&gt; be used to &lt;em&gt;fix the designation&lt;/em&gt; of &amp;ldquo;Harry Potter&amp;rdquo;:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;It seems plausible to suppose that, in some cases, the [designation]
+of a name is indeed fixed &lt;em&gt;via&lt;/em&gt; a description in the same way that
+the metric system was fixed. When [someone] first saw
+Hesperus, he may well have fixed [the designation] by saying, &amp;ldquo;I shall
+use &amp;lsquo;Hesperus&amp;rsquo; as a name of the heavenly body appearing in yonder
+position in the sky.&amp;rdquo; He then fixed the [designation] of &amp;ldquo;Hesperus&amp;rdquo; by
+its apparent celestial position.  Does it then follow that it is a
+part of the &lt;em&gt;meaning&lt;/em&gt; of the name that Hesperus has such and such a
+position at the time in question?  Surely not.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The idea is that there are multiple ways to name something or someone.
+Let&amp;rsquo;s imagine Lily Potter naming her baby.  There are at least two
+different ways she could do it:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;She could say &amp;ldquo;let &amp;lsquo;Harry Potter&amp;rsquo; designate the wizard, whoever it
+is, who was born to James and Lily Potter on 31 July 1980, and who
+survived a Killing Curse cast by Voldemort on Hallowe&amp;rsquo;en in 1981&amp;rdquo;
+(of course, unless she is a Seer, she would not have used that exact
+description).&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;She can point at the baby and say &amp;ldquo;let &lt;em&gt;that&lt;/em&gt; child be named &amp;lsquo;Harry
+Potter.&amp;lsquo;&amp;rdquo;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The important point here is that when Lily says these things, she is
+fixing the designation of &amp;ldquo;Harry Potter,&amp;rdquo; but she is &lt;em&gt;not&lt;/em&gt; giving a
+&lt;em&gt;definition&lt;/em&gt; of &amp;ldquo;Harry Potter.&amp;rdquo;  We&amp;rsquo;ve already seen why &amp;ldquo;Harry Potter&amp;rdquo;
+cannot be defined as meaning &amp;ldquo;the wizard who was born to James and
+Lily Potter on 31 July 1980 and survived a Killing Curse cast by
+Voldemort on Hallowe&amp;rsquo;en in 1981,&amp;rdquo; or as meaning the person himself.&lt;/p&gt;
+
+&lt;p&gt;The fact that Lily fixed the designation of &amp;ldquo;Harry Potter&amp;rdquo; by, let&amp;rsquo;s
+say, pointing and saying &amp;ldquo;that child shall be &amp;lsquo;Harry Potter&amp;rsquo;&amp;rdquo; is
+therefore &lt;em&gt;not&lt;/em&gt; a semantic fact.  It&amp;rsquo;s not a fact that can be
+expressed as &amp;ldquo;&amp;lsquo;Harry Potter&amp;rsquo; means such-and-such&amp;rdquo;, nor can it be
+expressed as &amp;ldquo;&amp;lsquo;Harry Potter&amp;rsquo; designates the so-and-so.&amp;rdquo;  It&amp;rsquo;s a
+&lt;em&gt;metasemantic&lt;/em&gt; fact that tells us &lt;em&gt;about&lt;/em&gt; the semantic facts.  Knowing
+this metasemantic fact, we can then use it to figure out the semantic
+fact that &amp;ldquo;Harry Potter&amp;rdquo; designates the baby that Lily Potter pointed
+at when she said &amp;ldquo;that child shall be &amp;lsquo;Harry Potter.&amp;rsquo;&amp;rdquo;  It&amp;rsquo;s this
+semantic fact that the Map needs to know, in order to label Harry when
+he arrives at Hogwarts.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;We face again the question of how the Map reaches back into the past.
+How can it know for certain when and how a person was named, so that
+it can learn what name they were given?  This is, again, a question
+for another day.  We know what the Map needs to know.  I will not here
+attempt to answer how it might know it.&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_15&#34;&gt;Further reading&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Bach, Kent. &amp;ldquo;Giorgione was so-called because of his name,&amp;rdquo; &lt;em&gt;Noûs&lt;/em&gt;
+volume 36, pages 73&amp;ndash;103.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Hinchliff, Mark. &amp;ldquo;Has the theory of reference rested on a mistake?&amp;rdquo;
+in &lt;em&gt;Reference and Referring,&lt;/em&gt; edited by William Kabasenche, Michael
+O&amp;rsquo;Rourke, and Matthew Slater, MIT Press, 2012.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Kripke, Saul. &lt;em&gt;Naming and Necessity,&lt;/em&gt; Harvard University Press,
+1980.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Lycan, William. &lt;em&gt;Philosophy of Language: A Contemporary
+Introduction,&lt;/em&gt; Routledge, 2008.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>There are ways to stop even a Hufflepuff from finding</title>
@@ -62,7 +839,7 @@ Unplottable&amp;mdash;&amp;rdquo;&lt;/p&gt;
 &lt;p&gt;&amp;ldquo;Well, you can enchant a building so it&amp;rsquo;s impossible to plot on a
 map, can&amp;rsquo;t you?&amp;rdquo;&lt;/p&gt;
 
-&lt;p&gt;&amp;ldquo;Er &amp;hellip; if you say so,&amp;rdquo; said Harry.&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;Er &amp;hellip; if you say so,&amp;rdquo; said Harry (&lt;em&gt;GoF,&lt;/em&gt; chapter 11).&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;I&amp;rsquo;m not really sure how disguising Hogwarts as a ruin will keep out
@@ -88,7 +865,7 @@ Room of Requirement on there!&amp;rdquo;&lt;/p&gt;
 &lt;p&gt;&amp;ldquo;Maybe the Marauders never knew the Room was there,&amp;rdquo; said Ron.&lt;/p&gt;
 
 &lt;p&gt;&amp;ldquo;I think it&amp;rsquo;ll be part of the magic of the Room,&amp;rdquo; said Hermione. &amp;ldquo;If
-you need it to be Unplottable, it will be.&amp;rdquo;&lt;/p&gt;
+you need it to be Unplottable, it will be&amp;rdquo; (&lt;em&gt;HBP,&lt;/em&gt; chapter 21).&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;Setting aside whether the Room &lt;em&gt;is&lt;/em&gt; Unplottable or not, all the
@@ -106,7 +883,7 @@ Sirius said. &amp;ldquo;My father put every security measure known to
 wizardkind on it when he lived here. It&amp;rsquo;s unplottable, so Muggles
 could never come and call&amp;mdash;as if they&amp;rsquo;d ever have wanted to&amp;mdash;and
 now Dumbledore&amp;rsquo;s added his protection, you&amp;rsquo;d be hard put to find a
-safer house anywhere.&amp;rdquo;&lt;/p&gt;
+safer house anywhere&amp;rdquo; (&lt;em&gt;OotP,&lt;/em&gt; chapter 6).&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;As a matter of fact, Sirius can&amp;rsquo;t be right when he says that Muggles
@@ -309,7 +1086,7 @@ would betray that secret seems entirely plausible.&lt;/p&gt;
     </item>
     
     <item>
-      <title>You can&#39;t spell &amp;#8220;OotP&amp;#8221; without &amp;#8220;OTP&amp;#8221;: an essay in Ronbledore apologetics</title>
+      <title>You can&#39;t spell &#8220;OotP&#8221; without &#8220;OTP&#8221;: an essay in Ronbledore apologetics</title>
       <link>http://baruffio.com/v2/p/otp</link>
       <pubDate>Sun, 23 Mar 2014 13:00:00 PDT</pubDate>
       <author>[Alex Dunn]</author>
@@ -348,12 +1125,12 @@ Allow me to draw your attention to two passages.&lt;/p&gt;
 intention to exert his prefect powers over Gregory Goyle:&lt;/p&gt;
 
 &lt;blockquote&gt;
-&lt;p&gt;&amp;lsquo;For heaven’s sake, Ron –&amp;rsquo;&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;For heaven&amp;rdquo;s sake, Ron &amp;mdash;&amp;rdquo;&lt;/p&gt;
 
-&lt;p&gt;‘I’ll make Goyle do lines, it’ll kill him, he hates writing,’ said
-Ron happily. He lowered his voice to Goyle’s low grunt and, screwing
+&lt;p&gt;&amp;ldquo;I&amp;rsquo;ll make Goyle do lines, it&amp;rsquo;ll kill him, he hates writing,&amp;rdquo; said
+Ron happily. He lowered his voice to Goyle&amp;rdquo;s low grunt and, screwing
 up his face in a look of pained concentration, mimed writing in
-midair. &lt;em&gt;‘I … must … not … look … like … a … baboon’s … backside.’&lt;/em&gt;&lt;/p&gt;
+midair. &lt;em&gt;&amp;ldquo;I … must … not … look … like … a … baboon&amp;rdquo;s … backside.&amp;rdquo;&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;Everyone laughed, but nobody laughed harder than Luna Lovegood. She
 let out a scream of mirth that caused Hedwig to wake up and flap her
@@ -361,28 +1138,29 @@ wings indignantly and Crookshanks to leap up into the luggage rack,
 hissing. Luna laughed so hard her magazine slipped out of her grasp,
 slid down her legs and on to the floor.&lt;/p&gt;
 
-&lt;p&gt;&amp;lsquo;That was &lt;em&gt;funny&lt;/em&gt;!&amp;rsquo;&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;That was &lt;em&gt;funny!&lt;/em&gt;&amp;ldquo;&lt;/p&gt;
 
 &lt;p&gt;Her prominent eyes swam with tears as she gasped for breath, staring
 at Ron. Utterly nonplussed, he looked around at the others, who were
-now laughing at the expression on Ron’s face and at the ludicrously
+now laughing at the expression on Ron&amp;rsquo;s face and at the ludicrously
 prolonged laughter of Luna Lovegood, who was rocking backwards and
 forwards, clutching her sides.&lt;/p&gt;
 
-&lt;p&gt;‘Are you taking the mickey?’ said Ron, frowning at her.&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;Are you taking the mickey?&amp;rdquo; said Ron, frowning at her.&lt;/p&gt;
 
-&lt;p&gt;‘Baboon’s … backside!’ she choked, holding her ribs.&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;Baboon&amp;rsquo;s … backside!&amp;rdquo; she choked, holding her ribs (&lt;em&gt;OotP,&lt;/em&gt; chapter
+10).&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;Luna is the only person who truly appreciates Ron&amp;rsquo;s humor.  This point
 is repeated in &lt;em&gt;Half-Blood Prince&lt;/em&gt; (&amp;ldquo;He says very funny things
-sometimes, doesn’t he?&amp;ldquo;), and we also learn that Ron find&amp;rsquo;s Luna&amp;rsquo;s wit
+sometimes, doesn&amp;rdquo;t he?&amp;ldquo;), and we also learn that Ron find&amp;rsquo;s Luna&amp;rsquo;s wit
 equally enchanting:&lt;/p&gt;
 
 &lt;blockquote&gt;
-&lt;p&gt;‘I could hear the match commentary from here,’ said Ron, his voice
-now shaking with laughter. ‘I hope Luna always commentates from now
-on … &lt;em&gt;Loser’s Lurgy&lt;/em&gt; …’&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;I could hear the match commentary from here,&amp;rdquo; said Ron, his voice
+now shaking with laughter. &amp;ldquo;I hope Luna always commentates from now
+on … &lt;em&gt;Loser&amp;rsquo;s Lurgy&lt;/em&gt; … &amp;ldquo; (&lt;em&gt;HBP,&lt;/em&gt; chapter 19)&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;Baboon&amp;rsquo;s backside.  Loser&amp;rsquo;s Lurgy.  Surely, true love.&lt;/p&gt;
@@ -429,25 +1207,25 @@ pursuing Luna Lovegood and winning her hand?&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;What, or who?&lt;/strong&gt;  Attend to this passage from &lt;em&gt;Half-Blood Prince&lt;/em&gt;:&lt;/p&gt;
 
 &lt;blockquote&gt;
-&lt;p&gt;&amp;lsquo;Oh, it’s a Gurdyroot,&amp;rsquo; she said, stuffing the cat litter and the
-toadstool back into her bag. ‘You can keep it if you like, I’ve got
-a few of them. They’re really excellent for warding off Gulping
-Plimpies.’&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;Oh, it&amp;rsquo;s a Gurdyroot,&amp;rdquo; she said, stuffing the cat litter and the
+toadstool back into her bag. &amp;ldquo;You can keep it if you like, I&amp;rsquo;ve got
+a few of them. They&amp;rsquo;re really excellent for warding off Gulping
+Plimpies.&amp;rdquo;&lt;/p&gt;
 
 &lt;p&gt;And she walked away, leaving Ron chortling, still clutching the
 Gurdyroot.&lt;/p&gt;
 
-&lt;p&gt;‘You know, she’s grown on me, Luna,’ he said, as they set off again
-for the Great Hall. ‘I know she’s insane, but it’s in a good –’&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;You know, she&amp;rsquo;s grown on me, Luna,&amp;rdquo; he said, as they set off again
+for the Great Hall. &amp;ldquo;I know she&amp;rdquo;s insane, but it&amp;rdquo;s in a good&amp;mdash;&amp;rdquo;&lt;/p&gt;
 
 &lt;p&gt;He stopped talking very suddenly. Lavender Brown was standing at the
 foot of the marble staircase looking thunderous.&lt;/p&gt;
 
-&lt;p&gt;‘Hi,’ said Ron nervously.&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;Hi,&amp;rdquo; said Ron nervously.&lt;/p&gt;
 
-&lt;p&gt;‘C’mon,’ Harry muttered to Hermione, and they sped past, though not
-before they had heard Lavender say, &amp;lsquo;Why didn’t you tell me you were
-getting out today? And why was &lt;em&gt;she&lt;/em&gt; with you?&amp;rsquo;&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;C&amp;rsquo;mon,&amp;rdquo; Harry muttered to Hermione, and they sped past, though not
+before they had heard Lavender say, &amp;ldquo;Why didn&amp;rsquo;t you tell me you were
+getting out today? And why was &lt;em&gt;she&lt;/em&gt; with you?&amp;rdquo; (&lt;em&gt;HBP,&lt;/em&gt; chapter 20)&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;Are you beginning to understand?  When Lavender says &amp;ldquo;why was &lt;em&gt;she&lt;/em&gt;
@@ -456,17 +1234,18 @@ with you&amp;rdquo;, she is not referring to Hermione.&lt;/p&gt;
 &lt;p&gt;Now look!  Look at this passage from &lt;em&gt;Deathly Hallows&lt;/em&gt;:&lt;/p&gt;
 
 &lt;blockquote&gt;
-&lt;p&gt;&amp;lsquo;I like this song,&amp;rsquo; said Luna, swaying in time to the waltz-like
+&lt;p&gt;&amp;ldquo;I like this song,&amp;rdquo; said Luna, swaying in time to the waltz-like
 tune, and a few seconds later she stood up and glided on to the
 dance floor, where she revolved on the spot, quite alone, eyes
 closed and waving her arms.&lt;/p&gt;
 
-&lt;p&gt;‘She’s great, isn’t she?’ said Ron admiringly. ‘Always good value.’&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;She&amp;rsquo;s great, isn&amp;rsquo;t she?&amp;rdquo; said Ron admiringly. &amp;ldquo;Always good value.&amp;rdquo;&lt;/p&gt;
 
 &lt;p&gt;But the smile vanished from his face at once: Viktor Krum had
-dropped into Luna’s vacant seat. Hermione looked pleasurably
+dropped into Luna&amp;rsquo;s vacant seat. Hermione looked pleasurably
 flustered, but this time Krum had not come to compliment her. With a
-scowl on his face he said, &amp;lsquo;Who is that man in the yellow?&amp;rsquo;&lt;/p&gt;
+scowl on his face he said, &amp;ldquo;Who is that man in the yellow?&amp;rdquo; (&lt;em&gt;DH,&lt;/em&gt;
+chapter 8)&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;Whenever Ron admires Luna, whenever his heart is on the verge of
@@ -483,7 +1262,7 @@ Ronbledore makes: first, his life, and then his love.&lt;/p&gt;
     </item>
     
     <item>
-      <title>There&amp;#8217;s no such thing as the Trace</title>
+      <title>There&#8217;s no such thing as the Trace</title>
       <link>http://baruffio.com/v2/p/trace</link>
       <pubDate>Sun, 23 Mar 2014 12:00:00 PDT</pubDate>
       <author>[Alex Dunn]</author>
@@ -495,6 +1274,9 @@ underage witches and wizards that is used by the Ministry to detect
 illegal spellwork.  The problem is that there is no such thing.&lt;/p&gt;
 
 &lt;h2 id=&#34;toc_0&#34;&gt;What is &amp;ldquo;the Trace&amp;rdquo; supposed to be?&lt;/h2&gt;
+
+&lt;p&gt;The most extended explanation of the Trace is given by Mad-Eye Moody
+in &lt;em&gt;Deathly Hallows:&lt;/em&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;&amp;ldquo;Second problem: you&amp;rsquo;re under-age, which means you&amp;rsquo;ve still got the
@@ -519,8 +1301,8 @@ proper.&amp;rdquo;&lt;/p&gt;
 
 &lt;p&gt;&amp;ldquo;We&amp;rsquo;re going to use the only means of transport left to us, the only
 ones the Trace can&amp;rsquo;t detect, because we don&amp;rsquo;t need to cast spells to
-use them: brooms, Thestrals and Hagrid&amp;rsquo;s motorbike&amp;rdquo; (&lt;em&gt;DH&lt;/em&gt; 40
-[page numbers from the UK Pottermore editions]).&lt;/p&gt;
+use them: brooms, Thestrals and Hagrid&amp;rsquo;s motorbike&amp;rdquo; (&lt;em&gt;DH,&lt;/em&gt; chapter
+4).&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;The Trace apparently allows the Ministry to know &lt;em&gt;something&lt;/em&gt; about the
@@ -561,7 +1343,7 @@ of Warlocks&amp;rsquo; Statute of Secrecy.&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;Improper Use of Magic Office&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;Ministry of Magic&lt;/em&gt;  (&lt;em&gt;CoS&lt;/em&gt; 20)&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Ministry of Magic&lt;/em&gt; (&lt;em&gt;CoS,&lt;/em&gt; chapter 2)&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;But, sadly, this is all a terrible vicious lie.  The Trace does not
@@ -593,7 +1375,7 @@ on Harry&amp;rsquo;s face.  &amp;ldquo;They rely on witch and wizard parents to 
 their offspring&amp;rsquo;s obedience while within their walls.&amp;rdquo;&lt;/p&gt;
 
 &lt;p&gt;&amp;ldquo;Well, that&amp;rsquo;s rubbish,&amp;rdquo; snapped Harry. &amp;ldquo;Look what happened here,
-look what happened to Morfin!&amp;rdquo;&lt;/p&gt;
+look what happened to Morfin!&amp;rdquo; (&lt;em&gt;HBP,&lt;/em&gt; chapter 17)&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;Yes, we basically already knew that because of the Dobby thing.  We
@@ -626,7 +1408,7 @@ the Riddle House incident), Dumbledore says to Harry:&lt;/p&gt;
 &lt;p&gt;&amp;ldquo;I am sure you understood the significance of what we just
 heard.  At the same age as you are now, give or take a few
 months, Tom Riddle was doing all he could to find out how to
-make himself immortal&amp;rdquo; (&lt;em&gt;HBP&lt;/em&gt; 332).&lt;/p&gt;
+make himself immortal&amp;rdquo; (&lt;em&gt;HBP,&lt;/em&gt; chapter 23).&lt;/p&gt;
 &lt;/blockquote&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;The Trace works in strange ways.&lt;/p&gt;
@@ -657,7 +1439,7 @@ still have the Trace on him?&amp;rdquo;&lt;/p&gt;
 relieved. &amp;ldquo;Apart from anything else, they&amp;rsquo;d know for sure Harry
 was here if he still had the Trace on him, wouldn&amp;rsquo;t they? But I
 can&amp;rsquo;t see how they could have tracked you to Tottenham Court
-Road, that&amp;rsquo;s worrying, really worrying&amp;rdquo; (&lt;em&gt;DH&lt;/em&gt; 143).&lt;/p&gt;
+Road, that&amp;rsquo;s worrying, really worrying&amp;rdquo; (&lt;em&gt;DH,&lt;/em&gt; chapter 11).&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;But in the quote at the very beginning of this essay, Moody states
@@ -703,8 +1485,8 @@ believes him to be still residing at Privet Drive:&lt;/p&gt;
 had been changed.&amp;rdquo;&lt;/p&gt;
 
 &lt;p&gt;&amp;ldquo;That is not the Wizengamot&amp;rsquo;s fault,&amp;rdquo; said the voice. &amp;ldquo;An
-owl was sent to you this morning. Take your seat&amp;rdquo; (&lt;em&gt;OotP&lt;/em&gt;
-108).&lt;/p&gt;
+owl was sent to you this morning. Take your seat&amp;rdquo; (&lt;em&gt;OotP,&lt;/em&gt;
+chapter 8).&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;Of course there&amp;rsquo;s some wiggle-room here as well; Fudge and
@@ -723,12 +1505,12 @@ harassment).&lt;/p&gt;&lt;/li&gt;
 
 &lt;p&gt;If the Trace doesn&amp;rsquo;t exist, why does everyone think it does?&lt;/p&gt;
 
-&lt;p&gt;Well, the characters in &lt;em&gt;Harry Potter&lt;/em&gt; are pretty stupid.  Dumbledore
+&lt;p&gt;The characters in &lt;em&gt;Harry Potter&lt;/em&gt; aren&amp;rsquo;t, well, &lt;em&gt;optimally rational&lt;/em&gt;.  Dumbledore
 &lt;em&gt;tells&lt;/em&gt; Harry that underage witches and wizards can do magic in the
 home of an adult witch or wizard, and Harry &lt;em&gt;still&lt;/em&gt; doesn&amp;rsquo;t do magic
 at the Burrow until he turns 17 and gets all excited.  Dumbledore
-nearly allows Katie Bell &lt;em&gt;and&lt;/em&gt; Ron to die because he doesn&amp;rsquo;t feel like
-confronting Malfoy about his whole assassination plan in &lt;em&gt;Half-Blood
+nearly allows Katie Bell &lt;em&gt;and&lt;/em&gt; Ron to die because he can&amp;rsquo;t think of a plausible pretext to
+confront Malfoy about his whole assassination plan in &lt;em&gt;Half-Blood
 Prince&lt;/em&gt;.  Ron never realized he&amp;rsquo;s allowed to do magic at home and
 peels sprouts by hand for 17 years.  Hermione&amp;rsquo;s pretty smart I guess,
 but she doesn&amp;rsquo;t really show a strong understanding of the Trace
@@ -736,8 +1518,8 @@ either.&lt;/p&gt;
 
 &lt;p&gt;So it&amp;rsquo;s not a &lt;em&gt;huge&lt;/em&gt; stretch to assume that it&amp;rsquo;s a lie spread by the
 (equally inept) Ministry to control the magical population.  The
-Ministry is too stupid to actually implement the Trace, and the rest
-are stupid enough to believe in it anyway.&lt;/p&gt;
+Ministry isn&amp;rsquo;t competent enough to actually implement the Trace, but the rest
+are willing to believe in it anyway.&lt;/p&gt;
 
 &lt;p&gt;But questions remain:&lt;/p&gt;
 
@@ -759,13 +1541,19 @@ Phoenix&lt;/em&gt;?&lt;/p&gt;&lt;/li&gt;
 &lt;p&gt;Yeah, I don&amp;rsquo;t like these sorts of conspiracy theories either.  But
 she&amp;rsquo;s always near Privet Drive, and the only not-obviously-canon claim
 I&amp;rsquo;m making is that she works for the Ministry rather than for
-Dumbledore.&lt;/p&gt;
+Dumbledore. (You could even argue that there is textual support for
+this claim.  The tents that Mr. Weasley borrows from his Ministry
+colleague Perkins in &lt;em&gt;GoF&lt;/em&gt; are &amp;ldquo;furnished in exactly the same sort of
+style as Mrs. Figg&amp;rsquo;s&amp;rdquo; apartment (chapter 7), and also smell of cats;
+if Perkins modeled his tents after Figg&amp;rsquo;s apartment, then that
+suggests she is in regular contact with at least one Ministry
+employee.)&lt;/p&gt;
 
-&lt;p&gt;She&amp;mdash;or one of her cats&amp;mdash;saw the Hover Charm (whether or not they
-saw Dobby), saw Marge explode, and saw the Patronus.  She did &lt;em&gt;not&lt;/em&gt;
-see the Weasleys travel to the Dursley&amp;rsquo;s by Floo Powder, or see the
-Advance Guard arrive in &lt;em&gt;OotP&lt;/em&gt;, or Dumbledore in &lt;em&gt;HBP&lt;/em&gt;.  Maybe she was
-asleep.&lt;/p&gt;
+&lt;p&gt;Arabella Figg&amp;mdash;or one of her cats&amp;mdash;saw the Hover Charm (whether or
+not they saw Dobby), saw Marge explode, and saw the Patronus.  She did
+&lt;em&gt;not&lt;/em&gt; see the Weasleys travel to the Dursley&amp;rsquo;s by Floo Powder, or see
+the Advance Guard arrive in &lt;em&gt;OotP&lt;/em&gt;, or Dumbledore in &lt;em&gt;HBP&lt;/em&gt;.  Maybe she
+was asleep.&lt;/p&gt;
 
 &lt;p&gt;Even the books state that she &lt;em&gt;did&lt;/em&gt; see the Patronus, and so she could
 have communicated with the Ministry immediately after (using her own
@@ -790,7 +1578,7 @@ but rather the Ministry is just really bad about following up on the
 instances of magic it detects.  Depending on how the Trace works,
 either they just didn&amp;rsquo;t notice Voldemort&amp;rsquo;s magic performed at the
 Riddle House, or they failed to see that Tonks cast &lt;em&gt;Lumos&lt;/em&gt; and some
-stupid trunk-packing spell when the Advance Guard came to get Harry.
+silly trunk-packing spell when the Advance Guard came to get Harry.
 See, no need to drag poor Mrs Figg into your wild imagination!&amp;rdquo;  (This
 objection is from &lt;a href=&#34;https://twitter.com/zayalhawa&#34; title=&#34;Twitter
 profile&#34;&gt;Aziza&lt;/a&gt;.)&lt;/p&gt;
@@ -836,7 +1624,7 @@ changes owners.&lt;/p&gt;
 
 &lt;p&gt;Well, maybe not &lt;em&gt;exactly.&lt;/em&gt;&lt;/p&gt;
 
-&lt;h2 id=&#34;toc_0&#34;&gt;Disarming for Dummies&lt;/h2&gt;
+&lt;h2 id=&#34;toc_0&#34;&gt;How &lt;em&gt;Expelliarmus&lt;/em&gt; works (maybe)&lt;/h2&gt;
 
 &lt;p&gt;For some reason Harry has to finish He-Who-Must-Not-Be-Named in the
 &lt;em&gt;very same way&lt;/em&gt; that he beats You-Know-Who when he&amp;rsquo;s only a baby;
@@ -863,7 +1651,8 @@ springy. This was the wand of Draco Malfoy.&amp;rdquo;&lt;/p&gt;
 use it safely?&amp;rdquo;&lt;/p&gt;
 
 &lt;p&gt;&amp;ldquo;I think so. Subtle laws govern wand ownership, but the conquered
-wand will usually bend its will to its new master&amp;rdquo; (&lt;em&gt;DH&lt;/em&gt; 334&amp;ndash;335).&lt;/p&gt;
+wand will usually bend its will to its new master&amp;rdquo; (&lt;em&gt;DH,&lt;/em&gt; chapter
+24).&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;If you&amp;rsquo;re prone to fits of charitability, you might think that all
@@ -905,7 +1694,8 @@ in the Hall upon it.&lt;/p&gt;
 
 &lt;p&gt;&amp;ldquo;So it all comes down to this, doesn&amp;rsquo;t it?&amp;rdquo; whispered Harry.  &amp;ldquo;Does
 the wand in your hand know its last master was Disarmed?  Because if
-it does &amp;hellip; I am the true master of the Elder Wand&amp;rdquo; (&lt;em&gt;DH&lt;/em&gt; 497).&lt;/p&gt;
+it does &amp;hellip; I am the true master of the Elder Wand&amp;rdquo; (&lt;em&gt;DH,&lt;/em&gt; chapter
+36).&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;You don&amp;rsquo;t even have to &lt;em&gt;touch&lt;/em&gt; a wand to win it. And not only that,
@@ -926,7 +1716,7 @@ like a giant bird, a young man with golden hair.  In the split
 second that the lantern&amp;rsquo;s light illuminated him, Harry saw the
 delight upon his handsome face, then the intruder shot a Stunning
 Spell from his wand and jumped neatly backwards out of the window
-with a crow of laughter (&lt;em&gt;DH&lt;/em&gt; 194).&lt;/p&gt;
+with a crow of laughter (&lt;em&gt;DH,&lt;/em&gt; chapter 14).&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;Grindelwald wins the Elder Wand by just sneaking into Gregorovitch&amp;rsquo;s
@@ -954,7 +1744,7 @@ Let&amp;rsquo;s write that down:&lt;/p&gt;
 &lt;li&gt;&lt;p&gt;&lt;strong&gt;Gregorovitch&lt;/strong&gt; has nothing.&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;em&gt;DH&lt;/em&gt; 482:&lt;/p&gt;
+&lt;h3 id=&#34;toc_2&#34;&gt;&lt;em&gt;DH,&lt;/em&gt; chapter 35&lt;/h3&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;&amp;ldquo;I think he knew it, I think he knew what frightened me.  I delayed
@@ -972,7 +1762,7 @@ wand.&amp;rdquo;&lt;/p&gt;
 &lt;li&gt;&lt;p&gt;&lt;strong&gt;Grindelwald&lt;/strong&gt; has nothing.  He lost Dumbledore long ago.&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;em&gt;OotP&lt;/em&gt; 476:&lt;/p&gt;
+&lt;h3 id=&#34;toc_3&#34;&gt;&lt;em&gt;OotP,&lt;/em&gt; chapter 28&lt;/h3&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;Snape reacted so fast it was as though he had been expecting an
@@ -990,7 +1780,7 @@ his wand was halfway into the air when James shouted,
 remember?), no Lily.&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;em&gt;DH&lt;/em&gt; 454:&lt;/p&gt;
+&lt;h3 id=&#34;toc_4&#34;&gt;&lt;em&gt;DH,&lt;/em&gt; chapter 33&lt;/h3&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;Then a blinding, jagged jet of white light flew through the air:
@@ -1026,9 +1816,9 @@ wand anymore.&lt;/p&gt;
 &lt;li&gt;&lt;p&gt;&lt;strong&gt;Gregorovitch&lt;/strong&gt; has nothing.&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;toc_2&#34;&gt;&lt;em&gt;Philosopher&amp;rsquo;s Stone&lt;/em&gt;&lt;/h2&gt;
+&lt;h2 id=&#34;toc_5&#34;&gt;&lt;em&gt;Philosopher&amp;rsquo;s Stone&lt;/em&gt;&lt;/h2&gt;
 
-&lt;p&gt;&lt;em&gt;PS&lt;/em&gt; 121:&lt;/p&gt;
+&lt;h3 id=&#34;toc_6&#34;&gt;&lt;em&gt;PS,&lt;/em&gt; chapter 10&lt;/h3&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;Hermione had sunk to the floor in fright; Ron pulled out his own
@@ -1048,9 +1838,9 @@ machine, too. (Ron is pretty mindless, so the club chose well here.)&lt;/p&gt;
 &lt;li&gt;&lt;strong&gt;Ron&lt;/strong&gt; has the troll&amp;rsquo;s club and his own wand.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;toc_3&#34;&gt;&lt;em&gt;Chamber of Secrets&lt;/em&gt;&lt;/h2&gt;
+&lt;h2 id=&#34;toc_7&#34;&gt;&lt;em&gt;Chamber of Secrets&lt;/em&gt;&lt;/h2&gt;
 
-&lt;p&gt;&lt;em&gt;CoS&lt;/em&gt; 130:&lt;/p&gt;
+&lt;h3 id=&#34;toc_8&#34;&gt;&lt;em&gt;CoS,&lt;/em&gt; chapter 11&lt;/h3&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;Both of them swung their wands up and over their shoulders. Snape
@@ -1068,7 +1858,7 @@ floor.&lt;/p&gt;
 &lt;li&gt;&lt;p&gt;&lt;strong&gt;Lockhart&lt;/strong&gt; has nothing but his looks.&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;em&gt;CoS&lt;/em&gt; 162:&lt;/p&gt;
+&lt;h3 id=&#34;toc_9&#34;&gt;&lt;em&gt;CoS&lt;/em&gt; chapter 13&lt;/h3&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;Percy said, &amp;ldquo;As a school Prefect&amp;mdash;&amp;rdquo;, but Harry had lost his temper.
@@ -1083,7 +1873,7 @@ of his hand into the air.  Ron, grinning broadly, caught it.&lt;/p&gt;
 &lt;li&gt;&lt;p&gt;&lt;strong&gt;Draco&lt;/strong&gt; is going to have to buy new books.&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;em&gt;CoS&lt;/em&gt; 200:&lt;/p&gt;
+&lt;h3 id=&#34;toc_10&#34;&gt;&lt;em&gt;CoS,&lt;/em&gt; chapter 16&lt;/h3&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;Harry reached his wand just in time. Lockhart had barely raised his,
@@ -1094,8 +1884,6 @@ Ron caught it, and flung it out of the open window.&lt;/p&gt;
 
 &lt;p&gt;Dang, Lockhart already lost his wands.  Ron is actually throwing
 &lt;em&gt;Snape&amp;rsquo;s&lt;/em&gt; wand out the window.  &lt;strong&gt;No changes&lt;/strong&gt; here.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;CoS&lt;/em&gt; 203:&lt;/p&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;&amp;ldquo;Get up,&amp;rdquo; said Ron sharply, pointing his wand at Lockhart.&lt;/p&gt;
@@ -1117,7 +1905,7 @@ because Harry is pathetic; but who knows, really.&lt;/p&gt;
 &lt;li&gt;&lt;p&gt;&lt;strong&gt;Ron&lt;/strong&gt; has the troll&amp;rsquo;s club.&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;em&gt;CoS&lt;/em&gt; 227:&lt;/p&gt;
+&lt;h3 id=&#34;toc_11&#34;&gt;&lt;em&gt;CoS,&lt;/em&gt; chapter 18&lt;/h3&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;Harry, Ron, Hermione, Fred, George and Ginny got a compartment to
@@ -1170,9 +1958,9 @@ wands, and Draco&amp;rsquo;s books.&lt;/p&gt;&lt;/li&gt;
 &lt;li&gt;&lt;p&gt;&lt;strong&gt;Gregorovitch&lt;/strong&gt; has nothing.&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;toc_4&#34;&gt;&lt;em&gt;Prisoner of Azkaban&lt;/em&gt;&lt;/h2&gt;
+&lt;h2 id=&#34;toc_12&#34;&gt;&lt;em&gt;Prisoner of Azkaban&lt;/em&gt;&lt;/h2&gt;
 
-&lt;p&gt;&lt;em&gt;PoA&lt;/em&gt; 14:&lt;/p&gt;
+&lt;h3 id=&#34;toc_13&#34;&gt;&lt;em&gt;PoA,&lt;/em&gt; chapter 1&lt;/h3&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;&lt;em&gt;I couldn&amp;rsquo;t believe it when Dad won the&lt;/em&gt; Daily Prophet &lt;em&gt;Draw.  Seven
@@ -1190,7 +1978,7 @@ year.&lt;/p&gt;
 &lt;li&gt;&lt;p&gt;&lt;strong&gt;Lockhart&lt;/strong&gt; has Ron&amp;rsquo;s old wand.&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;em&gt;PoA&lt;/em&gt; 221:&lt;/p&gt;
+&lt;h3 id=&#34;toc_14&#34;&gt;&lt;em&gt;PoA,&lt;/em&gt; chapter 17&lt;/h3&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;It was Sirius Black.&lt;/p&gt;
@@ -1213,8 +2001,6 @@ Fred&amp;rsquo;s, George&amp;rsquo;s, Ginny&amp;rsquo;s and his own wands.&lt;/p
 &lt;li&gt;&lt;p&gt;&lt;strong&gt;Ron&lt;/strong&gt; has the troll&amp;rsquo;s club.&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;em&gt;PoA&lt;/em&gt; 222:&lt;/p&gt;
-
 &lt;blockquote&gt;
 &lt;p&gt;But Black&amp;rsquo;s free hand had found Harry&amp;rsquo;s throat&amp;mdash;&lt;/p&gt;
 
@@ -1236,8 +2022,6 @@ Sirius&amp;rsquo; wands, along with his new wand and the troll&amp;rsquo;s club.
 &lt;li&gt;&lt;p&gt;&lt;strong&gt;Sirius&lt;/strong&gt; has nothing.&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;em&gt;PoA&lt;/em&gt; 224:&lt;/p&gt;
-
 &lt;blockquote&gt;
 &lt;p&gt;&amp;ldquo;&lt;em&gt;Expelliarmus!&lt;/em&gt;&amp;rdquo; Lupin shouted.&lt;/p&gt;
 
@@ -1250,7 +2034,7 @@ force from Ron; he still owns them (and Harry&amp;rsquo;s wand), and Lupin
 doesn&amp;rsquo;t disarm &lt;em&gt;him&lt;/em&gt;, so I don&amp;rsquo;t think Lupin wins anything here. He
 wins whatever wands are Hermione&amp;rsquo;s and Harry&amp;rsquo;s, which are none.&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;PoA&lt;/em&gt; 236:&lt;/p&gt;
+&lt;h3 id=&#34;toc_15&#34;&gt;&lt;em&gt;PoA,&lt;/em&gt; chapter 19&lt;/h3&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;Harry made up his mind in a split second. Before Snape could take
@@ -1279,7 +2063,7 @@ wand lands!&lt;/p&gt;
 &lt;li&gt;&lt;p&gt;&lt;strong&gt;Snape&lt;/strong&gt; has nothing.&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;em&gt;PoA&lt;/em&gt; 249:&lt;/p&gt;
+&lt;h3 id=&#34;toc_16&#34;&gt;&lt;em&gt;PoA,&lt;/em&gt; chapter 20&lt;/h3&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;Pettigrew had dived for Lupin&amp;rsquo;s dropped wand. Ron, unsteady on his
@@ -1326,9 +2110,9 @@ Sirius&amp;rsquo; wands, along with his new wand and the troll&amp;rsquo;s club.
 &lt;li&gt;&lt;p&gt;&lt;strong&gt;Gregorovitch&lt;/strong&gt; has nothing.&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;toc_5&#34;&gt;&lt;em&gt;Goblet of Fire&lt;/em&gt;&lt;/h2&gt;
+&lt;h2 id=&#34;toc_17&#34;&gt;&lt;em&gt;Goblet of Fire&lt;/em&gt;&lt;/h2&gt;
 
-&lt;p&gt;&lt;em&gt;GoF&lt;/em&gt; 42:&lt;/p&gt;
+&lt;h3 id=&#34;toc_18&#34;&gt;&lt;em&gt;GoF,&lt;/em&gt; chapter 4&lt;/h3&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;Harry didn&amp;rsquo;t want to miss the fun, but Uncle Vernon&amp;rsquo;s second
@@ -1350,7 +2134,7 @@ tree, because &amp;hellip;&lt;/p&gt;
 &lt;li&gt;&lt;p&gt;&lt;strong&gt;Uncle Vernon&lt;/strong&gt; still has an epic mustache, though.&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;em&gt;GoF&lt;/em&gt; 459:&lt;/p&gt;
+&lt;h3 id=&#34;toc_19&#34;&gt;&lt;em&gt;GoF,&lt;/em&gt; chapter 35&lt;/h3&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;I was starting to fight my father&amp;rsquo;s Imperius Curse.  There were
@@ -1371,7 +2155,7 @@ them. He hasn&amp;rsquo;t read anything since Hermione started doing his
 homework for him in the first year.&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;em&gt;GoF&lt;/em&gt; 423&amp;ndash;424:&lt;/p&gt;
+&lt;h3 id=&#34;toc_20&#34;&gt;&lt;em&gt;GoF,&lt;/em&gt; chapter 31&lt;/h3&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;But it was no use&amp;mdash;the spider was either so large, or so magical,
@@ -1398,7 +2182,7 @@ own body. He finds that he is more comfortable in his own skin and in
 fact has better motor control too. (Now you might say, &amp;ldquo;Alex, that&amp;rsquo;s
 ridiculous.&amp;rdquo;  Yes.  &lt;em&gt;But how else could he survive the graveyard?&lt;/em&gt;)&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;GoF&lt;/em&gt; 444:&lt;/p&gt;
+&lt;h3 id=&#34;toc_21&#34;&gt;&lt;em&gt;GoF,&lt;/em&gt; chapter 34&lt;/h3&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;Voldemort was ready. As Harry shouted &amp;ldquo;&lt;em&gt;Expelliarmus!&lt;/em&gt;&amp;rdquo;, Voldemort
@@ -1422,9 +2206,9 @@ nonsense.  So there are &lt;strong&gt;no changes&lt;/strong&gt; of wand ownershi
 &lt;p&gt;Not enough changes here to do a whole recap of who-owns-what. Let&amp;rsquo;s
 move on.&lt;/p&gt;
 
-&lt;h2 id=&#34;toc_6&#34;&gt;&lt;em&gt;Order of the Phoenix&lt;/em&gt;&lt;/h2&gt;
+&lt;h2 id=&#34;toc_22&#34;&gt;&lt;em&gt;Order of the Phoenix&lt;/em&gt;&lt;/h2&gt;
 
-&lt;p&gt;&lt;em&gt;OotP&lt;/em&gt; 293:&lt;/p&gt;
+&lt;h3 id=&#34;toc_23&#34;&gt;&lt;em&gt;OotP,&lt;/em&gt; chapter 18&lt;/h3&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;The room was suddenly full of shouts of &lt;em&gt;Expelliarmus&lt;/em&gt;.  Wands flew
@@ -1433,8 +2217,6 @@ flying into the air.&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;Oh, shit.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;OotP&lt;/em&gt; 293:&lt;/p&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;Harry was too quick for Neville, whose wand went spinning out of his
@@ -1447,8 +2229,6 @@ Summoning Charm.&lt;/p&gt;
 &lt;li&gt;&lt;strong&gt;Harry&lt;/strong&gt; has Neville&amp;rsquo;s wand and Draco&amp;rsquo;s books.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;em&gt;OotP&lt;/em&gt; 293:&lt;/p&gt;
-
 &lt;blockquote&gt;
 &lt;p&gt;&amp;ldquo;&lt;em&gt;Expelliarmus!&lt;/em&gt;&amp;rdquo; said Neville, and Harry, caught unawares, felt his
 wand fly out of his hand.&lt;/p&gt;
@@ -1459,8 +2239,6 @@ wand fly out of his hand.&lt;/p&gt;
 
 &lt;li&gt;&lt;p&gt;&lt;strong&gt;Harry&lt;/strong&gt; has Draco&amp;rsquo;s books.&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;p&gt;&lt;em&gt;OotP&lt;/em&gt; 293&amp;ndash;294:&lt;/p&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;Something very odd was happening to Zacharias Smith.  Every time he
@@ -1507,8 +2285,6 @@ over his head.&lt;/p&gt;
 &lt;li&gt;&lt;p&gt;&lt;strong&gt;Justin&lt;/strong&gt; has nothing.&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;em&gt;OotP&lt;/em&gt; 295:&lt;/p&gt;
-
 &lt;blockquote&gt;
 &lt;p&gt;&amp;ldquo;That was really, really good, Harry,&amp;rdquo; said Hermione, when finally
 it was just her, Harry and Ron who were left.&lt;/p&gt;
@@ -1522,7 +2298,7 @@ see me disarm Hermione, Harry?&amp;rdquo;&lt;/p&gt;
 cannot apparate half an inch across a room and who nobody likes) is
 due to the fact that he&amp;rsquo;s always got her wand.&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;OotP&lt;/em&gt; 546:&lt;/p&gt;
+&lt;h3 id=&#34;toc_24&#34;&gt;&lt;em&gt;OotP,&lt;/em&gt; chapter 32&lt;/h3&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;&amp;ldquo;Take his wand,&amp;rdquo; she barked at someone he could not see, and he felt
@@ -1547,8 +2323,6 @@ Harry of his homework planner, too; then Draco would get his books
 back!&lt;/p&gt;
 
 &lt;p&gt;Hermione doesn&amp;rsquo;t have shit either.  &lt;strong&gt;No changes!&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;OotP&lt;/em&gt; 546:&lt;/p&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;There was a commotion outside and several large Slytherins entered,
@@ -1582,7 +2356,7 @@ and Sirius&amp;rsquo; wands and Ron&amp;rsquo;s new wand, as well as his own.&lt
 &lt;li&gt;&lt;p&gt;&lt;strong&gt;Luna&lt;/strong&gt; has Justin&amp;rsquo;s hair and his clothes.&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;em&gt;OotP&lt;/em&gt; 559:&lt;/p&gt;
+&lt;h3 id=&#34;toc_25&#34;&gt;&lt;em&gt;OotP,&lt;/em&gt; chapter 33&lt;/h3&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;&amp;ldquo;How did you get away?&amp;rdquo; asked Harry in amazement, taking his wand
@@ -1633,7 +2407,7 @@ well as Justin&amp;rsquo;s hair and clothing.&lt;/p&gt;&lt;/li&gt;
 &lt;li&gt;&lt;p&gt;&lt;strong&gt;Slytherin B&lt;/strong&gt; has nothing.&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;em&gt;OotP&lt;/em&gt; 580:&lt;/p&gt;
+&lt;h3 id=&#34;toc_26&#34;&gt;&lt;em&gt;OotP,&lt;/em&gt; chapter 35&lt;/h3&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;Harry launched himself across the floor and grabbed the Death Eater
@@ -1654,8 +2428,6 @@ plainly horrorstruck by what he had done.&lt;/p&gt;
 &lt;li&gt;&lt;strong&gt;Neville&lt;/strong&gt; has Crabbe&amp;rsquo;s wand and some Death Eater&amp;rsquo;s wand and his
 own.&lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;p&gt;&lt;em&gt;OotP&lt;/em&gt; 582:&lt;/p&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;Harry fell to his knees beside her as Neville crawled rapidly
@@ -1718,9 +2490,9 @@ well as Justin&amp;rsquo;s hair and clothing.&lt;/p&gt;&lt;/li&gt;
 &lt;li&gt;&lt;p&gt;&lt;strong&gt;Gregorovitch&lt;/strong&gt; has nothing.&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;toc_7&#34;&gt;&lt;em&gt;Half-Blood Prince&lt;/em&gt;&lt;/h2&gt;
+&lt;h2 id=&#34;toc_27&#34;&gt;&lt;em&gt;Half-Blood Prince&lt;/em&gt;&lt;/h2&gt;
 
-&lt;p&gt;&lt;em&gt;HBP&lt;/em&gt; 95:&lt;/p&gt;
+&lt;h3 id=&#34;toc_28&#34;&gt;&lt;em&gt;HBP,&lt;/em&gt; chapter 7&lt;/h3&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;&amp;ldquo;Yes, I thought Gran would be angry about all the publicity,&amp;rdquo; said
@@ -1738,7 +2510,7 @@ here, Trevor!&amp;rdquo;&lt;/p&gt;
 &lt;li&gt;&lt;strong&gt;Neville&lt;/strong&gt; has his new wand and does not have Trevor.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;em&gt;HBP&lt;/em&gt; 387&amp;ndash;388:&lt;/p&gt;
+&lt;h3 id=&#34;toc_29&#34;&gt;&lt;em&gt;HBP,&lt;/em&gt; chapter 27&lt;/h3&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;Harry hurried over to the door leading to the spiral staircase, but
@@ -1770,7 +2542,7 @@ own wands.&lt;/p&gt;&lt;/li&gt;
 &lt;li&gt;&lt;p&gt;&lt;strong&gt;Dumbledore&lt;/strong&gt; has nothing.&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;em&gt;HBP&lt;/em&gt; 400:&lt;/p&gt;
+&lt;h3 id=&#34;toc_30&#34;&gt;&lt;em&gt;HBP,&lt;/em&gt; chapter 28&lt;/h3&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;&amp;ldquo;No, Potter!&amp;rdquo; screamed Snape. There was a loud BANG and Harry was
@@ -1795,9 +2567,9 @@ appreciate how J.K. uses all caps to great effect.&lt;/p&gt;
 because not much changed and this damn thing is getting so long. But
 we&amp;rsquo;re almost done!&lt;/p&gt;
 
-&lt;h2 id=&#34;toc_8&#34;&gt;&lt;em&gt;Deathly Hallows&lt;/em&gt;&lt;/h2&gt;
+&lt;h2 id=&#34;toc_31&#34;&gt;&lt;em&gt;Deathly Hallows&lt;/em&gt;&lt;/h2&gt;
 
-&lt;p&gt;&lt;em&gt;DH&lt;/em&gt; 49:&lt;/p&gt;
+&lt;h3 id=&#34;toc_32&#34;&gt;&lt;em&gt;DH,&lt;/em&gt; chapter 4&lt;/h3&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;Harry sent Stunning Spell after Stunning Spell back at their
@@ -1814,8 +2586,6 @@ the strangely blank face of Stanley Shunpike&amp;mdash;Stan&amp;mdash;&lt;/p&gt;
 
 &lt;li&gt;&lt;p&gt;&lt;strong&gt;The youngest-ever Minister of Magic&lt;/strong&gt; has nothing.&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;p&gt;&lt;em&gt;DH&lt;/em&gt; 50:&lt;/p&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;As the pain from Harry&amp;rsquo;s scar forced his eyes shut, his wand acted
@@ -1836,7 +2606,7 @@ sure, but that probably doesn&amp;rsquo;t count.&lt;/p&gt;
 &lt;li&gt;&lt;p&gt;&lt;strong&gt;Voldemort&lt;/strong&gt; has nothing.&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;em&gt;DH&lt;/em&gt; 152:&lt;/p&gt;
+&lt;h3 id=&#34;toc_33&#34;&gt;&lt;em&gt;DH,&lt;/em&gt; chapter 11&lt;/h3&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;Mundungus scrambled up and pulled out his wand; Hermione, however,
@@ -1853,7 +2623,7 @@ was too quick for him.&lt;/p&gt;
 &lt;li&gt;&lt;p&gt;&lt;strong&gt;Mundungus&lt;/strong&gt; still has his pipe.&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;em&gt;DH&lt;/em&gt; 287:&lt;/p&gt;
+&lt;h3 id=&#34;toc_34&#34;&gt;&lt;em&gt;DH,&lt;/em&gt; chapter 21&lt;/h3&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;Xenophilius licked his lips.&lt;/p&gt;
@@ -1874,7 +2644,7 @@ his own wands, as well as Justin&amp;rsquo;s hair and clothing.&lt;/p&gt;&lt;/li
 &lt;li&gt;&lt;p&gt;&lt;strong&gt;Luna&lt;/strong&gt; has nothing.&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;em&gt;DH&lt;/em&gt; 305&amp;ndash;306:&lt;/p&gt;
+&lt;h3 id=&#34;toc_35&#34;&gt;&lt;em&gt;DH,&lt;/em&gt; chapter 23&lt;/h3&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;&amp;ldquo;Get up, vermin.&amp;rdquo;&lt;/p&gt;
@@ -1970,8 +2740,6 @@ well; the truth is sacred.&lt;/p&gt;
 &lt;li&gt;&lt;p&gt;&lt;strong&gt;Greyback&lt;/strong&gt; has nothing.&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;em&gt;DH&lt;/em&gt; 320:&lt;/p&gt;
-
 &lt;blockquote&gt;
 &lt;p&gt;&amp;ldquo;And we&amp;rsquo;ll have that,&amp;rdquo; whispered Ron, tugging Wormtail&amp;rsquo;s wand from
 his other hand.&lt;/p&gt;
@@ -1979,8 +2747,6 @@ his other hand.&lt;/p&gt;
 
 &lt;p&gt;Ollivander says this should work, but Barty Crouch Jr. owns Pettigrew&amp;rsquo;s
 wand, so Ron&amp;rsquo;s out of luck. &lt;strong&gt;No changes.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;DH&lt;/em&gt; 321:&lt;/p&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;Ron had burst into the drawing room; Bellatrix looked round,
@@ -2003,8 +2769,6 @@ have been the true owner of the Elder Wand?)&lt;/p&gt;
 
 &lt;li&gt;&lt;p&gt;&lt;strong&gt;Bellatrix&lt;/strong&gt; has nothing.&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;p&gt;&lt;em&gt;DH&lt;/em&gt; 322:&lt;/p&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;The chandelier crashed to the floor in an explosion of crystal and
@@ -2029,8 +2793,6 @@ Draco was holding his, Bellatrix&amp;rsquo;s, and Pettigrew&amp;rsquo;s wands.&l
 &lt;li&gt;&lt;p&gt;&lt;strong&gt;Draco&lt;/strong&gt; has nothing.&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;em&gt;DH&lt;/em&gt; 322:&lt;/p&gt;
-
 &lt;blockquote&gt;
 &lt;p&gt;&amp;ldquo;Kill him, Cissy!&amp;rdquo; shrieked Bellatrix, but there was another loud
 &lt;em&gt;crack&lt;/em&gt;, and Narcissa&amp;rsquo;s wand, too, flew into the air and landed on the
@@ -2046,7 +2808,7 @@ witch&amp;rsquo;s wand, how dare you defy your masters?&amp;rdquo;&lt;/p&gt;
 &lt;li&gt;&lt;p&gt;&lt;strong&gt;Narcissa&lt;/strong&gt; has nothing.&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;em&gt;DH&lt;/em&gt; 351:&lt;/p&gt;
+&lt;h3 id=&#34;toc_36&#34;&gt;&lt;em&gt;DH,&lt;/em&gt; chapter 26&lt;/h3&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;Mr Ollivander had sent Luna a new wand that morning. She was out on
@@ -2062,7 +2824,7 @@ watching rather gloomily.&lt;/p&gt;
 wands as well as Luna&amp;rsquo;s old wands, and Justin&amp;rsquo;s hair and clothing.&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;em&gt;DH&lt;/em&gt; 425:&lt;/p&gt;
+&lt;h3 id=&#34;toc_37&#34;&gt;&lt;em&gt;DH,&lt;/em&gt; chapter 31&lt;/h3&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;&amp;ldquo;It&amp;rsquo;s that Mudblood! &lt;em&gt;Avada Kedavra!&lt;/em&gt;&amp;ldquo;&lt;/p&gt;
@@ -2098,7 +2860,7 @@ wands.&lt;/p&gt;&lt;/li&gt;
 Crabbe.&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;em&gt;DH&lt;/em&gt; 442:&lt;/p&gt;
+&lt;h3 id=&#34;toc_38&#34;&gt;&lt;em&gt;DH,&lt;/em&gt; chapter 32&lt;/h3&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;&amp;ldquo;&lt;em&gt;Kill&lt;/em&gt;.&amp;rdquo;&lt;/p&gt;
@@ -2127,7 +2889,7 @@ Snape had any non-Elder wands, Voldemort might not have won them here.&lt;/p&gt;
 
 &lt;p&gt;But &lt;strong&gt;no changes&lt;/strong&gt; occur, because neither of these jerks have wands.&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;DH&lt;/em&gt; 489:&lt;/p&gt;
+&lt;h3 id=&#34;toc_39&#34;&gt;&lt;em&gt;DH,&lt;/em&gt; chapter 36&lt;/h3&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;But Voldemort broke off: Harry heard a scuffle and a shout, then
@@ -2153,8 +2915,6 @@ Carrows so much trouble! The son of the Aurors, remember?&amp;rdquo;&lt;/p&gt;
 
 &lt;li&gt;&lt;p&gt;&lt;strong&gt;Neville&lt;/strong&gt; has nothing.&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;p&gt;&lt;em&gt;DH&lt;/em&gt; 497&amp;ndash;498:&lt;/p&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;A red-gold glow burst suddenly across the enchanted sky above them,
@@ -2194,7 +2954,7 @@ wands, and Neville&amp;rsquo;s new wand.&lt;/p&gt;&lt;/li&gt;
 &lt;li&gt;&lt;p&gt;&lt;strong&gt;Voldemort&lt;/strong&gt; has nothing (and is dead).&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;toc_9&#34;&gt;The final tally&lt;/h2&gt;
+&lt;h2 id=&#34;toc_40&#34;&gt;The final tally&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;p&gt;&lt;strong&gt;Harry&lt;/strong&gt; has Goyle&amp;rsquo;s, Dumbledore&amp;rsquo;s, Grindelwald&amp;rsquo;s and Draco&amp;rsquo;s
@@ -2279,8 +3039,6 @@ own.&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;&lt;strong&gt;Gregorovitch&lt;/strong&gt; has nothing.&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;p&gt;(Page numbers are from the Pottermore [UK] ebooks.)&lt;/p&gt;
 </description>
     </item>
     
