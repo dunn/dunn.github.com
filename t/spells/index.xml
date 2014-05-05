@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
       <title>Spells on Baruffio: a blog about Harry Potter — baruffio.com </title>
-    <link>http://baruffio.com/v2/t/spells/index.xml</link>
+    <link>http://baruffio.com/t/spells/index.xml</link>
     <language>en-us</language>
     <author>A Witch or Wizard</author>
     <rights>Copyright the respective author(s); all rights reserved.</rights>
@@ -10,10 +10,10 @@
     
     <item>
       <title>There are ways to stop even a Hufflepuff from finding</title>
-      <link>http://baruffio.com/v2/p/unplottable</link>
+      <link>http://baruffio.com/p/unplottable</link>
       <pubDate>Thu, 21 Nov 2013 14:00:00 -0700</pubDate>
       <author>[Alex Dunn]</author>
-      <guid>http://baruffio.com/v2/p/unplottable</guid>
+      <guid>http://baruffio.com/p/unplottable</guid>
       <description>
 
 &lt;p&gt;In &lt;em&gt;Harry Potter&lt;/em&gt;, places like Hogwarts are hidden from unwelcome eyes
@@ -310,10 +310,10 @@ would betray that secret seems entirely plausible.&lt;/p&gt;
     
     <item>
       <title>There&#8217;s no such thing as the Trace</title>
-      <link>http://baruffio.com/v2/p/trace</link>
+      <link>http://baruffio.com/p/trace</link>
       <pubDate>Wed, 15 May 2013 12:00:00 PDT</pubDate>
       <author>[Alex Dunn]</author>
-      <guid>http://baruffio.com/v2/p/trace</guid>
+      <guid>http://baruffio.com/p/trace</guid>
       <description>
 
 &lt;p&gt;Much is made in &lt;em&gt;Harry Potter&lt;/em&gt; about &amp;ldquo;the Trace&amp;rdquo;, the charm on
@@ -649,10 +649,10 @@ Harry.&lt;/p&gt;
     
     <item>
       <title>The complete guide to wand ownership in &lt;em&gt;Harry Potter&lt;/em&gt;</title>
-      <link>http://baruffio.com/v2/p/wands</link>
+      <link>http://baruffio.com/p/wands</link>
       <pubDate>Thu, 14 Mar 2013 08:00:00 PDT</pubDate>
       <author>[Alex Dunn]</author>
-      <guid>http://baruffio.com/v2/p/wands</guid>
+      <guid>http://baruffio.com/p/wands</guid>
       <description>
 
 &lt;p&gt;Until &lt;em&gt;Deathly Hallows&lt;/em&gt;, we all thought &lt;em&gt;Expelliarmus&lt;/em&gt; was just a

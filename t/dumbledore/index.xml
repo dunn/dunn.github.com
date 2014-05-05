@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
       <title>Dumbledore on Baruffio: a blog about Harry Potter — baruffio.com </title>
-    <link>http://baruffio.com/v2/t/dumbledore/index.xml</link>
+    <link>http://baruffio.com/t/dumbledore/index.xml</link>
     <language>en-us</language>
     <author>A Witch or Wizard</author>
     <rights>Copyright the respective author(s); all rights reserved.</rights>
@@ -10,10 +10,10 @@
     
     <item>
       <title>You can&#39;t spell &#8220;OotP&#8221; without &#8220;OTP&#8221;: an essay in Ronbledore apologetics</title>
-      <link>http://baruffio.com/v2/p/otp</link>
+      <link>http://baruffio.com/p/otp</link>
       <pubDate>Fri, 21 Feb 2014 13:00:00 -0700</pubDate>
       <author>[Alex Dunn]</author>
-      <guid>http://baruffio.com/v2/p/otp</guid>
+      <guid>http://baruffio.com/p/otp</guid>
       <description>
 
 &lt;p&gt;Earlier this month, J.K. Rowling finally admitted that Ron and
