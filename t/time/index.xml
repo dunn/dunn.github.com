@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
       <title>Time on Baruffio: a blog about Harry Potter — baruffio.com </title>
-    <link>http://baruffio.com/v2/t/time/index.xml</link>
+    <link>http://baruffio.com/t/time/index.xml</link>
     <language>en-us</language>
     <author>A Witch or Wizard</author>
     <rights>Copyright the respective author(s); all rights reserved.</rights>
@@ -10,10 +10,10 @@
     
     <item>
       <title>&#8220;It is too late, you understand me?&#8221;: Time travel in &lt;em&gt;Harry Potter&lt;/em&gt;</title>
-      <link>http://baruffio.com/v2/p/time</link>
+      <link>http://baruffio.com/p/time</link>
       <pubDate>Fri, 02 May 2014 00:00:00 PDT</pubDate>
       <author>[Alex Dunn]</author>
-      <guid>http://baruffio.com/v2/p/time</guid>
+      <guid>http://baruffio.com/p/time</guid>
       <description>
 
 &lt;p&gt;Here at &lt;em&gt;Baruffio&lt;/em&gt; we sometimes cast a critical eye on &lt;em&gt;Harry Potter,&lt;/em&gt;
@@ -61,14 +61,14 @@ seen.&lt;/em&gt; Miss Granger, you know the law&amp;mdash;you know what is at st
 
 &lt;p&gt;And so they go back in time, to rescue Buckbeak and Sirius.&lt;/p&gt;
 
-&lt;h2 id=&#34;toc_1&#34;&gt;You must not be seen&lt;/h2&gt;
+&lt;h2 id=&#34;toc_1&#34;&gt;You &lt;em&gt;cannot&lt;/em&gt; be seen&lt;/h2&gt;
 
 &lt;p&gt;What&amp;rsquo;s most interesting about Harry and Hermione&amp;rsquo;s journey through
 time is that &lt;em&gt;they don&amp;rsquo;t actually change the past.&lt;/em&gt; When Hermione
 spins the Time-Turner to send her and Harry back three hours, they&amp;rsquo;ve
-already saved Buckbeak.  It&amp;rsquo;s left deliberately ambiguous the first
-time around, when Hermione, Harry, Ron, and Scabbers leave Hagrid&amp;rsquo;s
-hut just before the execution is supposed to occur&amp;mdash;at sunset:&lt;/p&gt;
+already saved Buckbeak.  Rowling leaves Buckbeak&amp;rsquo;s fate deliberately
+ambiguous the first time around, when Hermione, Harry, Ron, and
+Scabbers leave Hagrid&amp;rsquo;s hut at sundown:&lt;/p&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;The rat was squealing wildly, but not loudly enough to cover up the
@@ -126,10 +126,12 @@ sobs.&lt;/strong&gt;&lt;/p&gt;
 free! Beaky, yeh clever boy!&amp;rdquo; (Chapter 21, my emphasis)&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;Buckbeak had been rescued the whole time.  Harry and Hermione just had
-to go back and do it.&lt;/p&gt;
+&lt;p&gt;It was never true that Buckbeak got executed.  Even when Harry and
+Hermione are under the Invisibility Cloak with Ron and Scabbers, even
+when they &lt;em&gt;think&lt;/em&gt; they are listening to Macnair killing the
+Hippogriff, Buckbeak has already been rescued&amp;mdash;by them!&lt;/p&gt;
 
-&lt;p&gt;It might be easier to get the idea if we look at Harry&amp;rsquo;s Patronus.
+&lt;p&gt;Harry doesn&amp;rsquo;t change the past when he casts his Patronus, either.
 After he, Hermione, Ron, Sirius, Lupin, Snape, and Pettigrew leave the
 Shrieking Shack, the full moon comes out and Lupin transforms into a
 werewolf.  Pettigrew escapes, and everyone is scattered across the
@@ -156,7 +158,8 @@ somebody welcoming it back &amp;hellip; raising his hand to pat it
 &lt;/blockquote&gt;
 
 &lt;p&gt;At first Harry thinks it&amp;rsquo;s his father who saves him, but it isn&amp;rsquo;t, and
-never was.  He saves himself from the Dementors:&lt;/p&gt;
+never was.  In the next chapter, we see that he saves &lt;em&gt;himself&lt;/em&gt; from
+the Dementors:&lt;/p&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;Harry raised his head to look at the circle of Dementors across the
@@ -186,6 +189,8 @@ done it &amp;hellip; Does that make sense?&amp;rdquo;&lt;/p&gt;
 &lt;p&gt;Everything Harry and Hermione do in Chapter 21 had already occurred
 when Hermione spun the Time-Turner three times.  They didn&amp;rsquo;t change
 the past; everything they had to do, they had already done!&lt;/p&gt;
+
+&lt;hr /&gt;
 
 &lt;p&gt;But why didn&amp;rsquo;t they change the past &lt;em&gt;anyway?&lt;/em&gt;  Harry tries to convince
 Hermione to capture Pettigrew while he&amp;rsquo;s still in Hagrid&amp;rsquo;s cabin with
@@ -230,11 +235,11 @@ not dangerous, it&amp;rsquo;s not even &lt;em&gt;possible.&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;Why is it impossible to change the past?  Why, for example, is it
 impossible for Harry to burst into Hagrid&amp;rsquo;s cabin and grab Scabbers?
-One tempting way of explaining this impossibility is by saying
-something like this: &amp;ldquo;Harry didn&amp;rsquo;t burst into Hagrid&amp;rsquo;s cabin the first
-time; otherwise bursting into the cabin wouldn&amp;rsquo;t be changing that
-past.  But that means that the second time around, it&amp;rsquo;s &lt;em&gt;too
-late&lt;/em&gt;&amp;mdash;Harry already didn&amp;rsquo;t burst into Hagrid&amp;rsquo;s cabin.&amp;rdquo;&lt;/p&gt;
+It&amp;rsquo;s tempting to try to explain the impossibility like this: &amp;ldquo;Harry
+didn&amp;rsquo;t burst into Hagrid&amp;rsquo;s cabin the first time; otherwise bursting
+into the cabin wouldn&amp;rsquo;t be changing that past.  But that means that
+the second time around, it&amp;rsquo;s &lt;em&gt;too late&lt;/em&gt;&amp;mdash;Harry already didn&amp;rsquo;t burst
+into Hagrid&amp;rsquo;s cabin.&amp;rdquo;&lt;/p&gt;
 
 &lt;p&gt;This explanation should strike you as odd; what does it mean to say
 that Harry &lt;em&gt;already didn&amp;rsquo;t&lt;/em&gt; burst into the cabin?  Of course he hasn&amp;rsquo;t
@@ -246,8 +251,8 @@ he?&lt;/p&gt;
 right.  To see why, we need to take a quick detour and introduce some
 new terms for talking about time: &amp;ldquo;external time&amp;rdquo; and &amp;ldquo;personal time.&amp;rdquo;
 These terms were coined by David Lewis in his 1976 paper
-&lt;a href=&#34;http://kieranhealy.org/files/misc/lewis-paradoxes.pdf&#34; title=&#34;PDF&#34;&gt;&amp;ldquo;The Paradoxes of Time Travel.&amp;rdquo;&lt;/a&gt; For him, time travel is characterized by &amp;ldquo;a discrepancy between
-time and time&amp;rdquo;:&lt;/p&gt;
+&lt;a href=&#34;http://kieranhealy.org/files/misc/lewis-paradoxes.pdf&#34; title=&#34;PDF&#34;&gt;&amp;ldquo;The Paradoxes of Time Travel.&amp;rdquo;&lt;/a&gt; He proposes that we think about time travel as involving &amp;ldquo;a
+discrepancy between time and time&amp;rdquo;:&lt;/p&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;Any traveler departs and then arrives at his destination; the time
@@ -264,11 +269,11 @@ and his arrival, are separated by two unequal amounts of time?&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;The answer to this riddle requires distinguishing &amp;ldquo;external time&amp;rdquo; from
-&amp;ldquo;personal time.&amp;rdquo;  External time is what is recorded by clock-towers and
-atomic clocks; when Harry and Hermione go back in time, they are going
-back in &lt;em&gt;external time.&lt;/em&gt;  But they are &lt;em&gt;not&lt;/em&gt; going back in &lt;em&gt;personal
-time.&lt;/em&gt;  Personal time is what is recorded by Harry&amp;rsquo;s wristwatch.
-David Lewis gives a good explanation of how external time and personal
+&amp;ldquo;personal time.&amp;rdquo;  External time is what is recorded by clock-towers
+and atomic clocks; when Harry and Hermione go back in time, they are
+going back in &lt;em&gt;external time.&lt;/em&gt; But they are &lt;em&gt;not&lt;/em&gt; going back in
+&lt;em&gt;personal time.&lt;/em&gt; Personal time is what is recorded by Harry&amp;rsquo;s
+wristwatch.  Lewis goes on to explain how external time and personal
 time come apart:&lt;/p&gt;
 
 &lt;blockquote&gt;
@@ -280,10 +285,27 @@ before the departure in external time (or less than an hour after),
 if he travels toward the past.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;In Harry and Hermione&amp;rsquo;s case, the end of their journey (after she
-spins the Time-Turner) is a few seconds &lt;em&gt;after&lt;/em&gt; the beginning of their
-journey, in personal time.  But the end of their journey is three
-hours &lt;em&gt;before&lt;/em&gt; its beginning, in external time.&lt;/p&gt;
+&lt;p&gt;In Harry and Hermione&amp;rsquo;s case, the end of their journey&amp;mdash;when they
+appear in the Entrance Hall&amp;mdash;is a few seconds &lt;em&gt;after&lt;/em&gt; the beginning
+of their journey&amp;mdash;when Hermione spins the Time-Turner in the hospital
+wing&amp;mdash;that is, in &lt;em&gt;personal&lt;/em&gt; time.  But the end of their journey is
+three hours &lt;em&gt;before&lt;/em&gt; its beginning in &lt;em&gt;external&lt;/em&gt; time.&lt;/p&gt;
+
+&lt;p&gt;Another way of getting at the difference between external and personal
+time is this: External time is time in the third person; personal time
+is time in the first person.  External time is the same for everyone;
+if someone (like God) could step back and observe the universe, he
+would watch it progress in external time.  Personal time is not the
+same for everyone; personal time for each person corresponds&amp;mdash;more or
+less&amp;mdash;to their &lt;em&gt;development&lt;/em&gt; through time.  From Harry&amp;rsquo;s perspective,
+he appears in the Entrance Hall a few seconds &lt;em&gt;after&lt;/em&gt; Hermione spins
+the Time-Turner.  He remembers being in the hospital wing immediately
+prior, his watch has only moved a few seconds forward, and the
+physical age of his body is a few seconds older.  (That last bit is
+important: I can be confused about the progress of my own personal
+time, like when I wake up and can&amp;rsquo;t remember how long I&amp;rsquo;ve slept.  But
+my body has aged a certain number of hours, and I&amp;rsquo;ve moved &lt;em&gt;that&lt;/em&gt; many
+hours ahead in personal time.)&lt;/p&gt;
 
 &lt;hr /&gt;
 
@@ -292,17 +314,41 @@ through history, we use personal time.  Harry fainted at the edge of
 the lake, surrounded by Dementors, then woke up in the hospital wing,
 &lt;em&gt;then&lt;/em&gt; went back in time, &lt;em&gt;then&lt;/em&gt; cast the Patronus to save himself.
 Those events all occurred, and they occurred &lt;em&gt;in that order&lt;/em&gt; for
-Harry.  This is just as accurate a way of describing the events at the
-end of &lt;em&gt;PoA&lt;/em&gt; as an external-time description (Harry cast the Patronus
-to save himself, then fainted at the edge of the lake, then woke up in
-the hospital wing, then went back in time).&lt;/p&gt;
+Harry.  And most importantly, this is a &lt;em&gt;perfectly accurate&lt;/em&gt; way of
+describing the events at the end of &lt;em&gt;Prisoner of Azkaban.&lt;/em&gt; It&amp;rsquo;s no
+less accurate than a description of those events in external time.
+(An external-time description would be: Harry cast the Patronus to
+save himself, &lt;em&gt;then&lt;/em&gt; fainted at the edge of the lake, &lt;em&gt;then&lt;/em&gt; woke up
+in the hospital wing, &lt;em&gt;then&lt;/em&gt; went back in time.)&lt;/p&gt;
+
+&lt;p&gt;It&amp;rsquo;s easy to think of external time as &lt;em&gt;objective&lt;/em&gt; and personal time
+as &lt;em&gt;subjective,&lt;/em&gt; external time as &lt;em&gt;primary&lt;/em&gt; and personal time as
+&lt;em&gt;secondary;&lt;/em&gt; but both are equally legitimate.  Personal time isn&amp;rsquo;t
+just our &lt;em&gt;opinion&lt;/em&gt; or &lt;em&gt;feeling&lt;/em&gt; about the passage of time.  Like I
+said above, we can be unsure about how far we&amp;rsquo;ve proceeded in personal
+time: if we are unconscious, we lose the ability to detect the passage
+of time.  But there are other, largely objective, ways to measure how
+far we move forward in personal time.  When you wake up, even if &lt;em&gt;you&lt;/em&gt;
+think you&amp;rsquo;ve only been asleep for a few minutes, your watch might say
+otherwise, and your body will have aged as many hours as you&amp;rsquo;ve been
+asleep.  You&amp;rsquo;ve progressed a certain determinate number of hours in
+personal time.  And &lt;em&gt;that&lt;/em&gt; fact&amp;mdash;that you&amp;rsquo;ve moved forward a number
+of hours in personal time&amp;mdash;is just as &lt;em&gt;objectively true&lt;/em&gt; as the fact
+that you&amp;rsquo;ve moved forward a number of hours in external time.&lt;/p&gt;
+
+&lt;p&gt;When Harry and Hermione go back in time, the &lt;em&gt;fact&lt;/em&gt; that only a few
+seconds of personal time has elapsed for each of them is just as
+objectively true as is the fact that they&amp;rsquo;ve moved backwards three
+hours in external time.&lt;/p&gt;
+
+&lt;hr /&gt;
 
 &lt;p&gt;Now let&amp;rsquo;s go back to our original, tempting explanation of why it&amp;rsquo;s
-impossible to change the past: &lt;em&gt;&amp;ldquo;Harry didn&amp;rsquo;t burst into Hagrid&amp;rsquo;s cabin
-the first time; otherwise bursting into the cabin wouldn&amp;rsquo;t be changing
-that past.  But that means that the second time around, it&amp;rsquo;s&lt;/em&gt; too
-late&amp;mdash;&lt;em&gt;Harry already didn&amp;rsquo;t burst into Hagrid&amp;rsquo;s cabin.&amp;rdquo;&lt;/em&gt;  Let&amp;rsquo;s write
-out the series of events in personal time:&lt;/p&gt;
+impossible to change the past: &lt;em&gt;&amp;ldquo;Harry didn&amp;rsquo;t burst into Hagrid&amp;rsquo;s
+cabin the first time; otherwise bursting into the cabin wouldn&amp;rsquo;t be
+changing that past.  But that means that the second time around, it&amp;rsquo;s&lt;/em&gt;
+too late&amp;mdash;&lt;em&gt;Harry already didn&amp;rsquo;t burst into Hagrid&amp;rsquo;s cabin.&amp;rdquo;&lt;/em&gt; Let&amp;rsquo;s
+write out that series of events in personal time:&lt;/p&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;Harry saw Hermione find Scabbers in Hagrid&amp;rsquo;s cabin; then left the
@@ -314,13 +360,12 @@ suggested to Hermione that they burst into Hagrid&amp;rsquo;s cabin and grab
 the rat.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;Again, these events all occurred, and they occurred &lt;em&gt;in this order&lt;/em&gt;
-for Harry and Hermione.  It&amp;rsquo;s because they occurred in this order that
-when Harry suggests to Hermione that they burst into Hagrid&amp;rsquo;s cabin,
-it&amp;rsquo;s too late.  They &lt;em&gt;already&lt;/em&gt; left the cabin with Scabbers, and
-nobody burst in.  That event occurred long before Harry suggested they
-burst into Hagrid&amp;rsquo;s cabin, and there&amp;rsquo;s nothing they can do about it
-now.&lt;/p&gt;
+&lt;p&gt;Again, these events all occur, and they occur &lt;em&gt;in this order&lt;/em&gt; for
+Harry and Hermione.  It&amp;rsquo;s because they occur in this order that when
+Harry suggests to Hermione that they burst into Hagrid&amp;rsquo;s cabin, it&amp;rsquo;s
+too late.  They &lt;em&gt;already&lt;/em&gt; left the cabin with Scabbers, and nobody
+burst in.  That event occurred long before Harry suggests they burst
+into Hagrid&amp;rsquo;s cabin, and there&amp;rsquo;s nothing they can do about it now.&lt;/p&gt;
 
 &lt;h2 id=&#34;toc_3&#34;&gt;Is the future fixed as well?&lt;/h2&gt;
 
