@@ -1,11 +1,36 @@
-// ============================
-// SASS VARIABLES
-// ============================
+@charset "UTF-8";
+@import "compass";
 
-// ==============
-// DIMENSIONS
-// ==============
-$box-border: .2em;
-//
-$break1-width: 58em;
-$break2-width: 40em;
+@import url(http://fonts.googleapis.com/css?family=Playfair+Display:400,700,400italic,700italic);
+
+/* variables and mixins */
+
+// _normalize.scss
+@import "normalize";
+
+/////// stuff for print and screen
+
+body {
+  font-family: "Playfair Display", serif;
+}
+
+blockquote,
+.slogan,
+dt,
+footer,
+.byline {
+  font-style: italic;
+}
+
+.slogan,
+blockquote {
+  em {
+    font-style: normal;
+  }
+}
+
+a.tag:nth-last-of-type(n+2) {
+  &::after {
+    content: ",";
+  }
+}

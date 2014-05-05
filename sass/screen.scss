@@ -1,0 +1,437 @@
+@charset "UTF-8";
+@import "base";
+
+// ==============
+// DIMENSIONS
+// ==============
+$wide: 10%;
+$wide-stance: 80%;
+$narrow: 5%;
+$tiny: 2%;
+
+$box-border: .2em;
+$thin-border: .125em;
+$default-corner: .25em;
+
+$break1: 1200px;
+$break2: 1050px;
+$break3: 500px;
+
+///////// colors /////
+///////// colors /////
+$adobe: #95422f;
+$stone: #395059;
+$grass: #506e2a;
+$sky: #cabba8;
+$water: #d1dde1;
+
+///////// DECORATION //////////////////
+///////// DECORATION //////////////////
+///////// DECORATION //////////////////
+///////// DECORATION //////////////////
+///////// DECORATION //////////////////
+html {
+  min-height: 1036px;
+  background: $sky url(../img/castle.min.png) no-repeat center bottom scroll;
+  -webkit-background-size: 100%;
+  -moz-background-size: 100%;
+  -o-background-size: 100%;
+  background-size: 100%;
+}
+
+body {
+  background: url(../img/sky.png) no-repeat center top scroll;
+  -webkit-background-size: 100%;
+  -moz-background-size: 100%;
+  -o-background-size: 100%;
+  background-size: 100%;
+}
+
+.page-header {
+  color: $adobe;
+  @include text-shadow($water 1px 1px 0);
+}
+
+article {
+  @include border-radius($default-corner, $default-corner);
+}
+
+section.single footer {
+  border-top: $thin-border solid $adobe;
+  border-top-color: rgba($adobe, .25);
+}
+article + article {
+  border-top: $thin-border solid $sky;
+  border-top-color: rgba(202, 187, 168, .5);
+}
+
+section.about {
+  @include border-radius($default-corner, $default-corner);
+}
+
+section.primary,
+section.single {
+  background-color: $water transparent;
+  background-color: rgba(209, 221, 225, .75);
+  color: $stone;
+  a {
+    color: $grass;
+  }
+  h2,
+  h3,
+  h4 {
+	a {
+    @include text-shadow($sky 1px 1px 0);
+    text-decoration: none;
+	  }
+  }
+  @include border-radius($default-corner, $default-corner);
+}
+
+div.secondary {
+  background-color: $grass;
+  width: 15.95em;
+/* http://css-tricks.com/snippets/css/ribbon/ */
+  &:after {
+    position: relative;
+    bottom: -8em;
+
+    content: "";
+    border: 8em solid;
+  }
+  &:after {
+    border-color: $grass $grass transparent $grass;
+  }
+  color: $sky;
+  a {
+    color: $water;
+    &:hover,
+    &:active,
+    &:visited {
+      color: $water;
+    }
+  }
+}
+
+.page-footer {
+  background-color: $adobe;
+  background-color: rgba(149, 66, 47, .90);
+
+  color: $water;
+  a {
+    color: $sky;
+    &:hover,
+    &:active,
+    &:visited {
+      color: $sky;
+    }
+  }
+}
+p.skiplink {
+  background-color: $stone;
+  a {
+    color: $sky;
+  }
+  color: $sky;
+  font-style: italic;
+  &:before {
+    content: "↯ "
+  }
+  &:after {
+    content: " ↯"
+  }
+}
+h2.author,
+h2.author a,
+h3.pubdate {
+  color: $stone;
+  text-decoration: none;
+}
+
+/* http://unstoppablerobotninja.com/entry/fluid-images/ */
+// /* needs width: 100% in IE stylesheet */
+img,
+object,
+iframe {
+  max-width: 100%;
+  @include border-radius($default-corner, $default-corner);
+}
+img {
+  margin: .5em 0 .5em 0;
+  height: auto;
+  border: $box-border solid $grass;
+}
+hr {
+  border: none;
+  &:before {
+    content: "✽";
+    padding-left: 47%;
+  }
+}
+
+/////////////////////////// LAYOUT ///////////////////////////
+/////////////////////////// LAYOUT ///////////////////////////
+/////////////////////////// LAYOUT ///////////////////////////
+/////////////////////////// LAYOUT ///////////////////////////
+
+.page-header {
+  float: left;
+  width: 55%;
+  padding: 0 1em 0 3em;
+}
+.slogan {
+	margin-top: -1em;
+}
+
+.primary {
+  width: 60%;
+  float: left;
+  margin-bottom: 1em;
+
+  padding-left: 1.5em;
+  padding-right: 1.5em;
+}
+
+main {
+  width: 90%;
+  margin: 0 auto;
+  text-align: center;
+}
+
+section {
+	text-align: left;
+}
+.secondary section {
+  margin-top: 1em;
+}
+section.about {
+  padding-right: 1em;
+  padding-bottom: .1em;
+  padding-left: 1em;
+  h2 {
+    margin-top: .75em;
+    line-height: 100%;
+  }
+}
+section.index {
+  margin-bottom: 1em;
+}
+section.single {
+  padding: .1em 1em;
+}
+
+div.secondary {
+  float: right;
+  margin-left: 1em;
+}
+
+p.skiplink {
+  padding: .125em;
+}
+
+article {
+  margin-top: 1em;
+  h2 {
+    margin-top: .375em;
+  }
+}
+
+.single h1,
+.primary h2 {
+  line-height: 100%;
+}
+
+h2.author {
+  float: left;
+  margin-top: -.125em;
+}
+h3.pubdate {
+  float: right;
+}
+h3.pubdate,
+.submit h2 {
+  margin-top: .25em;
+}
+
+.page-footer {
+  clear: both;
+  text-align: left;
+
+  margin: 1em auto;
+  padding-bottom: 1em;
+  padding-top: .75em;
+  padding-left: 6%;
+  padding-right: 20em;
+
+  p {
+    margin-bottom: 0;
+    margin-top: 0;
+  }
+  ul,
+  li {
+  /* http://www.alistapart.com/articles/taminglists/ */
+    display: inline;
+    margin: 0;
+    padding-left: 0;
+  }
+  li:nth-last-of-type(n+2) {
+    &::after {
+      content: " |";
+    }
+  }
+}
+
+///////// text //////
+///////// text //////
+///////// text //////
+///////// text //////
+///////// text //////
+
+body {
+  font-size: 16pt;
+}
+
+h1 {
+  font-size: 300%;
+}
+
+h2 {
+  font-size: 225%;
+}
+
+h3 {
+  font-size: 150%;
+}
+
+h4 {
+  font-size: 131.25%;
+}
+
+h5,
+h6 {
+  font-size: 112.5%;
+}
+
+//////////////////////// media queries ..................///////////////
+//////////////////////// media queries ..................///////////////
+//////////////////////// media queries ..................///////////////
+@media screen and (min-width: $break2) {
+  .skiplink {
+    position: absolute;
+    left: -999em;
+    /* apparently this second push is for old Opera:
+    /* http://css-tricks.com/snippets/css/accessibilityseo-friendly-css-hiding/ */
+    top: -999px;
+  }
+}
+
+@media screen and (max-width: $break1) {
+  div.secondary {
+    width: 16em;
+  }
+
+  body {
+    font-size: 14pt;
+  }
+  h1 {
+    font-size: 225%;
+  }
+
+  h2 {
+    font-size: 150%;
+  }
+
+  h3 {
+    font-size: 131.25%;
+  }
+
+  h4,
+  h5,
+  h6 {
+    font-size: 112.5%;
+  }
+}
+
+@media screen and (max-width: $break2) {
+  .page-header {
+    clear: both;
+    width: auto;
+    margin: 0;
+    padding: 0 3em;
+  }
+  main {
+    clear: both;
+    width: 100%;
+  }
+  .primary {
+    float: none;
+    width: 80%;
+    margin: 0 auto;
+    padding: .125em 1em;
+  }
+  div.secondary {
+    float: none;
+    width: 100%;
+    margin: 1em 0;
+    padding-top: .1em;
+    padding-bottom: .125em;
+    &:after {
+      bottom: 0;
+      border: none;
+      width: 0;
+    }
+  }
+
+  .page-footer {
+	  padding-right: 6%;
+  }
+
+  body {
+    font-size: 12pt;
+  }
+  h1 {
+    font-size: 171.5%;
+  }
+
+  h2 {
+    font-size: 150%;
+  }
+
+  h3 {
+    font-size: 128.5%;
+  }
+
+  h4,
+  h5,
+  h6 {
+    font-size: 114.3%;
+  }
+}
+
+@media screen and (max-width: $break3) {
+  blockquote {
+    margin: 0 1em;
+  }
+
+  .page-header {
+    padding: 0 1em;
+  }
+  .primary,
+  .secondary {
+    width: auto;
+    margin: 0;
+  }
+  .primary {
+    margin: 0 $tiny;
+  }
+  .shit section.single,
+  .nonsense section.single {
+    border-left: none;
+    border-right: none;
+  }
+  h3.pubdate {
+    float: left;
+    clear: left;
+    margin-top: -1em;
+  }
+}

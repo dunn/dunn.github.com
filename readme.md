@@ -4,5 +4,4 @@ No idea.
 
 # How?
 
-With pandoc and a stupid script called
-[buffalo](http://github.com/grumble/buffalo).
+With [hugo](https://github.com/spf13/hugo).
