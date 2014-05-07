@@ -161,6 +161,9 @@ img {
   height: auto;
   border: $box-border solid $grass;
 }
+img.no-border {
+	border: none;
+}
 hr {
   border: none;
   &:before {
