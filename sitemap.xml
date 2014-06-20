@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://baruffio.com/</loc>
+    <lastmod>2014-06-19T20:00:00-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://baruffio.com/p/names</loc>
+    <lastmod>2014-06-19T20:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://baruffio.com/p/time</loc>
+    <lastmod>2014-05-06T21:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://baruffio.com/p/otp</loc>
+    <lastmod>2014-02-21T13:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://baruffio.com/p/trace</loc>
+    <lastmod>2013-05-15T12:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://baruffio.com/p/wands</loc>
+    <lastmod>2013-03-14T08:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://baruffio.com/p/unplottable</loc>
+    <lastmod>2008-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+</urlset>
