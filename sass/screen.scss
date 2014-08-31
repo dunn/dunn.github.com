@@ -141,6 +141,15 @@ p.skiplink {
     content: " ↯"
   }
 }
+p.browsehappy {
+  background-color: $adobe;
+  a {
+    color: $sky;
+  }
+  color: $sky;
+  font-style: italic;
+}
+
 h2.author,
 h2.author a,
 h3.pubdate {
