@@ -1,20 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-      <title>Harry on Baruffio: a blog about Harry Potter — baruffio.com </title>
-    <link>http://baruffio.com/t/harry/index.xml</link>
-    <language>en-us</language>
-    <author>A Witch or Wizard</author>
-    <rights>Copyright the respective author(s); all rights reserved.</rights>
-    <updated>2013-05-15 12:00:00 -0700 PDT</updated>
-    
-    <item>
-      <title>There&#8217;s no such thing as the Trace</title>
-      <link>http://baruffio.com/p/trace</link>
-      <pubDate>Wed, 15 May 2013 12:00:00 PDT</pubDate>
-      <author>[Alex Dunn]</author>
-      <guid>http://baruffio.com/p/trace</guid>
-      <description>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Harry on Baruffio: a blog about Harry Potter — baruffio.com </title><link>http://baruffio.com/t/harry/index.xml/</link><language>en-us</language><author>A Witch or Wizard</author><rights>Copyright the respective author(s); all rights reserved.</rights><updated>2013-05-15 12:00:00 -0700 PDT</updated><item><title>There&#8217;s no such thing as the Trace</title><link>http://baruffio.com/p/trace/</link><pubDate>Wed, 15 May 2013 12:00:00 PDT</pubDate><author>[Alex Dunn]</author><guid>http://baruffio.com/p/trace/</guid><description>
 
 &lt;p&gt;Much is made in &lt;em&gt;Harry Potter&lt;/em&gt; about &amp;ldquo;the Trace&amp;rdquo;, the charm on
 underage witches and wizards that is used by the Ministry to detect
@@ -344,8 +328,4 @@ Dudley&amp;rsquo;s &lt;em&gt;not&lt;/em&gt; important, though; he already knows 
 seeing &lt;em&gt;more&lt;/em&gt; magic isn&amp;rsquo;t a major breach of the Statute of Secrecy.
 The Ministry just &lt;em&gt;pretends&lt;/em&gt; it is while they&amp;rsquo;re trying to expel
 Harry.&lt;/p&gt;
-</description>
-    </item>
-    
-  </channel>
-</rss>
+</description></item></channel></rss>

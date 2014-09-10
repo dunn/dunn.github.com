@@ -1,20 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-      <title>Wands on Baruffio: a blog about Harry Potter — baruffio.com </title>
-    <link>http://baruffio.com/t/wands/index.xml</link>
-    <language>en-us</language>
-    <author>A Witch or Wizard</author>
-    <rights>Copyright the respective author(s); all rights reserved.</rights>
-    <updated>2013-03-14 08:00:00 -0700 PDT</updated>
-    
-    <item>
-      <title>The complete guide to wand ownership in &lt;em&gt;Harry Potter&lt;/em&gt;</title>
-      <link>http://baruffio.com/p/wands</link>
-      <pubDate>Thu, 14 Mar 2013 08:00:00 PDT</pubDate>
-      <author>[Alex Dunn]</author>
-      <guid>http://baruffio.com/p/wands</guid>
-      <description>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Wands on Baruffio: a blog about Harry Potter — baruffio.com </title><link>http://baruffio.com/t/wands/index.xml/</link><language>en-us</language><author>A Witch or Wizard</author><rights>Copyright the respective author(s); all rights reserved.</rights><updated>2013-03-14 08:00:00 -0700 PDT</updated><item><title>The complete guide to wand ownership in &lt;em&gt;Harry Potter&lt;/em&gt;</title><link>http://baruffio.com/p/wands/</link><pubDate>Thu, 14 Mar 2013 08:00:00 PDT</pubDate><author>[Alex Dunn]</author><guid>http://baruffio.com/p/wands/</guid><description>
 
 &lt;p&gt;Until &lt;em&gt;Deathly Hallows&lt;/em&gt;, we all thought &lt;em&gt;Expelliarmus&lt;/em&gt; was just a
 nifty spell that causes people to drop their wands and sometimes
@@ -1448,8 +1432,4 @@ own.&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;&lt;strong&gt;Gregorovitch&lt;/strong&gt; has nothing.&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
-</description>
-    </item>
-    
-  </channel>
-</rss>
+</description></item></channel></rss>

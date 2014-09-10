@@ -1,20 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-      <title>Maps on Baruffio: a blog about Harry Potter — baruffio.com </title>
-    <link>http://baruffio.com/t/maps/index.xml</link>
-    <language>en-us</language>
-    <author>A Witch or Wizard</author>
-    <rights>Copyright the respective author(s); all rights reserved.</rights>
-    <updated>2014-06-19 20:00:00 -0700 PDT</updated>
-    
-    <item>
-      <title>The Philosopher&#8217;s Stoned: an Opinionated Introduction to Proper Names</title>
-      <link>http://baruffio.com/p/names</link>
-      <pubDate>Thu, 19 Jun 2014 20:00:00 PDT</pubDate>
-      <author>[Alex Dunn]</author>
-      <guid>http://baruffio.com/p/names</guid>
-      <description>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Maps on Baruffio: a blog about Harry Potter — baruffio.com </title><link>http://baruffio.com/t/maps/index.xml/</link><language>en-us</language><author>A Witch or Wizard</author><rights>Copyright the respective author(s); all rights reserved.</rights><updated>2014-06-19 20:00:00 -0700 PDT</updated><item><title>The Philosopher&#8217;s Stoned: an Opinionated Introduction to Proper Names</title><link>http://baruffio.com/p/names/</link><pubDate>Thu, 19 Jun 2014 20:00:00 PDT</pubDate><author>[Alex Dunn]</author><guid>http://baruffio.com/p/names/</guid><description>
 
 &lt;p&gt;Snape was wrong when he suggested that the Marauder&amp;rsquo;s Map is &amp;ldquo;plainly
 full of Dark Magic,&amp;rdquo; but it really is a remarkably powerful artifact
@@ -795,16 +779,7 @@ O&amp;rsquo;Rourke, and Matthew Slater, MIT Press.&lt;/p&gt;&lt;/li&gt;
 &lt;li&gt;&lt;p&gt;Lycan, William (2008). &lt;em&gt;Philosophy of Language: A Contemporary
 Introduction&lt;/em&gt;, Routledge.&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>There are ways to stop even a Hufflepuff from finding</title>
-      <link>http://baruffio.com/p/unplottable</link>
-      <pubDate>Thu, 21 Nov 2013 14:00:00 -0700</pubDate>
-      <author>[Alex Dunn]</author>
-      <guid>http://baruffio.com/p/unplottable</guid>
-      <description>
+</description></item><item><title>There are ways to stop even a Hufflepuff from finding</title><link>http://baruffio.com/p/unplottable/</link><pubDate>Thu, 21 Nov 2013 14:00:00 -0700</pubDate><author>[Alex Dunn]</author><guid>http://baruffio.com/p/unplottable/</guid><description>
 
 &lt;p&gt;In &lt;em&gt;Harry Potter&lt;/em&gt;, places like Hogwarts are hidden from unwelcome eyes
 with a number of protective enchantments.  One of these enchantments
@@ -1095,8 +1070,4 @@ without using a map, that I could then determine the location of
 Hogwarts.  If the purpose of Unplottability is to keep the location of
 a place secret, then a blanket ban on the sorts of inferences that
 would betray that secret seems entirely plausible.&lt;/p&gt;
-</description>
-    </item>
-    
-  </channel>
-</rss>
+</description></item></channel></rss>

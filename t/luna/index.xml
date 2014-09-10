@@ -1,20 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-      <title>Luna on Baruffio: a blog about Harry Potter — baruffio.com </title>
-    <link>http://baruffio.com/t/luna/index.xml</link>
-    <language>en-us</language>
-    <author>A Witch or Wizard</author>
-    <rights>Copyright the respective author(s); all rights reserved.</rights>
-    <updated>2014-02-21 13:00:00 -0700 -0700</updated>
-    
-    <item>
-      <title>You can&#39;t spell &#8220;OotP&#8221; without &#8220;OTP&#8221;: an essay in Ronbledore apologetics</title>
-      <link>http://baruffio.com/p/otp</link>
-      <pubDate>Fri, 21 Feb 2014 13:00:00 -0700</pubDate>
-      <author>[Alex Dunn]</author>
-      <guid>http://baruffio.com/p/otp</guid>
-      <description>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Luna on Baruffio: a blog about Harry Potter — baruffio.com </title><link>http://baruffio.com/t/luna/index.xml/</link><language>en-us</language><author>A Witch or Wizard</author><rights>Copyright the respective author(s); all rights reserved.</rights><updated>2014-02-21 13:00:00 -0700 -0700</updated><item><title>You can&#39;t spell &#8220;OotP&#8221; without &#8220;OTP&#8221;: an essay in Ronbledore apologetics</title><link>http://baruffio.com/p/otp/</link><pubDate>Fri, 21 Feb 2014 13:00:00 -0700</pubDate><author>[Alex Dunn]</author><guid>http://baruffio.com/p/otp/</guid><description>
 
 &lt;p&gt;Earlier this month, J.K. Rowling finally admitted that Ron and
 Hermione should not have ended up together.  While this led us to
@@ -181,8 +165,4 @@ happiness for the sake of the wizarding world.&lt;/p&gt;
 
 &lt;p&gt;Join me now in a moment of silence for the &lt;em&gt;two&lt;/em&gt; great sacrifices
 Ronbledore makes: first, his life, and then his love.&lt;/p&gt;
-</description>
-    </item>
-    
-  </channel>
-</rss>
+</description></item></channel></rss>
